@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Old Leather Suitcase
+Author     = Devin Cook
+About      = Important documents in a classy case
+Date       = 2023-12-21 23:20:47
+Version    = 4.0
+
+[Line]
+Fill       = FF8040
+Border     = DAE6E2
+
+[Page]
+Fill       = 784C34
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Breakpoint]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Comment]
+Fill       = 784C34
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Input]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Output]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Declare]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Assign]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Terminator]
+Fill       = DAE6E2
+Border     = 363834
+Text       = 363834
+
+[Call]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[If]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Incomplete]
+Fill       = 784C34
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Error]
+Fill       = C04040
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Selected]
+Fill       = 2080D0
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Executing]
+Fill       = 00A080
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Window]
+Fill       = 986C54
+Border     = 000000
+Text       = DAE6E2
+
+[Header]
+Fill       = DAE6E2
+Border     = 363834
+Text       = 363834
+
+[Hover]
+Fill       = 986C54
+Border     = 000000
+Text       = DAE6E2
+
+[Integer]
+Fill       = 4060C0
+Border     = DAE6E2
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = DAE6E2
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = DAE6E2
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = DAE6E2
+Text       = FFFFFF
+
+[Value]
+Fill       = 363834
+Text       = DAE6E2
+
+[Subscript]
+Fill       = DAE6E2
+Text       = 363834
+
+[Control]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Field]
+Fill       = DAE6E2
+Border     = 363834
+Text       = 363834
+
+[Active]
+Fill       = DAE6E2
+Border     = 363834
+Text       = 363834
+
+[While]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[For]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Do]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2
+
+[Loop]
+Fill       = 363834
+Border     = DAE6E2
+Text       = DAE6E2

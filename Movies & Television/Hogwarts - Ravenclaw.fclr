@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Ravenclaw
+Author     = J. K. Rowling (file by Devin Cook)
+About      = This color set plays homage to the Harry Potter books and movies. 10 points to Ravenclaw!
+Date       = 2024-01-04 04:26:14
+Version    = 4.0
+
+[Line]
+Fill       = FFC000
+Border     = EAEEF0
+
+[Page]
+Fill       = 003D5F
+Border     = E2AA72
+Text       = EAEEF0
+
+[Breakpoint]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[Comment]
+Fill       = 003D5F
+Border     = EAEEF0
+Text       = EAEEF0
+
+[Input]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[Output]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[Declare]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[Assign]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[Terminator]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[Call]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[If]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[Incomplete]
+Fill       = 003D5F
+Border     = EAEEF0
+Text       = EAEEF0
+
+[Error]
+Fill       = C02020
+Border     = FFFF80
+Text       = FFFF80
+
+[Selected]
+Fill       = 4080FF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00C060
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 004D6F
+Border     = 181818
+Text       = DADCE0
+
+[Header]
+Fill       = FCFCFC
+Border     = 101010
+Text       = 505050
+
+[Hover]
+Fill       = 004D6F
+Border     = DFBF9F
+Text       = DFBF9F
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = DFBF9F
+Text       = 181818
+
+[Control]
+Fill       = 206D8F
+Border     = 000000
+Text       = FCFCFC
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[While]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[For]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[Do]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818
+
+[Loop]
+Fill       = DFBF9F
+Border     = 181818
+Text       = 181818

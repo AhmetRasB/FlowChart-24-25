@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = NES
+Author     = Nintendo (Scheme by Devin Cook)
+About      = These are the colors of the classic Nintendo Entertainment System (NES).
+Date       = 2023-12-21 23:05:45
+Version    = 4.0
+
+[Line]
+Fill       = B43820
+Border     = 343230
+
+[Page]
+Fill       = D6D6D4
+Border     = 605C58
+Text       = CC2608
+
+[Breakpoint]
+Fill       = CC2608
+Border     = 040404
+Text       = 040404
+
+[Comment]
+Fill       = D6D6D4
+Border     = 343230
+Text       = CC2608
+
+[Input]
+Fill       = 605C58
+Border     = 000000
+Text       = D6D6D4
+
+[Output]
+Fill       = CC2608
+Border     = 000000
+Text       = D6D6D4
+
+[Declare]
+Fill       = 605C58
+Border     = 000000
+Text       = D6D6D4
+
+[Assign]
+Fill       = 605C58
+Border     = 000000
+Text       = D6D6D4
+
+[Terminator]
+Fill       = 343230
+Border     = 000000
+Text       = D6D6D4
+
+[Call]
+Fill       = 343230
+Border     = 000000
+Text       = D6D6D4
+
+[If]
+Fill       = 343230
+Border     = 000000
+Text       = D6D6D4
+
+[Incomplete]
+Fill       = D6D6D4
+Border     = 343230
+Text       = 343230
+
+[Error]
+Fill       = FF1000
+Border     = 000000
+Text       = FFFF80
+
+[Selected]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = 008040
+Border     = 000000
+Text       = D6D6D4
+
+[Window]
+Fill       = D6D6D4
+Border     = 605C58
+Text       = CC2608
+
+[Header]
+Fill       = 000000
+Border     = 000000
+Text       = D6D6D4
+
+[Hover]
+Fill       = E6E6E4
+Border     = 605C58
+Text       = B43820
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 000000
+Border     = D6D6D4
+Text       = D6D6D4
+
+[Field]
+Fill       = FFFFFF
+Border     = 605C58
+Text       = 000000
+
+[Active]
+Fill       = CC2608
+Border     = FFFFFF
+Text       = 000000
+
+[While]
+Fill       = 343230
+Border     = 000000
+Text       = D6D6D4
+
+[For]
+Fill       = 343230
+Border     = 000000
+Text       = D6D6D4
+
+[Do]
+Fill       = 343230
+Border     = 000000
+Text       = D6D6D4
+
+[Loop]
+Fill       = 343230
+Border     = 000000
+Text       = D6D6D4

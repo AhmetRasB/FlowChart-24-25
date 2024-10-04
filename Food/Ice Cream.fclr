@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Icecream
+Author     = Devin Cook
+About      = There are so many flavors at the ice cream parlor. Perhaps 31 options...
+Date       = 2023-12-23 11:17:29
+Version    = 4.0
+
+[Line]
+Fill       = FFA500
+Border     = A0A0A0
+
+[Terminator]
+Fill       = FFC6DA
+Border     = AA3860
+Text       = AA3860
+
+[Page]
+Fill       = FAFAFA
+Border     = 606060
+Text       = 606060
+
+[Breakpoint]
+Fill       = FFC6DA
+Border     = A93860
+Text       = A93860
+
+[Comment]
+Fill       = FAFAFA
+Border     = 606060
+Text       = 606060
+
+[Input]
+Fill       = FEF6CA
+Border     = 908856
+Text       = 908856
+
+[Output]
+Fill       = DA9C7A
+Border     = 60483C
+Text       = 60483C
+
+[Declare]
+Fill       = C2F2D0
+Border     = 499060
+Text       = 499060
+
+[Assign]
+Fill       = C2F2D0
+Border     = 499060
+Text       = 499060
+
+[Call]
+Fill       = FFC6DA
+Border     = AA3860
+Text       = AA3860
+
+[If]
+Fill       = FFC6DA
+Border     = AA3860
+Text       = AA3860
+
+[While]
+Fill       = FFDC96
+Border     = 926830
+Text       = 926830
+
+[For]
+Fill       = FFDC96
+Border     = 926830
+Text       = 926830
+
+[Do]
+Fill       = FFDC96
+Border     = 926830
+Text       = 926830
+
+[Incomplete]
+Fill       = E0E0E0
+Border     = 505050
+Text       = 000000
+
+[Error]
+Fill       = C04040
+Border     = 602020
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 104070
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = 005040
+Text       = FFFFFF
+
+[Window]
+Fill       = E0F0FF
+Border     = 90A0B0
+Text       = 2C6AA3
+
+[Header]
+Fill       = F4F2F0
+Border     = 848280
+Text       = 848280
+
+[Hover]
+Fill       = F4F4F4
+Border     = A4A4A4
+Text       = A4A4A4
+
+[Integer]
+Fill       = DA9C7A
+Border     = 60483C
+Text       = 60483C
+
+[Real]
+Fill       = C2F2D0
+Border     = 499060
+Text       = 499060
+
+[String]
+Fill       = FFC6DA
+Border     = AA3860
+Text       = AA3860
+
+[Boolean]
+Fill       = FFDC96
+Border     = 926830
+Text       = 926830
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = FEF6CA
+Text       = 908856
+
+[Control]
+Fill       = E0F0FF
+Border     = 90A0B0
+Text       = 2C6AA3
+
+[Active]
+Fill       = F4F2F0
+Border     = 848280
+Text       = 848280
+
+[Field]
+Fill       = FFFFFF
+Border     = 606060
+Text       = 606060
+
+[Loop]
+Fill       = FFDC96
+Border     = 926830
+Text       = 926830

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = TRON
+Author     = Disney
+About      = The classic 1982 movie and the 2010 sequel. Chaos... good news!
+Date       = 2023-12-22 14:10:35
+Version    = 4.0
+
+[Line]
+Fill       = FFE434
+Border     = A0A0A0
+
+[Terminator]
+Fill       = 181818
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Page]
+Fill       = 000000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = 282828
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Comment]
+Fill       = 042428
+Border     = 84E6F4
+Text       = 84E6F4
+
+[Input]
+Fill       = 2A0000
+Border     = FF6060
+Text       = FF6060
+
+[Output]
+Fill       = 042428
+Border     = 84E6F4
+Text       = 84E6F4
+
+[Declare]
+Fill       = 2A0000
+Border     = FF6060
+Text       = FF6060
+
+[Assign]
+Fill       = 2A0000
+Border     = FF6060
+Text       = FF6060
+
+[Call]
+Fill       = 181818
+Border     = E8E8E8
+Text       = E8E8E8
+
+[If]
+Fill       = 181818
+Border     = E8E8E8
+Text       = E8E8E8
+
+[While]
+Fill       = 2C2600
+Border     = FFE434
+Text       = FFE434
+
+[For]
+Fill       = 2C2600
+Border     = FFE434
+Text       = FFE434
+
+[Do]
+Fill       = 2C2600
+Border     = FFE434
+Text       = FFE434
+
+[Incomplete]
+Fill       = 000000
+Border     = A0A0A0
+Text       = A0A0A0
+
+[Error]
+Fill       = FF6060
+Border     = 303030
+Text       = 303030
+
+[Selected]
+Fill       = 84E6F4
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = FFE434
+Border     = 000000
+Text       = 000000
+
+[Window]
+Fill       = 303030
+Border     = 000000
+Text       = F0F0F0
+
+[Header]
+Fill       = 303030
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Hover]
+Fill       = 303030
+Border     = 808080
+Text       = E8E8E8
+
+[Integer]
+Fill       = 042428
+Border     = 84E6F4
+Text       = 84E6F4
+
+[Real]
+Fill       = 280428
+Border     = F484F4
+Text       = F484F4
+
+[String]
+Fill       = 2A0000
+Border     = FF6060
+Text       = FF6060
+
+[Boolean]
+Fill       = 181818
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Value]
+Fill       = 000000
+Text       = E8E8E8
+
+[Subscript]
+Fill       = 202020
+Text       = E8E8E8
+
+[Control]
+Fill       = 303030
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Active]
+Fill       = A0A0A0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Field]
+Fill       = 181818
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Loop]
+Fill       = 2C2600
+Border     = FFE434
+Text       = FFE434

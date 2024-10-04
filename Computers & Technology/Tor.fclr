@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Tor
+Author     = Anonymous :)
+About      = The colors used by Tor - The Onion Router
+Date       = 2023-12-21 23:13:47
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = 9B83A6
+
+[Page]
+Fill       = 59316B
+Border     = FFFCDB
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = FFFCDB
+Border     = 59316B
+Text       = 59316B
+
+[Comment]
+Fill       = 59316B
+Border     = FFFCDB
+Text       = FFFCDB
+
+[Input]
+Fill       = FFFCDB
+Border     = 59316B
+Text       = 59316B
+
+[Output]
+Fill       = FFFFFF
+Border     = 59316B
+Text       = 59316B
+
+[Declare]
+Fill       = FFFCDB
+Border     = 59316B
+Text       = 59316B
+
+[Assign]
+Fill       = FFFCDB
+Border     = 59316B
+Text       = 59316B
+
+[Terminator]
+Fill       = FFFCDB
+Border     = 59316B
+Text       = 59316B
+
+[Call]
+Fill       = FFFFFF
+Border     = 59316B
+Text       = 59316B
+
+[If]
+Fill       = FFFFFF
+Border     = 59316B
+Text       = 59316B
+
+[Incomplete]
+Fill       = 9B83A6
+Border     = 59316B
+Text       = 000000
+
+[Error]
+Fill       = C04040
+Border     = 000000
+Text       = EAE5EC
+
+[Selected]
+Fill       = ABCD03
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = FFBF00
+Border     = 000000
+Text       = 59316B
+
+[Window]
+Fill       = 674277
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = 9B83A6
+Border     = 59316B
+Text       = FFFFFF
+
+[Hover]
+Fill       = 674277
+Border     = 59316B
+Text       = FFFFFF
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 9B83A6
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = FFFCDB
+Text       = 59316B
+
+[Control]
+Fill       = 9B83A6
+Border     = 000000
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = FFFCDB
+Text       = 000000
+
+[Active]
+Fill       = FFFCDB
+Border     = 59316B
+Text       = 59316B
+
+[While]
+Fill       = FFFFFF
+Border     = 59316B
+Text       = 59316B
+
+[For]
+Fill       = FFFFFF
+Border     = 59316B
+Text       = 59316B
+
+[Do]
+Fill       = FFFFFF
+Border     = 59316B
+Text       = 59316B
+
+[Loop]
+Fill       = FFFFFF
+Border     = 59316B
+Text       = 59316B

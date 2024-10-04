@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Mr. Meeseeks
+Author     = Devin Cook
+About      = Look at me! Create a flowchart? Yessiree! Can do!
+Date       = 2023-12-21 23:31:08
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = 000000
+
+[Page]
+Fill       = 77E1F4
+Border     = 000000
+Text       = 000000
+
+[Breakpoint]
+Fill       = F15C28
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 77E1F4
+Border     = 000000
+Text       = 000000
+
+[Input]
+Fill       = 751F2A
+Border     = 000000
+Text       = ECB5B8
+
+[Output]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = 449BB9
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = 449BB9
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = F15C28
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = F15C28
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = F15C28
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = C0C0C0
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = C00000
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 404040
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A060
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 202020
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = 202020
+Border     = 000000
+Text       = FFFFFF
+
+[Hover]
+Fill       = B0EEF9
+Border     = 075563
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = 449BB9
+Text       = 000000
+
+[Control]
+Fill       = B0EEF9
+Border     = 075563
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = 202020
+Border     = 000000
+Text       = FFFFFF
+
+[While]
+Fill       = F15C28
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = F15C28
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = F15C28
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = F15C28
+Border     = 000000
+Text       = 000000

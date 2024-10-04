@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Atari 400
+Author     = Atari Inc. (Scheme by Devin Cook)
+About      = The colors of the Atari 400 - one of the major computers of the 80's.
+Date       = 2023-12-21 23:03:45
+Version    = 4.0
+
+[Line]
+Fill       = FEB23A
+Border     = B7B4A6
+
+[Page]
+Fill       = 32383A
+Border     = C8BEA6
+Text       = C8BEA6
+
+[Breakpoint]
+Fill       = 581C14
+Border     = ECECEC
+Text       = ECECEC
+
+[Comment]
+Fill       = 32383A
+Border     = C8BEA6
+Text       = ECECEC
+
+[Input]
+Fill       = 685A40
+Border     = ECECEC
+Text       = ECECEC
+
+[Output]
+Fill       = B88434
+Border     = ECECEC
+Text       = ECECEC
+
+[Declare]
+Fill       = 685A40
+Border     = ECECEC
+Text       = ECECEC
+
+[Assign]
+Fill       = 685A40
+Border     = ECECEC
+Text       = ECECEC
+
+[Terminator]
+Fill       = B88434
+Border     = ECECEC
+Text       = ECECEC
+
+[Call]
+Fill       = FCD03A
+Border     = F2F2F2
+Text       = 32383A
+
+[If]
+Fill       = FCD03A
+Border     = F2F2F2
+Text       = 32383A
+
+[Incomplete]
+Fill       = 32383A
+Border     = ECECEC
+Text       = ECECEC
+
+[Error]
+Fill       = 581C14
+Border     = ECECEC
+Text       = ECECEC
+
+[Selected]
+Fill       = C8BEA6
+Border     = 000000
+Text       = 32383A
+
+[Executing]
+Fill       = 1C5814
+Border     = ECECEC
+Text       = ECECEC
+
+[Window]
+Fill       = 52585A
+Border     = 32383A
+Text       = ECECEC
+
+[Header]
+Fill       = C8BEA6
+Border     = 363B3E
+Text       = 32383A
+
+[Hover]
+Fill       = 42484A
+Border     = 72787A
+Text       = ECECEC
+
+[Integer]
+Fill       = 4060C0
+Border     = ECECEC
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = ECECEC
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = ECECEC
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = ECECEC
+Text       = FFFFFF
+
+[Value]
+Fill       = 42484A
+Text       = ECECEC
+
+[Subscript]
+Fill       = B88434
+Text       = 32383A
+
+[Control]
+Fill       = C8BEA6
+Border     = 363B3E
+Text       = 32383A
+
+[Field]
+Fill       = 42484A
+Border     = C8BEA6
+Text       = ECECEC
+
+[Active]
+Fill       = B88434
+Border     = ECECEC
+Text       = ECECEC
+
+[While]
+Fill       = FCD03A
+Border     = F2F2F2
+Text       = 32383A
+
+[For]
+Fill       = FCD03A
+Border     = F2F2F2
+Text       = 32383A
+
+[Do]
+Fill       = FCD03A
+Border     = F2F2F2
+Text       = 32383A
+
+[Loop]
+Fill       = FCD03A
+Border     = F2F2F2
+Text       = 32383A

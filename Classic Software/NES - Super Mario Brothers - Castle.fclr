@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Super Mario Brothers - Level 2
+Author     = Devin Cook
+About      = The colors from Level 2 of the NES classic.
+Date       = 2023-12-21 23:10:30
+Version    = 4.0
+
+[Line]
+Fill       = C84C0C
+Border     = FFFFFF
+
+[Page]
+Fill       = 000000
+Border     = C0C0C0
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = D82800
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 000000
+Border     = FFFFFF
+Text       = C0C0C0
+
+[Input]
+Fill       = 00A800
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = FC9838
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = 008088
+Border     = 000000
+Text       = 9CFCF0
+
+[Assign]
+Fill       = 008088
+Border     = 000000
+Text       = 9CFCF0
+
+[Terminator]
+Fill       = C84C0C
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = C84C0C
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = 80D010
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 747474
+Border     = 000000
+Text       = FCFCFC
+
+[Error]
+Fill       = D82800
+Border     = 000000
+Text       = FCFCFC
+
+[Selected]
+Fill       = FCFCFC
+Border     = FCFCFC
+Text       = 000000
+
+[Executing]
+Fill       = F2A58F
+Border     = 000000
+Text       = 000000
+
+[Window]
+Fill       = 202020
+Border     = 808080
+Text       = FCFCFC
+
+[Header]
+Fill       = 9CFCF0
+Border     = 000000
+Text       = 000000
+
+[Hover]
+Fill       = 747474
+Border     = 000000
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 008088
+Border     = 000000
+Text       = 9CFCF0
+
+[Field]
+Fill       = FFFFFF
+Border     = C0C0C0
+Text       = 000000
+
+[Active]
+Fill       = FC9838
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = 80D010
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = 80D010
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = 80D010
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = 80D010
+Border     = 000000
+Text       = 000000

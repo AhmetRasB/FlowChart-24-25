@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Swanson Pyramid of Greatness
+Author     = Parks and Recreation (scheme by Devin Cook)
+About      = "Under my tutelage, you will grow from boys to men. From men into gladiators. And from gladiators into Swansons."
+Date       = 2023-12-21 23:32:06
+Version    = 4.0
+
+[Line]
+Fill       = D6805D
+Border     = 7A2834
+
+[Page]
+Fill       = F5ECE2
+Border     = 950C1C
+Text       = 000000
+
+[Breakpoint]
+Fill       = FF946D
+Border     = 7A2834
+Text       = 000000
+
+[Comment]
+Fill       = F5ECE2
+Border     = 950C1C
+Text       = 000000
+
+[Input]
+Fill       = ACE8FF
+Border     = 7A2834
+Text       = 000000
+
+[Output]
+Fill       = FFFBB8
+Border     = 7A2834
+Text       = 000000
+
+[Declare]
+Fill       = FFC884
+Border     = 7A2834
+Text       = 000000
+
+[Assign]
+Fill       = FFC884
+Border     = 7A2834
+Text       = 000000
+
+[Terminator]
+Fill       = 7A2834
+Border     = 000000
+Text       = F4E1B8
+
+[Call]
+Fill       = 8CE052
+Border     = 7A2834
+Text       = 000000
+
+[If]
+Fill       = FF946D
+Border     = 7A2834
+Text       = 000000
+
+[Incomplete]
+Fill       = F5ECE2
+Border     = 7A2834
+Text       = 000000
+
+[Error]
+Fill       = C04040
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 7A2834
+Border     = 000000
+Text       = F4E1B8
+
+[Executing]
+Fill       = 00A060
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 7A2834
+Border     = 000000
+Text       = F4E1B8
+
+[Header]
+Fill       = 7A2834
+Border     = 000000
+Text       = F4E1B8
+
+[Hover]
+Fill       = EFDBC8
+Border     = 7A2834
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = FFC884
+Text       = 000000
+
+[Control]
+Fill       = EFDBC8
+Border     = 7A2834
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = 950C1C
+Text       = 000000
+
+[Active]
+Fill       = FFC884
+Border     = 7A2834
+Text       = 000000
+
+[While]
+Fill       = FF946D
+Border     = 7A2834
+Text       = 000000
+
+[For]
+Fill       = FF946D
+Border     = 7A2834
+Text       = 000000
+
+[Do]
+Fill       = FF946D
+Border     = 7A2834
+Text       = 000000
+
+[Loop]
+Fill       = FF946D
+Border     = 7A2834
+Text       = 000000

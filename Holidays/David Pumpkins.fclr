@@ -1,0 +1,163 @@
+﻿[Main]
+Name       = David Pumpkins
+Author     = Saturday Night Live
+About      = Any questions?
+Date       = 2023-12-21 23:22:28
+Version    = 4.0
+
+[Line]
+Fill       = F0F0F0
+Border     = FF8020
+
+[Page]
+Fill       = 101010
+Border     = FF8020
+Text       = FF8020
+
+[Breakpoint]
+Fill       = FF8020
+Border     = 101010
+Text       = 101010
+
+[Comment]
+Fill       = 101010
+Border     = FF8020
+Text       = FF8020
+
+[Input]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[Output]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[Declare]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[Assign]
+Fill       = FF8020
+Border     = 141418
+Text       = 141418
+
+[Terminator]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[Call]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[If]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[Incomplete]
+Fill       = 101010
+Border     = FF8020
+Text       = FF8020
+
+[Error]
+Fill       = 800000
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Selected]
+Fill       = F0F0F0
+Border     = 101010
+Text       = 101010
+
+[Executing]
+Fill       = 008000
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Window]
+Fill       = 303030
+Border     = 000000
+Text       = F0F0F0
+
+[Header]
+Fill       = 101010
+Border     = FF8020
+Text       = FF8020
+
+[Hover]
+Fill       = 804010
+Border     = FF8020
+Text       = FF8020
+
+[]
+Fill       = ADD8E6
+Border     = 808080
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = F0F0F0
+Text       = 101010
+
+[Subscript]
+Fill       = FF8020
+Text       = 181818
+
+[Control]
+Fill       = 101010
+Border     = FF8020
+Text       = FF8020
+
+[Field]
+Fill       = F0F0F0
+Border     = FF8020
+Text       = 101010
+
+[Active]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[While]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[For]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[Do]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818
+
+[Loop]
+Fill       = FF8020
+Border     = 181818
+Text       = 181818

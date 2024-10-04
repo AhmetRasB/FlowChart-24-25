@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = iMac 1998
+Author     = Apple Corporation
+About      = The legendary 1998 computer that saved Apple... and without a floppy disk drive!
+Date       = 2023-12-21 23:05:10
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = 71DBE3
+
+[Page]
+Fill       = 0090BC
+Border     = EAEAEC
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = DADDE4
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 0090BC
+Border     = EAEAEC
+Text       = FFFFFF
+
+[Input]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Output]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Declare]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Assign]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Terminator]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Call]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[If]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Incomplete]
+Fill       = 0090BC
+Border     = EAEAEC
+Text       = FFFFFF
+
+[Error]
+Fill       = E03A3C
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 20BDFC
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 62BB47
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 00AACF
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Hover]
+Fill       = 00AACF
+Border     = 002A4F
+Text       = FFFFFF
+
+[Integer]
+Fill       = 009DDC
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 963D97
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = E03A3C
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 62BB47
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 007B91
+
+[Subscript]
+Fill       = DADDE4
+Text       = 4A4D54
+
+[Control]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Field]
+Fill       = FFFFFF
+Border     = EAEAEC
+Text       = 007B91
+
+[Active]
+Fill       = 20BDFC
+Border     = 000000
+Text       = FFFFFF
+
+[While]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[For]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Do]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54
+
+[Loop]
+Fill       = EAEAEC
+Border     = 4A4D54
+Text       = 4A4D54

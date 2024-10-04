@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Battle Chess
+Author     = Artists: Todd Camasta & Bruce Schlickbernd. Company: Interplay Productions
+About      = This classic 1988 game brought fun animation to chess.
+Date       = 2023-12-21 23:09:56
+Version    = 4.0
+
+[Line]
+Fill       = F0E000
+Border     = D0E060
+
+[Page]
+Fill       = 001000
+Border     = D0E060
+Text       = D0E060
+
+[Breakpoint]
+Fill       = E02070
+Border     = E0D0D0
+Text       = E0D0D0
+
+[Comment]
+Fill       = 001000
+Border     = D0E060
+Text       = D0E060
+
+[Input]
+Fill       = E02070
+Border     = E0D0D0
+Text       = E0D0D0
+
+[Output]
+Fill       = D0E060
+Border     = 606000
+Text       = 000000
+
+[Declare]
+Fill       = E02070
+Border     = E0D0D0
+Text       = E0D0D0
+
+[Assign]
+Fill       = E02070
+Border     = E0D0D0
+Text       = E0D0D0
+
+[Terminator]
+Fill       = 3030F0
+Border     = D0D0E0
+Text       = D0D0E0
+
+[Call]
+Fill       = 3030F0
+Border     = D0D0E0
+Text       = D0D0E0
+
+[If]
+Fill       = 3030F0
+Border     = D0D0E0
+Text       = D0D0E0
+
+[Incomplete]
+Fill       = 001000
+Border     = D0E060
+Text       = D0E060
+
+[Error]
+Fill       = FC0000
+Border     = D0E060
+Text       = D0E060
+
+[Selected]
+Fill       = 906030
+Border     = E0D0D0
+Text       = E0D0D0
+
+[Executing]
+Fill       = 007000
+Border     = D0E060
+Text       = D0E060
+
+[Window]
+Fill       = 001000
+Border     = 203020
+Text       = D0E060
+
+[Header]
+Fill       = 707070
+Border     = E0D0D0
+Text       = E0D0D0
+
+[Hover]
+Fill       = 906030
+Border     = E0D0D0
+Text       = E0D0D0
+
+[Integer]
+Fill       = 4060C0
+Border     = D0D0E0
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = D0D0E0
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = D0D0E0
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = D0D0E0
+Text       = FFFFFF
+
+[Value]
+Fill       = 707070
+Text       = E0D0D0
+
+[Subscript]
+Fill       = A0A0A0
+Text       = D0D0E0
+
+[Control]
+Fill       = 707070
+Border     = E0D0D0
+Text       = E0D0D0
+
+[Field]
+Fill       = 707070
+Border     = D0E060
+Text       = E0D0D0
+
+[Active]
+Fill       = D0E060
+Border     = 606000
+Text       = 000000
+
+[While]
+Fill       = 3030F0
+Border     = D0D0E0
+Text       = D0D0E0
+
+[For]
+Fill       = 3030F0
+Border     = D0D0E0
+Text       = D0D0E0
+
+[Do]
+Fill       = 3030F0
+Border     = D0D0E0
+Text       = D0D0E0
+
+[Loop]
+Fill       = 3030F0
+Border     = D0D0E0
+Text       = D0D0E0

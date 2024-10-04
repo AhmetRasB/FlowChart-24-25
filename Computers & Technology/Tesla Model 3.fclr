@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Tesla Model 3
+Author     = Tesla Motors
+About      = The interior of the Tesla 2020 Model 3
+Date       = 2023-12-21 23:13:24
+Version    = 4.0
+
+[Line]
+Fill       = ECC8B0
+Border     = D0D8E0
+
+[Page]
+Fill       = 485462
+Border     = E0E8F0
+Text       = E0E8F0
+
+[Breakpoint]
+Fill       = E2E8F4
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 485462
+Border     = E0E8F0
+Text       = E0E8F0
+
+[Input]
+Fill       = B49278
+Border     = 330F00
+Text       = 080A10
+
+[Output]
+Fill       = E2E8F4
+Border     = 080C10
+Text       = 000000
+
+[Declare]
+Fill       = CCA890
+Border     = 330F00
+Text       = 080A10
+
+[Assign]
+Fill       = CCA890
+Border     = 330F00
+Text       = 080A10
+
+[Terminator]
+Fill       = 080A10
+Border     = E0E8F0
+Text       = E0E8F0
+
+[Call]
+Fill       = D1D2D6
+Border     = 330F00
+Text       = 080A10
+
+[If]
+Fill       = D1D2D6
+Border     = 330F00
+Text       = 080A10
+
+[Incomplete]
+Fill       = 4A525D
+Border     = E0E8F0
+Text       = E0E8F0
+
+[Error]
+Fill       = C04040
+Border     = 080A10
+Text       = E2E8F4
+
+[Selected]
+Fill       = 2080D0
+Border     = 080A10
+Text       = E2E8F4
+
+[Executing]
+Fill       = 00A080
+Border     = 080A10
+Text       = E2E8F4
+
+[Window]
+Fill       = 080A10
+Border     = FFFFFF
+Text       = E0E8F0
+
+[Header]
+Fill       = 080A10
+Border     = E0E8F0
+Text       = E0E8F0
+
+[Hover]
+Fill       = 586472
+Border     = E0E8F0
+Text       = E0E8F0
+
+[Integer]
+Fill       = 4060C0
+Border     = 080A10
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 080A10
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 080A10
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 080A10
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 080A10
+Border     = E0E8F0
+Text       = E0E8F0
+
+[Field]
+Fill       = FFFFFF
+Border     = E0E8F0
+Text       = 000000
+
+[Active]
+Fill       = D1D2D6
+Border     = 330F00
+Text       = 080A10
+
+[While]
+Fill       = D1D2D6
+Border     = 330F00
+Text       = 080A10
+
+[For]
+Fill       = D1D2D6
+Border     = 330F00
+Text       = 080A10
+
+[Do]
+Fill       = D1D2D6
+Border     = 330F00
+Text       = 080A10
+
+[Loop]
+Fill       = D1D2D6
+Border     = 330F00
+Text       = 080A10

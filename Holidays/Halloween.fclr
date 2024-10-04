@@ -1,0 +1,163 @@
+﻿[Main]
+Name       = Halloween
+Author     = Devin Cook
+About      = Happy Halloween!
+Date       = 2023-12-21 23:24:06
+Version    = 4.0
+
+[Line]
+Fill       = FFFF80
+Border     = CA9460
+
+[Page]
+Fill       = 141418
+Border     = 909090
+Text       = 909090
+
+[Breakpoint]
+Fill       = 8A0A0A
+Border     = E04040
+Text       = FF6060
+
+[Comment]
+Fill       = 141418
+Border     = DF8020
+Text       = DF8020
+
+[Input]
+Fill       = 909090
+Border     = E0E0E0
+Text       = E0E0E0
+
+[Output]
+Fill       = CF7010
+Border     = E0C060
+Text       = FFE080
+
+[Declare]
+Fill       = 604020
+Border     = CA9460
+Text       = CA9460
+
+[Assign]
+Fill       = 604020
+Border     = CA9460
+Text       = CA9460
+
+[Terminator]
+Fill       = 505050
+Border     = A0A0A0
+Text       = C0C0C0
+
+[Call]
+Fill       = 8A0A0A
+Border     = E04040
+Text       = FF6060
+
+[If]
+Fill       = 8A0A0A
+Border     = E04040
+Text       = FF6060
+
+[Incomplete]
+Fill       = 141418
+Border     = CA9460
+Text       = CA9460
+
+[Error]
+Fill       = C00000
+Border     = FFFF80
+Text       = FFFF80
+
+[Selected]
+Fill       = F8F8FF
+Border     = A0A0A0
+Text       = 000000
+
+[Executing]
+Fill       = FFFF80
+Border     = 808040
+Text       = 101010
+
+[Window]
+Fill       = 242428
+Border     = 505050
+Text       = F0F0F0
+
+[Header]
+Fill       = 604020
+Border     = CA9460
+Text       = CA9460
+
+[Hover]
+Fill       = 402B15
+Border     = 80552B
+Text       = CA9460
+
+[]
+Fill       = ADD8E6
+Border     = 808080
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 909090
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = A0A0A0
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = A0A0A0
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = A0A0A0
+Text       = FFFFFF
+
+[Value]
+Fill       = 505050
+Text       = C0C0C0
+
+[Subscript]
+Fill       = 909090
+Text       = FFFF80
+
+[Control]
+Fill       = 505050
+Border     = A0A0A0
+Text       = C0C0C0
+
+[Field]
+Fill       = 505050
+Border     = A0A0A0
+Text       = C0C0C0
+
+[Active]
+Fill       = CF7010
+Border     = E0C060
+Text       = FFE080
+
+[While]
+Fill       = 4BA82D
+Border     = C8ECBC
+Text       = C8ECBC
+
+[For]
+Fill       = 4BA82D
+Border     = C8ECBC
+Text       = C8ECBC
+
+[Do]
+Fill       = 4BA82D
+Border     = C8ECBC
+Text       = C8ECBC
+
+[Loop]
+Fill       = 4BA82D
+Border     = C8ECBC
+Text       = C8ECBC

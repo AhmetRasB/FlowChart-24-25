@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Bard's Tale III
+Author     = Interplay Productions
+About      = The main colors of the classic Commodore 64 game.
+Date       = 2023-12-23 01:31:17
+Version    = 4.0
+
+[Line]
+Fill       = CAD488
+Border     = ACACAC
+
+[Page]
+Fill       = 000000
+Border     = ACACAC
+Text       = ACACAC
+
+[Breakpoint]
+Fill       = A2683C
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 000000
+Border     = ACACAC
+Text       = ACACAC
+
+[Input]
+Fill       = A2683C
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = ACACAC
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = A2683C
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = A2683C
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = ACACAC
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = 50469C
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = 50469C
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 626262
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = CC7E76
+Border     = 101010
+Text       = 101010
+
+[Selected]
+Fill       = CAD488
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = 5CAC5E
+Border     = 000000
+Text       = 000000
+
+[Window]
+Fill       = 626262
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = ACACAC
+Border     = 000000
+Text       = 000000
+
+[Hover]
+Fill       = 4A4A4A
+Border     = 000000
+Text       = B2B2B2
+
+[Integer]
+Fill       = 887ECC
+Border     = 000000
+Text       = 000000
+
+[Real]
+Fill       = A058A4
+Border     = 000000
+Text       = 000000
+
+[String]
+Fill       = CC7E76
+Border     = 101010
+Text       = 101010
+
+[Boolean]
+Fill       = 6AC0C6
+Border     = 000000
+Text       = 000000
+
+[Value]
+Fill       = B2B2B2
+Text       = 000000
+
+[Subscript]
+Fill       = 626262
+Text       = FFFFFF
+
+[Control]
+Fill       = B2B2B2
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = B2B2B2
+Border     = B2B2B2
+Text       = 000000
+
+[Active]
+Fill       = 626262
+Border     = 000000
+Text       = FFFFFF
+
+[While]
+Fill       = 50469C
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = 50469C
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = 50469C
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = 50469C
+Border     = 000000
+Text       = 000000

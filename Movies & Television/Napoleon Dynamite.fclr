@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Napoleon Dynamite
+Author     = Devin Cook
+About      = Based on the lockers for the classic movie Napolean Dynamite. Sweeeeet!
+Date       = 2023-12-21 23:31:02
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = 182427
+
+[Page]
+Fill       = ABC4CB
+Border     = 334D55
+Text       = 182427
+
+[Breakpoint]
+Fill       = D5231A
+Border     = 350906
+Text       = 350906
+
+[Comment]
+Fill       = ABC4CB
+Border     = 182427
+Text       = 334D55
+
+[Input]
+Fill       = E4352C
+Border     = 3D0B07
+Text       = 000000
+
+[Output]
+Fill       = EBAC22
+Border     = 412C03
+Text       = 350906
+
+[Declare]
+Fill       = F27D1E
+Border     = 411F03
+Text       = 000000
+
+[Assign]
+Fill       = F27D1E
+Border     = 411F03
+Text       = 000000
+
+[Terminator]
+Fill       = F0F0F0
+Border     = 303030
+Text       = 303030
+
+[Call]
+Fill       = F0F0F0
+Border     = 464646
+Text       = 464646
+
+[If]
+Fill       = 6C96A4
+Border     = 1B2629
+Text       = 000000
+
+[Incomplete]
+Fill       = 96B4BE
+Border     = 350906
+Text       = 350906
+
+[Error]
+Fill       = E01010
+Border     = 370404
+Text       = FFC022
+
+[Selected]
+Fill       = 213034
+Border     = 10181B
+Text       = 96B4BE
+
+[Executing]
+Fill       = 7EB957
+Border     = 1F3014
+Text       = 000000
+
+[Window]
+Fill       = 96B4BE
+Border     = 350906
+Text       = 000000
+
+[Header]
+Fill       = FFFFFF
+Border     = 303030
+Text       = 303030
+
+[Hover]
+Fill       = 96B4BE
+Border     = 293C41
+Text       = 213034
+
+[Integer]
+Fill       = 4060C0
+Border     = 334D55
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 334D55
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 334D55
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 334D55
+Text       = FFFFFF
+
+[Value]
+Fill       = F0F0F0
+Text       = 303030
+
+[Subscript]
+Fill       = EBAC22
+Text       = 350906
+
+[Control]
+Fill       = FFFFFF
+Border     = 303030
+Text       = 303030
+
+[Field]
+Fill       = F0F0F0
+Border     = 334D55
+Text       = 303030
+
+[Active]
+Fill       = 96B4BE
+Border     = 350906
+Text       = 350906
+
+[While]
+Fill       = 6C96A4
+Border     = 1B2629
+Text       = 000000
+
+[For]
+Fill       = 6C96A4
+Border     = 1B2629
+Text       = 000000
+
+[Do]
+Fill       = 6C96A4
+Border     = 1B2629
+Text       = 000000
+
+[Loop]
+Fill       = 6C96A4
+Border     = 1B2629
+Text       = 000000

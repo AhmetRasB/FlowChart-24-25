@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Windows XP
+Author     = Microsoft (scheme by Devin Cook)
+About      = The bright, happy, friendly colors of Windows XP.
+Date       = 2024-01-09 14:00:41
+Version    = 4.0
+
+[Line]
+Fill       = E5B415
+Border     = D4E6FA
+
+[Page]
+Fill       = 1A50B8
+Border     = D4E6FA
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = E56849
+Border     = 707070
+Text       = FFFFFF
+
+[Comment]
+Fill       = 1A50B8
+Border     = D4E6FA
+Text       = FFFFFF
+
+[Input]
+Fill       = 109AEE
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Output]
+Fill       = 81C046
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Declare]
+Fill       = 109AEE
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Assign]
+Fill       = 109AEE
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Terminator]
+Fill       = FFFFFF
+Border     = 183274
+Text       = 183274
+
+[Call]
+Fill       = ECBF04
+Border     = FFFFFF
+Text       = FFFFFF
+
+[If]
+Fill       = ECBF04
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = A0A0A0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Error]
+Fill       = E00000
+Border     = FFFF80
+Text       = FFFF80
+
+[Selected]
+Fill       = D4E6FA
+Border     = 183274
+Text       = 183274
+
+[Executing]
+Fill       = 80FF80
+Border     = 183274
+Text       = 183274
+
+[Window]
+Fill       = 245CDC
+Border     = 003074
+Text       = F5FFFF
+
+[Header]
+Fill       = FFFFFF
+Border     = 183274
+Text       = 183274
+
+[Hover]
+Fill       = D4E6FA
+Border     = 183274
+Text       = 183274
+
+[Integer]
+Fill       = 109AEE
+Border     = 003074
+Text       = FFFFFF
+
+[Real]
+Fill       = E05632
+Border     = 003074
+Text       = FFFFFF
+
+[String]
+Fill       = FCCF04
+Border     = 003074
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 81C046
+Border     = 003074
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 202020
+
+[Subscript]
+Fill       = A0A0A0
+Text       = FFFFFF
+
+[Control]
+Fill       = D4E6FA
+Border     = 183274
+Text       = 183274
+
+[Active]
+Fill       = 306AC4
+Border     = 183274
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = 183274
+Text       = 202020
+
+[While]
+Fill       = E05632
+Border     = FFFFFF
+Text       = FFFFFF
+
+[For]
+Fill       = E05632
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Do]
+Fill       = E05632
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Loop]
+Fill       = E05632
+Border     = FFFFFF
+Text       = FFFFFF

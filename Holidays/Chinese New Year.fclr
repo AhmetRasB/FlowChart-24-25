@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Chinese New Year
+Author     = Scheme by Devin Cook
+About      = The colors of the Chinese New Year parade
+Date       = 2023-12-21 23:22:02
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = FFD84C
+
+[Page]
+Fill       = 001830
+Border     = FFD84C
+Text       = FFD84C
+
+[Breakpoint]
+Fill       = F8C66B
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 001830
+Border     = FFD84C
+Text       = FFD84C
+
+[Input]
+Fill       = CC222A
+Border     = FFD84C
+Text       = FFD84C
+
+[Output]
+Fill       = A3262A
+Border     = FFD84C
+Text       = FFD84C
+
+[Declare]
+Fill       = CC222A
+Border     = FFD84C
+Text       = FFD84C
+
+[Assign]
+Fill       = CC222A
+Border     = FFD84C
+Text       = FFD84C
+
+[Terminator]
+Fill       = E0B82C
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Call]
+Fill       = F5AC27
+Border     = FFFFFF
+Text       = FFFFFF
+
+[If]
+Fill       = F5AC27
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = 203850
+Border     = FFD84C
+Text       = FFD84C
+
+[Error]
+Fill       = C04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = 005040
+Text       = FFFFFF
+
+[Window]
+Fill       = 203850
+Border     = 506880
+Text       = FFD84C
+
+[Header]
+Fill       = E0B82C
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Hover]
+Fill       = 203850
+Border     = 506880
+Text       = FFD84C
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = F5AC27
+Text       = FFFFFF
+
+[Control]
+Fill       = A3262A
+Border     = FFD84C
+Text       = FFD84C
+
+[Active]
+Fill       = E0B82C
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = F2888B
+Border     = FFFFFF
+Text       = FFFFFF
+
+[For]
+Fill       = F2888B
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Do]
+Fill       = F2888B
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Loop]
+Fill       = F2888B
+Border     = FFFFFF
+Text       = FFFFFF

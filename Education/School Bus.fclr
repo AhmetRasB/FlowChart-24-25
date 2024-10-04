@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = School Bus
+Author     = Devin Cook
+About      = The fond memories of riding the classic schoolbus
+Date       = 2023-12-21 23:14:38
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = 6A4800
+
+[Page]
+Fill       = FFC74F
+Border     = 000000
+Text       = 000000
+
+[Breakpoint]
+Fill       = AB1F2D
+Border     = 0E161E
+Text       = FFFFFF
+
+[Comment]
+Fill       = FFC74F
+Border     = 6A4800
+Text       = 6A4800
+
+[Input]
+Fill       = 334452
+Border     = 0E161E
+Text       = E0E0E0
+
+[Output]
+Fill       = 334452
+Border     = 0E161E
+Text       = E0E0E0
+
+[Declare]
+Fill       = 334452
+Border     = 0E161E
+Text       = E0E0E0
+
+[Assign]
+Fill       = 334452
+Border     = 0E161E
+Text       = E0E0E0
+
+[Terminator]
+Fill       = F0F0F0
+Border     = 0E161E
+Text       = 0E161E
+
+[Call]
+Fill       = BE570C
+Border     = 0E161E
+Text       = E0E0E0
+
+[If]
+Fill       = AB1F2D
+Border     = 0E161E
+Text       = E0E0E0
+
+[Incomplete]
+Fill       = E0E0E0
+Border     = 0E161E
+Text       = 000000
+
+[Error]
+Fill       = FF2020
+Border     = 0E161E
+Text       = FFFF80
+
+[Selected]
+Fill       = 2080D0
+Border     = 0E161E
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = 0E161E
+Text       = FFFFFF
+
+[Window]
+Fill       = FFE76F
+Border     = 000000
+Text       = 000000
+
+[Header]
+Fill       = 334452
+Border     = 0E161E
+Text       = E0E0E0
+
+[Hover]
+Fill       = FFE76F
+Border     = 000000
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 334452
+Border     = 0E161E
+Text       = E0E0E0
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = FFE76F
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = AB1F2D
+Border     = 0E161E
+Text       = E0E0E0
+
+[For]
+Fill       = AB1F2D
+Border     = 0E161E
+Text       = E0E0E0
+
+[Do]
+Fill       = AB1F2D
+Border     = 0E161E
+Text       = E0E0E0
+
+[Loop]
+Fill       = AB1F2D
+Border     = 0E161E
+Text       = E0E0E0

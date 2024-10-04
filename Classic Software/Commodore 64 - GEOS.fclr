@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = GEOS
+Author     = Berkeley Softworks
+About      = The Commodore 64 had a simple, eloquent, operating system. This schemes mimicks version 1.0.
+Date       = 2023-12-23 01:38:56
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = AEAEAE
+
+[Page]
+Fill       = 626262
+Border     = AEAEAE
+Text       = AEAEAE
+
+[Breakpoint]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Comment]
+Fill       = 626262
+Border     = AEAEAE
+Text       = AEAEAE
+
+[Input]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Output]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Declare]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Assign]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Terminator]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Call]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[If]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Incomplete]
+Fill       = 626262
+Border     = AEAEAE
+Text       = AEAEAE
+
+[Error]
+Fill       = 9F4E44
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 6AC0C6
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = 9AE29C
+Border     = 000000
+Text       = 000000
+
+[Window]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Header]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Hover]
+Fill       = 898989
+Border     = 626262
+Text       = 626262
+
+[Integer]
+Fill       = 887ECB
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = A057A3
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = CB7E75
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 6AC0C6
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = AEAEAE
+Text       = 626262
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = B2B2B2
+Border     = 4A4A4A
+Text       = 4A4A4A
+
+[Field]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Active]
+Fill       = 898989
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[For]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Do]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262
+
+[Loop]
+Fill       = AEAEAE
+Border     = 626262
+Text       = 626262

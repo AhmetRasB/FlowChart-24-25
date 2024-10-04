@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Flag of California
+Author     = Devin Cook
+About      = These are the colors of the Flag of the Republic of California
+Date       = 2023-12-21 22:59:05
+Version    = 4.0
+
+[Line]
+Fill       = BD8A5E
+Border     = 584528
+
+[Page]
+Fill       = FFFFFF
+Border     = 584528
+Text       = 584528
+
+[Breakpoint]
+Fill       = B71234
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = FFFFFF
+Border     = 584528
+Text       = 584528
+
+[Input]
+Fill       = BD8A5E
+Border     = 000000
+Text       = FFFFFF
+
+[Output]
+Fill       = B71234
+Border     = 000000
+Text       = FFFFFF
+
+[Declare]
+Fill       = BD8A5E
+Border     = 000000
+Text       = FFFFFF
+
+[Assign]
+Fill       = BD8A5E
+Border     = 000000
+Text       = FFFFFF
+
+[Terminator]
+Fill       = B71234
+Border     = 000000
+Text       = FFFFFF
+
+[Call]
+Fill       = 584528
+Border     = 000000
+Text       = FFFFFF
+
+[If]
+Fill       = 584528
+Border     = 000000
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = F0F0F0
+Border     = A0A0A0
+Text       = 000000
+
+[Error]
+Fill       = FF4020
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 40FF80
+Border     = 000000
+Text       = 000000
+
+[Window]
+Fill       = 670000
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = B71234
+Border     = 000000
+Text       = FFFFFF
+
+[Hover]
+Fill       = F0F0F0
+Border     = A0A0A0
+Text       = 000000
+
+[Integer]
+Fill       = 584528
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = BD8A5E
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = B71234
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 008542
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = F0F0F0
+Border     = A0A0A0
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = 584528
+Text       = 584528
+
+[Active]
+Fill       = BD8A5E
+Border     = 000000
+Text       = FFFFFF
+
+[While]
+Fill       = 008542
+Border     = 000000
+Text       = FFFFFF
+
+[For]
+Fill       = 008542
+Border     = 000000
+Text       = FFFFFF
+
+[Do]
+Fill       = 008542
+Border     = 000000
+Text       = FFFFFF
+
+[Loop]
+Fill       = 008542
+Border     = 000000
+Text       = FFFFFF

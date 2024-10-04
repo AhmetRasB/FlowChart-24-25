@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Super Mario Brothers 3
+Author     = Devin Cook
+About      = The level 1 colors from the classic NES game.
+Date       = 2023-12-21 23:11:00
+Version    = 4.0
+
+[Line]
+Fill       = FC9838
+Border     = 000000
+
+[Page]
+Fill       = 9CFCF0
+Border     = 000000
+Text       = 000000
+
+[Breakpoint]
+Fill       = D82800
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 9CFCF0
+Border     = 000000
+Text       = 000000
+
+[Input]
+Fill       = 00A800
+Border     = 000000
+Text       = FFFFFF
+
+[Output]
+Fill       = 4CDC48
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = FC9838
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = FC9838
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = FCFCFC
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = FCFCFC
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = FCBCB0
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 747474
+Border     = 000000
+Text       = FCFCFC
+
+[Error]
+Fill       = C12400
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 000000
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Executing]
+Fill       = 2038EC
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = ADD8E6
+Border     = 808080
+Text       = 000000
+
+[Header]
+Fill       = FCFCFC
+Border     = 000000
+Text       = 000000
+
+[Hover]
+Fill       = 5C94FC
+Border     = 000000
+Text       = FFFFFF
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = FCFCFC
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = FCBCB0
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = FCBCB0
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = FCBCB0
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = FCBCB0
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = FCBCB0
+Border     = 000000
+Text       = 000000

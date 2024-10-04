@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Banana
+Author     = Devin Cook
+About      = This chart is bananas... B-A-N-A-N-A-S!
+Date       = 2023-12-21 23:15:36
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = 6B3E26
+
+[Page]
+Fill       = FCEC5C
+Border     = 6C3E28
+Text       = 6C3E28
+
+[Breakpoint]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = 3C0E00
+
+[Comment]
+Fill       = FCEC5C
+Border     = 6C3E28
+Text       = 6C3E28
+
+[Input]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Output]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Declare]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Assign]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Terminator]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Call]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[If]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Incomplete]
+Fill       = FFFBC9
+Border     = 3C0E00
+Text       = 6C3E28
+
+[Error]
+Fill       = C04040
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = FFFBC9
+Border     = 3C0E00
+Text       = 6C3E28
+
+[Header]
+Fill       = 6C3E28
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Hover]
+Fill       = FFFBC9
+Border     = 3C0E00
+Text       = 6C3E28
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = FFFBC9
+Border     = 9C7E68
+Text       = 6C3E28
+
+[Active]
+Fill       = 9C7E68
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Field]
+Fill       = FFFCC8
+Border     = 3C0E00
+Text       = 6B3E26
+
+[While]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[For]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Do]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C
+
+[Loop]
+Fill       = 7C4E38
+Border     = 3C0E00
+Text       = FCEC5C

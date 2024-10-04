@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Spaceship
+Author     = Devin Cook
+About      = Gateway to the Heavens
+Date       = 2023-12-21 23:00:38
+Version    = 4.0
+
+[Line]
+Fill       = FFFF66
+Border     = 808080
+
+[Page]
+Fill       = 000000
+Border     = CCFFFF
+Text       = CCFFFF
+
+[Breakpoint]
+Fill       = FF0099
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 000000
+Border     = CCFFFF
+Text       = CCFFFF
+
+[Input]
+Fill       = 33FFCC
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = CC99FF
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = FFFF66
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = 66FFFF
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = CC99FF
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = FF0099
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = FF0099
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 000000
+Border     = CCFFFF
+Text       = CCFFFF
+
+[Error]
+Fill       = FF0000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = 33FF33
+Border     = 000000
+Text       = 000000
+
+[Window]
+Fill       = 333333
+Border     = 000000
+Text       = CCFFFF
+
+[Header]
+Fill       = 666666
+Border     = 666666
+Text       = FFFFFF
+
+[Hover]
+Fill       = 333333
+Border     = 666666
+Text       = CCFFFF
+
+[Integer]
+Fill       = 33FFCC
+Border     = 000000
+Text       = 000000
+
+[Real]
+Fill       = CC99FF
+Border     = 000000
+Text       = 000000
+
+[String]
+Fill       = FF0099
+Border     = 000000
+Text       = 000000
+
+[Boolean]
+Fill       = FFCC66
+Border     = 000000
+Text       = 000000
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = CCFFFF
+Text       = 000000
+
+[Control]
+Fill       = 333333
+Border     = 666666
+Text       = CCFFFF
+
+[Field]
+Fill       = 666666
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Active]
+Fill       = CC99FF
+Border     = 000000
+Text       = CCFFFF
+
+[While]
+Fill       = FFCC66
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = FFCC66
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = FFCC66
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = FFCC66
+Border     = 000000
+Text       = 000000

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = 2001 - HAL 9000
+Author     = Stanley Kubrick (Scheme by Devin Cook)
+About      = The colors of the hardware and monitors. Sorry, Dave, I cannot do that.
+Date       = 2023-12-21 23:28:11
+Version    = 4.0
+
+[Line]
+Fill       = FFF880
+Border     = E0E0FF
+
+[Page]
+Fill       = 282828
+Border     = F0F0FF
+Text       = F0F0FF
+
+[Breakpoint]
+Fill       = A00030
+Border     = F0F0FF
+Text       = F0F0FF
+
+[Comment]
+Fill       = 282828
+Border     = F0F0FF
+Text       = F0F0FF
+
+[Input]
+Fill       = 28508C
+Border     = 000000
+Text       = FFFFFF
+
+[Output]
+Fill       = 089940
+Border     = 000000
+Text       = FFFFFF
+
+[Declare]
+Fill       = 4880A8
+Border     = 000000
+Text       = FFFFFF
+
+[Assign]
+Fill       = 4880A8
+Border     = 000000
+Text       = FFFFFF
+
+[Terminator]
+Fill       = 500000
+Border     = F0F0FF
+Text       = FF4020
+
+[Call]
+Fill       = 684870
+Border     = 000000
+Text       = FFFFFF
+
+[If]
+Fill       = 684870
+Border     = 000000
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = 404040
+Border     = F0F0FF
+Text       = F0F0FF
+
+[Error]
+Fill       = A00030
+Border     = E0E0FF
+Text       = F0F0FF
+
+[Selected]
+Fill       = A8A080
+Border     = F0F0FF
+Text       = F0F0FF
+
+[Executing]
+Fill       = 58B04C
+Border     = FFFFFF
+Text       = F0F0FF
+
+[Window]
+Fill       = 202020
+Border     = 000000
+Text       = E0E0FF
+
+[Header]
+Fill       = 404040
+Border     = F0F0FF
+Text       = F0F0FF
+
+[Hover]
+Fill       = 404040
+Border     = 000000
+Text       = FFFFFF
+
+[Integer]
+Fill       = 4880A8
+Border     = F0F0FF
+Text       = FFFFFF
+
+[Real]
+Fill       = 684870
+Border     = F0F0FF
+Text       = FFFFFF
+
+[String]
+Fill       = A00030
+Border     = F0F0FF
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 089940
+Border     = F0F0FF
+Text       = FFFFFF
+
+[Value]
+Fill       = 141414
+Text       = E0E0FF
+
+[Subscript]
+Fill       = 404040
+Text       = E0E0FF
+
+[Control]
+Fill       = 404040
+Border     = F0F0FF
+Text       = F0F0FF
+
+[Field]
+Fill       = 141414
+Border     = F0F0FF
+Text       = E0E0FF
+
+[Active]
+Fill       = 500000
+Border     = F0F0FF
+Text       = FF4020
+
+[While]
+Fill       = 801860
+Border     = 000000
+Text       = FFFFFF
+
+[For]
+Fill       = 801860
+Border     = 000000
+Text       = FFFFFF
+
+[Do]
+Fill       = 801860
+Border     = 000000
+Text       = FFFFFF
+
+[Loop]
+Fill       = 801860
+Border     = 000000
+Text       = FFFFFF

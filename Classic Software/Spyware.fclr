@@ -1,0 +1,143 @@
+﻿[Main]
+Name    = Spyware
+Author  = ...
+About   = Ugly colors of an even more ugly piece of spyware.
+Date    = 2022-12-23 01:51:12
+Version = 2.22
+
+[Line]
+Fill   = 6365FF
+Border = 000000
+
+[Page]
+Fill   = FFFFE1
+Border = 000000
+Text   = 000000
+
+[Breakpoint]
+Fill   = DB0915
+Border = 000000
+Text   = 000000
+
+[Comment]
+Fill   = FFFFE1
+Border = 000000
+Text   = 000000
+
+[Input]
+Fill   = FA9C00
+Border = 000000
+Text   = 000000
+
+[Output]
+Fill   = 669900
+Border = 000000
+Text   = 000000
+
+[Declare]
+Fill   = FA9C00
+Border = 000000
+Text   = 000000
+
+[Assign]
+Fill   = FA9C00
+Border = 000000
+Text   = 000000
+
+[Terminator]
+Fill   = 6365FF
+Border = 000000
+Text   = 000000
+
+[Call]
+Fill   = 6365FF
+Border = 000000
+Text   = 000000
+
+[If]
+Fill   = 6365FF
+Border = 000000
+Text   = 000000
+
+[Loop]
+Fill   = 6365FF
+Border = 000000
+Text   = 000000
+
+[Incomplete]
+Fill   = FFFFFF
+Border = 000000
+Text   = 000000
+
+[Error]
+Fill   = DB0915
+Border = 000000
+Text   = FFFFFF
+
+[Selected]
+Fill   = 000000
+Border = 000000
+Text   = FFFFFF
+
+[Executing]
+Fill   = 82BF00
+Border = 000000
+Text   = FFFFFF
+
+[Window]
+Fill   = FFFFE1
+Border = 000000
+Text   = 000000
+
+[Header]
+Fill   = 000000
+Border = 000000
+Text   = FFFFFF
+
+[Hover]
+Fill   = FFFFFF
+Border = 000000
+Text   = 000000
+
+[Integer]
+Fill   = 4060C0
+Border = 000000
+Text   = FFFFFF
+
+[Real]
+Fill   = 804080
+Border = 000000
+Text   = FFFFFF
+
+[String]
+Fill   = A04040
+Border = 000000
+Text   = FFFFFF
+
+[Boolean]
+Fill   = 408080
+Border = 000000
+Text   = FFFFFF
+
+[Value]
+Fill = FFFFFF
+Text = 000000
+
+[Subscript]
+Fill = 000000
+Text = FFFFFF
+
+[Control]
+Fill   = 000000
+Border = FFFFFF
+Text   = FFFFFF
+
+[Field]
+Fill   = FFFFFF
+Border = 000000
+Text   = 000000
+
+[Active]
+Fill   = FA9C00
+Border = FFFFFF
+Text   = 000000

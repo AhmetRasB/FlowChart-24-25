@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = 4th of July
+Author     = The Founding Fathers (scheme by Devin cook)
+About      = The Spirit of 1776
+Date       = 2023-12-21 23:21:53
+Version    = 4.0
+
+[Line]
+Fill       = FFFF80
+Border     = 8DB1D6
+
+[Page]
+Fill       = 1C3B6E
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = B22234
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Comment]
+Fill       = 1C3B6E
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = B22234
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Output]
+Fill       = B22234
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Declare]
+Fill       = B22234
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Assign]
+Fill       = B22234
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Terminator]
+Fill       = FFFFFF
+Border     = 122444
+Text       = B22234
+
+[Call]
+Fill       = FFFFFF
+Border     = 122444
+Text       = B22234
+
+[If]
+Fill       = FFFFFF
+Border     = 122444
+Text       = B22234
+
+[Incomplete]
+Fill       = 003265
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Error]
+Fill       = FF3030
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 104275
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Header]
+Fill       = 4D7196
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Hover]
+Fill       = 104275
+Border     = 6D91B6
+Text       = FFFFFF
+
+[Integer]
+Fill       = 7090B0
+Border     = 122444
+Text       = FFFFFF
+
+[Real]
+Fill       = B070B0
+Border     = 122444
+Text       = FFFFFF
+
+[String]
+Fill       = B22234
+Border     = 122444
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 70B0B0
+Border     = 122444
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = FFFFFF
+Border     = 003265
+Text       = 003265
+
+[Field]
+Fill       = FFFFFF
+Border     = FFFFFF
+Text       = 000000
+
+[Active]
+Fill       = B22234
+Border     = 000000
+Text       = FFFFFF
+
+[While]
+Fill       = FFFFFF
+Border     = 122444
+Text       = B22234
+
+[For]
+Fill       = FFFFFF
+Border     = 122444
+Text       = B22234
+
+[Do]
+Fill       = FFFFFF
+Border     = 122444
+Text       = B22234
+
+[Loop]
+Fill       = FFFFFF
+Border     = 122444
+Text       = B22234

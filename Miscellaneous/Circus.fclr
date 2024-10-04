@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Circus
+Author     = Devin Cook
+About      = Peanuts, elephants, and clowns.
+Date       = 2023-12-23 01:20:22
+Version    = 4.0
+
+[Line]
+Fill       = FFFF00
+Border     = FFFFFF
+
+[Terminator]
+Fill       = F8F8F8
+Border     = 400000
+Text       = 202020
+
+[Page]
+Fill       = 701010
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = F4A04C
+Border     = 540000
+Text       = FFFFFF
+
+[Comment]
+Fill       = 701010
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = F4A04C
+Border     = 400000
+Text       = FFFFFF
+
+[Output]
+Fill       = E4544C
+Border     = 400000
+Text       = FFFFFF
+
+[Declare]
+Fill       = FAFCAC
+Border     = 3A3C00
+Text       = 000000
+
+[Assign]
+Fill       = F8F8F8
+Border     = 400000
+Text       = 202020
+
+[Call]
+Fill       = 548CE8
+Border     = 400000
+Text       = FFFFFF
+
+[If]
+Fill       = 548CE8
+Border     = 400000
+Text       = FFFFFF
+
+[While]
+Fill       = 82C0A8
+Border     = 400000
+Text       = FFFFFF
+
+[For]
+Fill       = 82C0A8
+Border     = 400000
+Text       = FFFFFF
+
+[Do]
+Fill       = 82C0A8
+Border     = 400000
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = A0A0A0
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Error]
+Fill       = FF3030
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 3030FF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 942424
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = F4A04C
+Border     = 400000
+Text       = FFFFFF
+
+[Hover]
+Fill       = 942424
+Border     = 000000
+Text       = FFFFFF
+
+[Integer]
+Fill       = 548CE8
+Border     = 400000
+Text       = FFFFFF
+
+[Real]
+Fill       = 82C0A8
+Border     = 400000
+Text       = FFFFFF
+
+[String]
+Fill       = E4544C
+Border     = 400000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = F4A04C
+Border     = 400000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = FCF8E8
+Text       = 101010
+
+[Control]
+Fill       = FFFFF0
+Border     = 808060
+Text       = 202020
+
+[Active]
+Fill       = E4544C
+Border     = 400000
+Text       = FFFFFF
+
+[Field]
+Fill       = F8F8F8
+Border     = 505050
+Text       = 101010
+
+[Loop]
+Fill       = 82C0A8
+Border     = 400000
+Text       = FFFFFF

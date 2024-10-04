@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Hamster Dance
+Author     = Deidre LaCarte (theme by Devin Cook)
+About      = Dance the night away
+Date       = 2023-12-21 23:10:09
+Version    = 4.0
+
+[Line]
+Fill       = FFA500
+Border     = 000000
+
+[Page]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Breakpoint]
+Fill       = FF9933
+Border     = 000000
+Text       = FFFFFF
+
+[Comment]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Input]
+Fill       = CE6601
+Border     = 000000
+Text       = FFFFFF
+
+[Output]
+Fill       = FF9933
+Border     = 000000
+Text       = FFFFFF
+
+[Declare]
+Fill       = CE6601
+Border     = 000000
+Text       = FFFFFF
+
+[Assign]
+Fill       = FF9933
+Border     = 000000
+Text       = FFFFFF
+
+[Terminator]
+Fill       = FF9933
+Border     = 000000
+Text       = FFFFFF
+
+[Call]
+Fill       = ADAD96
+Border     = 000000
+Text       = FFFFFF
+
+[If]
+Fill       = ADAD96
+Border     = 000000
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = C04040
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 606060
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = 606060
+Border     = 000000
+Text       = FFFFFF
+
+[Hover]
+Fill       = F0F0F0
+Border     = 000000
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 606060
+Border     = 000000
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = FF9933
+Border     = 000000
+Text       = FFFFFF
+
+[While]
+Fill       = ADAD96
+Border     = 000000
+Text       = FFFFFF
+
+[For]
+Fill       = ADAD96
+Border     = 000000
+Text       = FFFFFF
+
+[Do]
+Fill       = ADAD96
+Border     = 000000
+Text       = FFFFFF
+
+[Loop]
+Fill       = ADAD96
+Border     = 000000
+Text       = FFFFFF

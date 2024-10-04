@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Tesla Factory
+Author     = Elon Musk (scheme by Devin Cook)
+About      = These are the colors of the bustling Tesla factory in Fremont, California.
+Date       = 2023-12-21 23:13:17
+Version    = 4.0
+
+[Line]
+Fill       = 206CC0
+Border     = 000000
+
+[Page]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Breakpoint]
+Fill       = E31937
+Border     = 000000
+Text       = FFFFFF
+
+[Comment]
+Fill       = FFFFFF
+Border     = 606060
+Text       = 606060
+
+[Input]
+Fill       = AEB0B2
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = 717074
+Border     = 000000
+Text       = FFFFFF
+
+[Declare]
+Fill       = C9CBCC
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = C9CBCC
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = E31937
+Border     = 000000
+Text       = F0F8F8
+
+[Call]
+Fill       = E31937
+Border     = 000000
+Text       = F0F8F8
+
+[If]
+Fill       = E31937
+Border     = 000000
+Text       = F0F8F8
+
+[Incomplete]
+Fill       = FFFFFF
+Border     = 606060
+Text       = 606060
+
+[Error]
+Fill       = FFFF80
+Border     = A00000
+Text       = A00000
+
+[Selected]
+Fill       = 206CC0
+Border     = 000000
+Text       = F0F8F8
+
+[Executing]
+Fill       = 00A080
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 730D1C
+Border     = 000000
+Text       = F0F8F8
+
+[Header]
+Fill       = 000000
+Border     = 000000
+Text       = FFFFFF
+
+[Hover]
+Fill       = FFFFFF
+Border     = 606060
+Text       = 606060
+
+[Integer]
+Fill       = 5555AA
+Border     = 000000
+Text       = F0F8F8
+
+[Real]
+Fill       = AA55AA
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = E31937
+Border     = 000000
+Text       = F0F8F8
+
+[Boolean]
+Fill       = 55AAAA
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = C9CBCC
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = E31937
+Border     = 000000
+Text       = F0F8F8
+
+[While]
+Fill       = E31937
+Border     = 000000
+Text       = F0F8F8
+
+[For]
+Fill       = E31937
+Border     = 000000
+Text       = F0F8F8
+
+[Do]
+Fill       = E31937
+Border     = 000000
+Text       = F0F8F8
+
+[Loop]
+Fill       = E31937
+Border     = 000000
+Text       = F0F8F8

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Tank
+Author     = Devin Cook
+About      = Based on the color scheme of the World's most lethal tank
+Date       = 2023-12-21 21:37:48
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = 584F42
+
+[Terminator]
+Fill       = 585042
+Border     = 000000
+Text       = DCD4C2
+
+[Page]
+Fill       = CEC0A6
+Border     = 584F42
+Text       = 584F42
+
+[Breakpoint]
+Fill       = 585042
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = CEC0A6
+Border     = 6E6046
+Text       = 6E6046
+
+[Input]
+Fill       = 575954
+Border     = 000000
+Text       = DCD4C2
+
+[Output]
+Fill       = 807864
+Border     = 000000
+Text       = DCD4C2
+
+[Declare]
+Fill       = 575954
+Border     = 000000
+Text       = DCD4C2
+
+[Assign]
+Fill       = 575954
+Border     = 000000
+Text       = DCD4C2
+
+[Call]
+Fill       = 585042
+Border     = 000000
+Text       = DCD4C2
+
+[If]
+Fill       = 585042
+Border     = 000000
+Text       = DCD4C2
+
+[While]
+Fill       = 897C5A
+Border     = 000000
+Text       = DCD4C2
+
+[For]
+Fill       = 897C5A
+Border     = 000000
+Text       = DCD4C2
+
+[Do]
+Fill       = 897C5A
+Border     = 000000
+Text       = DCD4C2
+
+[Incomplete]
+Fill       = CEC0A6
+Border     = 584F42
+Text       = 6E6046
+
+[Error]
+Fill       = C04040
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 42443C
+Border     = 000000
+Text       = E3E4E0
+
+[Header]
+Fill       = 585042
+Border     = 000000
+Text       = DCD4C2
+
+[Hover]
+Fill       = DCD4C2
+Border     = 6E6046
+Text       = 6E6046
+
+[Integer]
+Fill       = 897C5A
+Border     = 000000
+Text       = DCD4C2
+
+[Real]
+Fill       = 807864
+Border     = 000000
+Text       = DCD4C2
+
+[String]
+Fill       = 575954
+Border     = 000000
+Text       = DCD4C2
+
+[Boolean]
+Fill       = 584F42
+Border     = 000000
+Text       = B8B299
+
+[Value]
+Fill       = DED5C2
+Text       = 584F42
+
+[Subscript]
+Fill       = DED5C2
+Text       = 6E6046
+
+[Control]
+Fill       = 585042
+Border     = 000000
+Text       = DCD4C2
+
+[Active]
+Fill       = 807864
+Border     = 000000
+Text       = DCD4C2
+
+[Field]
+Fill       = DED5C2
+Border     = 000000
+Text       = 584F42
+
+[Loop]
+Fill       = 897C5A
+Border     = 000000
+Text       = DCD4C2

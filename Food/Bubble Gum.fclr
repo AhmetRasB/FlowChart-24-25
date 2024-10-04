@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Bubble Gum
+Author     = Devin Cook
+About      = Sugary Goodness!
+Date       = 2023-12-21 23:15:58
+Version    = 4.0
+
+[Line]
+Fill       = FFFCFC
+Border     = FFF0FF
+
+[Page]
+Fill       = DF9ACA
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = B06A9A
+Border     = 000000
+Text       = FFF0FF
+
+[Comment]
+Fill       = DF9ACA
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Output]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Declare]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Assign]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Terminator]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Call]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[If]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Incomplete]
+Fill       = FFFFFF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Error]
+Fill       = C04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 104070
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = FFBAEA
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Header]
+Fill       = FFDAFF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Hover]
+Fill       = FFBAEA
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFCFC
+Text       = 8F4A7A
+
+[Subscript]
+Fill       = FFDAFF
+Text       = 8F4A7A
+
+[Control]
+Fill       = FFDAFF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Field]
+Fill       = FFFCFC
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Active]
+Fill       = FFBAEA
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[While]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[For]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Do]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A
+
+[Loop]
+Fill       = FFF0FF
+Border     = 8F4A7A
+Text       = 8F4A7A

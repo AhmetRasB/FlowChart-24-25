@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Disneyland Haunted Mansion
+Author     = Disneyland
+About      = This is creepy wallpaper from the Haunted Mansion at Disneyland
+Date       = 2023-12-21 22:58:39
+Version    = 4.0
+
+[Line]
+Fill       = FFA500
+Border     = A8B0D0
+
+[Page]
+Fill       = 384060
+Border     = 7880A0
+Text       = A8B0D0
+
+[Breakpoint]
+Fill       = 2C2B33
+Border     = 7880A0
+Text       = 7880A0
+
+[Comment]
+Fill       = 384060
+Border     = A8B0D0
+Text       = A8B0D0
+
+[Input]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Output]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Declare]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Assign]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Terminator]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Call]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[If]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Incomplete]
+Fill       = 384060
+Border     = A8B0D0
+Text       = A8B0D0
+
+[Error]
+Fill       = A04040
+Border     = D0D0D0
+Text       = D0D0D0
+
+[Selected]
+Fill       = D0D0D0
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = 4C7868
+Border     = D0D0D0
+Text       = D0D0D0
+
+[Window]
+Fill       = 586080
+Border     = 2C2C30
+Text       = D0D0D0
+
+[Header]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Hover]
+Fill       = 586080
+Border     = 2C2C30
+Text       = D0D0D0
+
+[Integer]
+Fill       = 4060C0
+Border     = 2C2C30
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 2C2C30
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 2C2C30
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 2C2C30
+Text       = FFFFFF
+
+[Value]
+Fill       = 2C2C30
+Text       = D0D0D0
+
+[Subscript]
+Fill       = 586080
+Text       = D0D0D0
+
+[Control]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Field]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Active]
+Fill       = 586080
+Border     = 2C2C30
+Text       = D0D0D0
+
+[While]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[For]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Do]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0
+
+[Loop]
+Fill       = 2C2C30
+Border     = 8890B0
+Text       = D0D0D0

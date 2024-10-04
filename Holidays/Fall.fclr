@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Fall
+Author     = Devin Cook
+About      = Falling leaves and turkey dinners.
+Date       = 2023-12-21 23:23:40
+Version    = 4.0
+
+[Line]
+Fill       = BB2611
+Border     = 46260D
+
+[Page]
+Fill       = F1EFC5
+Border     = 46260D
+Text       = 46260D
+
+[Breakpoint]
+Fill       = BB2611
+Border     = 46260D
+Text       = F1EFC5
+
+[Comment]
+Fill       = F4F2C1
+Border     = 46260D
+Text       = 46260D
+
+[Input]
+Fill       = A46117
+Border     = 5A3111
+Text       = FFCB53
+
+[Output]
+Fill       = F5B723
+Border     = 46260D
+Text       = 46260D
+
+[Declare]
+Fill       = 837A12
+Border     = 46260D
+Text       = FFCB53
+
+[Assign]
+Fill       = 837A12
+Border     = 46260D
+Text       = FFCB53
+
+[Terminator]
+Fill       = 5A3111
+Border     = 000000
+Text       = FFCB53
+
+[Call]
+Fill       = D2341E
+Border     = 46260D
+Text       = FFCB53
+
+[If]
+Fill       = D2341E
+Border     = 46260D
+Text       = FFCB53
+
+[Incomplete]
+Fill       = C0C0C0
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = E81D00
+Border     = 000000
+Text       = FFB307
+
+[Selected]
+Fill       = 7C2130
+Border     = 000000
+Text       = E3AF59
+
+[Executing]
+Fill       = 3E3935
+Border     = 000000
+Text       = E3AF59
+
+[Window]
+Fill       = E2CF96
+Border     = A46117
+Text       = 5A3111
+
+[Header]
+Fill       = 5A3111
+Border     = 000000
+Text       = FFCB53
+
+[Hover]
+Fill       = E2CF96
+Border     = A46117
+Text       = 5A3111
+
+[Integer]
+Fill       = 4060C0
+Border     = 46260D
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 46260D
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 46260D
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 46260D
+Text       = FFFFFF
+
+[Value]
+Fill       = E2CF96
+Text       = 5A3111
+
+[Subscript]
+Fill       = A46117
+Text       = FFCB53
+
+[Control]
+Fill       = E2CF96
+Border     = A46117
+Text       = 5A3111
+
+[Field]
+Fill       = E2CF96
+Border     = 46260D
+Text       = 5A3111
+
+[Active]
+Fill       = 5A3111
+Border     = 000000
+Text       = FFCB53
+
+[While]
+Fill       = D56B1E
+Border     = 46260D
+Text       = FFCB53
+
+[For]
+Fill       = D56B1E
+Border     = 46260D
+Text       = FFCB53
+
+[Do]
+Fill       = D56B1E
+Border     = 46260D
+Text       = FFCB53
+
+[Loop]
+Fill       = D56B1E
+Border     = 46260D
+Text       = FFCB53

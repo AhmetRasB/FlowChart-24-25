@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Reactor
+Author     = Devin Cook
+About      = The control panel of a nuclear reactor.
+Date       = 2023-12-21 22:59:44
+Version    = 4.0
+
+[Line]
+Fill       = FFE400
+Border     = B4B4B4
+
+[Page]
+Fill       = 383838
+Border     = B4B4B4
+Text       = B4B4B4
+
+[Breakpoint]
+Fill       = FF1300
+Border     = 282828
+Text       = 282828
+
+[Comment]
+Fill       = 383838
+Border     = B4B4B4
+Text       = B4B4B4
+
+[Input]
+Fill       = FFE400
+Border     = 282828
+Text       = 282828
+
+[Output]
+Fill       = 00FF80
+Border     = 282828
+Text       = 404040
+
+[Declare]
+Fill       = FFE400
+Border     = 282828
+Text       = 282828
+
+[Assign]
+Fill       = FFE400
+Border     = 282828
+Text       = 282828
+
+[Terminator]
+Fill       = FF3333
+Border     = 282828
+Text       = 282828
+
+[Call]
+Fill       = FF6C30
+Border     = 282828
+Text       = 282828
+
+[If]
+Fill       = FF6C30
+Border     = 282828
+Text       = 282828
+
+[Incomplete]
+Fill       = 383838
+Border     = B4B4B4
+Text       = B4B4B4
+
+[Error]
+Fill       = FF1400
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00D038
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 484848
+Border     = 000000
+Text       = D4D4D4
+
+[Header]
+Fill       = B4B4B4
+Border     = 000000
+Text       = 000000
+
+[Hover]
+Fill       = 484848
+Border     = 686868
+Text       = B4B4B4
+
+[Integer]
+Fill       = 2080D0
+Border     = 000000
+Text       = E0E0E0
+
+[Real]
+Fill       = 7830E0
+Border     = 000000
+Text       = E0E0E0
+
+[String]
+Fill       = FF3333
+Border     = 000000
+Text       = E0E0E0
+
+[Boolean]
+Fill       = 00A0A0
+Border     = 000000
+Text       = E0E0E0
+
+[Value]
+Fill       = E0E0E0
+Text       = 383838
+
+[Subscript]
+Fill       = B4B4B4
+Text       = 000000
+
+[Control]
+Fill       = B4B4B4
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = E0E0E0
+Border     = B4B4B4
+Text       = 383838
+
+[Active]
+Fill       = E0E0E0
+Border     = 383838
+Text       = 383838
+
+[While]
+Fill       = FF6C30
+Border     = 282828
+Text       = 282828
+
+[For]
+Fill       = FF6C30
+Border     = 282828
+Text       = 282828
+
+[Do]
+Fill       = FF6C30
+Border     = 282828
+Text       = 282828
+
+[Loop]
+Fill       = FF6C30
+Border     = 282828
+Text       = 282828

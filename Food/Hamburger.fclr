@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Hamburger
+Author     = Devin cook
+About      = Time for a family BBQ.
+Date       = 2023-12-21 23:16:41
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = BC9C84
+
+[Page]
+Fill       = 502416
+Border     = EBD489
+Text       = EBD489
+
+[Breakpoint]
+Fill       = E0643E
+Border     = 442C1C
+Text       = 000000
+
+[Comment]
+Fill       = 502416
+Border     = EBD489
+Text       = EBD489
+
+[Input]
+Fill       = 60C460
+Border     = 341C0C
+Text       = 442C1C
+
+[Output]
+Fill       = FFCA44
+Border     = 341C0C
+Text       = 442C1C
+
+[Declare]
+Fill       = B8D6A0
+Border     = 341C0C
+Text       = 442C1C
+
+[Assign]
+Fill       = B8D6A0
+Border     = 341C0C
+Text       = 442C1C
+
+[Terminator]
+Fill       = F6DAA6
+Border     = 442C1C
+Text       = 442C1C
+
+[Call]
+Fill       = ECE4CC
+Border     = 341C0C
+Text       = 442C1C
+
+[If]
+Fill       = ECE4CC
+Border     = 341C0C
+Text       = 442C1C
+
+[Incomplete]
+Fill       = 361814
+Border     = ECE4CC
+Text       = ECE4CC
+
+[Error]
+Fill       = D62301
+Border     = ECE4CC
+Text       = ECE4CC
+
+[Selected]
+Fill       = 2080D0
+Border     = ECE4CC
+Text       = ECE4CC
+
+[Executing]
+Fill       = 00A080
+Border     = ECE4CC
+Text       = ECE4CC
+
+[Window]
+Fill       = 361814
+Border     = 000000
+Text       = F6DAA6
+
+[Header]
+Fill       = F6DAA6
+Border     = 442C1C
+Text       = 442C1C
+
+[Hover]
+Fill       = AC8C74
+Border     = 341C0C
+Text       = 341C0C
+
+[Integer]
+Fill       = F8DE40
+Border     = 341C0C
+Text       = 442C1C
+
+[Real]
+Fill       = B8D6A0
+Border     = 341C0C
+Text       = 442C1C
+
+[String]
+Fill       = EA643E
+Border     = 341C0C
+Text       = 442C1C
+
+[Boolean]
+Fill       = F5DAA5
+Border     = 341C0C
+Text       = 442C1C
+
+[Value]
+Fill       = ECE4CC
+Text       = 442C1C
+
+[Subscript]
+Fill       = FAFAFA
+Text       = 442C1C
+
+[Control]
+Fill       = EDE4CC
+Border     = 341C0C
+Text       = 442C1C
+
+[Active]
+Fill       = B8D6A0
+Border     = 341C0C
+Text       = 442C1C
+
+[Field]
+Fill       = FDF4EC
+Border     = 341C0C
+Text       = 341C0C
+
+[While]
+Fill       = EA643E
+Border     = 341C0C
+Text       = 442C1C
+
+[For]
+Fill       = EA643E
+Border     = 341C0C
+Text       = 442C1C
+
+[Do]
+Fill       = EA643E
+Border     = 341C0C
+Text       = 442C1C
+
+[Loop]
+Fill       = EA643E
+Border     = 341C0C
+Text       = 442C1C

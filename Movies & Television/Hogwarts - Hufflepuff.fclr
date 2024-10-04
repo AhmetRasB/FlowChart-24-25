@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Hufflepuff
+Author     = J. K. Rowling (file by Devin Cook)
+About      = This color set plays homage to the Harry Potter books and movies. 10 points to Hufflepuff!
+Date       = 2024-01-04 04:20:11
+Version    = 4.0
+
+[Line]
+Fill       = FFC000
+Border     = EAEEF0
+
+[Page]
+Fill       = 1A1A1A
+Border     = F6CA24
+Text       = EAEEF0
+
+[Breakpoint]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 1A1A1A
+Border     = EAEEF0
+Text       = EAEEF0
+
+[Input]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 1A1A1A
+Border     = EAEEF0
+Text       = EAEEF0
+
+[Error]
+Fill       = C02020
+Border     = FFFF80
+Text       = FFFF80
+
+[Selected]
+Fill       = 4080FF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00C060
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 2A2A2A
+Border     = 000000
+Text       = EAEEF0
+
+[Header]
+Fill       = FCFCFC
+Border     = 101010
+Text       = 505050
+
+[Hover]
+Fill       = 2A2A2A
+Border     = EAD06A
+Text       = EAD06A
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = F6CA24
+Text       = 000000
+
+[Control]
+Fill       = 4A4A4A
+Border     = 000000
+Text       = EAD06A
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = EAD06A
+Border     = 000000
+Text       = 000000

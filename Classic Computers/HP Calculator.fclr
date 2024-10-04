@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = HP Calculator
+Author     = Devin Cook
+About      = This is the colors of the famous HP 48S calculator.
+Date       = 2023-12-21 23:05:03
+Version    = 4.0
+
+[Line]
+Fill       = C0D8A8
+Border     = E8E8E8
+
+[Page]
+Fill       = 484240
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Breakpoint]
+Fill       = A0E0FF
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 484240
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Input]
+Fill       = FFAA80
+Border     = 080400
+Text       = 34302C
+
+[Output]
+Fill       = C0D8A8
+Border     = 080400
+Text       = 405040
+
+[Declare]
+Fill       = FFAA80
+Border     = 080400
+Text       = 34302C
+
+[Assign]
+Fill       = FFAA80
+Border     = 080400
+Text       = 34302C
+
+[Terminator]
+Fill       = E8E8E8
+Border     = 161210
+Text       = 484240
+
+[Call]
+Fill       = E8E8E8
+Border     = 161210
+Text       = 484240
+
+[If]
+Fill       = A0E0FF
+Border     = 080400
+Text       = 34302C
+
+[Incomplete]
+Fill       = 484240
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Error]
+Fill       = 24201C
+Border     = FFAA80
+Text       = F8F8FF
+
+[Selected]
+Fill       = 24201C
+Border     = A0E0FF
+Text       = F8F8FF
+
+[Executing]
+Fill       = 24201C
+Border     = C0D8A8
+Text       = FFFFFF
+
+[Window]
+Fill       = 605858
+Border     = 000000
+Text       = E1D8D8
+
+[Header]
+Fill       = 24201C
+Border     = 000000
+Text       = E8E8E8
+
+[Hover]
+Fill       = 605858
+Border     = 000000
+Text       = E1D8D8
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = E8E8E8
+Text       = 484240
+
+[Subscript]
+Fill       = C0D8A8
+Text       = 405040
+
+[Control]
+Fill       = 605858
+Border     = 000000
+Text       = E1D8D8
+
+[Field]
+Fill       = E8E8E8
+Border     = E8E8E8
+Text       = 484240
+
+[Active]
+Fill       = FFAA80
+Border     = 080400
+Text       = 34302C
+
+[While]
+Fill       = A0E0FF
+Border     = 080400
+Text       = 34302C
+
+[For]
+Fill       = A0E0FF
+Border     = 080400
+Text       = 34302C
+
+[Do]
+Fill       = A0E0FF
+Border     = 080400
+Text       = 34302C
+
+[Loop]
+Fill       = A0E0FF
+Border     = 080400
+Text       = 34302C

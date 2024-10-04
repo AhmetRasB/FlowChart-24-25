@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = The 1970's - Brown
+Author     = Devin Cook
+About      = The groovy colors of the 1970's.
+Date       = 2023-12-21 23:21:03
+Version    = 4.0
+
+[Line]
+Fill       = D36B5E
+Border     = F0F0F0
+
+[Page]
+Fill       = 493925
+Border     = FFFFFF
+Text       = F8F8F8
+
+[Breakpoint]
+Fill       = D36B5E
+Border     = 000000
+Text       = FFFFFF
+
+[Comment]
+Fill       = 493925
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Input]
+Fill       = BE972E
+Border     = 000000
+Text       = F8F8F8
+
+[Output]
+Fill       = 5C7248
+Border     = 000000
+Text       = F8F8F8
+
+[Declare]
+Fill       = BE972E
+Border     = 000000
+Text       = F8F8F8
+
+[Assign]
+Fill       = BE972E
+Border     = 000000
+Text       = F8F8F8
+
+[Terminator]
+Fill       = CA7835
+Border     = 000000
+Text       = F8F8F8
+
+[Call]
+Fill       = CA7835
+Border     = 000000
+Text       = F8F8F8
+
+[If]
+Fill       = CA7835
+Border     = 000000
+Text       = F8F8F8
+
+[Incomplete]
+Fill       = 493925
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Error]
+Fill       = D36B5E
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Selected]
+Fill       = 017398
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Executing]
+Fill       = 6A9D37
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Window]
+Fill       = 503A1E
+Border     = 000000
+Text       = F8F8F8
+
+[Header]
+Fill       = A0763D
+Border     = 000000
+Text       = F8F8F8
+
+[Hover]
+Fill       = 705A3E
+Border     = 000000
+Text       = F8F8F8
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = A0763D
+Text       = F8F8F8
+
+[Control]
+Fill       = 705A3E
+Border     = F0F0F0
+Text       = F8F8F8
+
+[Field]
+Fill       = FFFFFF
+Border     = FFFFFF
+Text       = 000000
+
+[Active]
+Fill       = A0763D
+Border     = 000000
+Text       = F8F8F8
+
+[While]
+Fill       = CA7835
+Border     = 000000
+Text       = F8F8F8
+
+[For]
+Fill       = CA7835
+Border     = 000000
+Text       = F8F8F8
+
+[Do]
+Fill       = CA7835
+Border     = 000000
+Text       = F8F8F8
+
+[Loop]
+Fill       = CA7835
+Border     = 000000
+Text       = F8F8F8

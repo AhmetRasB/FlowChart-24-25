@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Windows 8 - Border
+Author     = Microsoft (scheme by Devin Cook)
+About      = The colors of the much-maligned, but colorful, Start Screen.
+Date       = 2023-12-21 23:12:03
+Version    = 4.0
+
+[Line]
+Fill       = 2674EC
+Border     = FFFFFF
+
+[Page]
+Fill       = 00006F
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = BD1E4A
+Border     = 000000
+Text       = FFFFFF
+
+[Comment]
+Fill       = 00006F
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = 603CBB
+Border     = 000000
+Text       = FFFFFF
+
+[Output]
+Fill       = 00A000
+Border     = 000000
+Text       = FFFFFF
+
+[Declare]
+Fill       = 009BAD
+Border     = 000000
+Text       = FFFFFF
+
+[Assign]
+Fill       = 009BAD
+Border     = 000000
+Text       = FFFFFF
+
+[Terminator]
+Fill       = A400AB
+Border     = 000000
+Text       = FFFFFF
+
+[Call]
+Fill       = A400AB
+Border     = 000000
+Text       = FFFFFF
+
+[If]
+Fill       = DB562E
+Border     = 000000
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = 696969
+Border     = 00006F
+Text       = FFFFFF
+
+[Error]
+Fill       = BD1E4A
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 0A58C1
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A300
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 0A58C1
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Header]
+Fill       = 00006F
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Hover]
+Fill       = 00006F
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Integer]
+Fill       = 0A58C1
+Border     = 00006F
+Text       = FFFFFF
+
+[Real]
+Fill       = A400AB
+Border     = 00006F
+Text       = FFFFFF
+
+[String]
+Fill       = BD1E4A
+Border     = 00006F
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 009BAD
+Border     = 00006F
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 0A58C1
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = FFFFFF
+Text       = 000000
+
+[Active]
+Fill       = 009BAD
+Border     = FFFFFF
+Text       = FFFFFF
+
+[While]
+Fill       = BD1E4A
+Border     = 000000
+Text       = FFFFFF
+
+[For]
+Fill       = BD1E4A
+Border     = 000000
+Text       = FFFFFF
+
+[Do]
+Fill       = BD1E4A
+Border     = 000000
+Text       = FFFFFF
+
+[Loop]
+Fill       = BD1E4A
+Border     = 000000
+Text       = FFFFFF

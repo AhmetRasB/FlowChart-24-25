@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = California Gold Rush
+Author     = Devin Cook
+About      = The colors of the 1849 California Gold Rush. The colors mimic the American River, earth, rock, wood, and, of course, gold.
+Date       = 2023-12-21 23:19:48
+Version    = 4.0
+
+[Line]
+Fill       = F4DB8C
+Border     = ECEFF4
+
+[Page]
+Fill       = 486C9C
+Border     = F4F8FC
+Text       = F4F8FC
+
+[Breakpoint]
+Fill       = FFA0A0
+Border     = 600000
+Text       = 442C00
+
+[Comment]
+Fill       = 486C9C
+Border     = F4F8FC
+Text       = F4F8FC
+
+[Input]
+Fill       = A0E0C0
+Border     = 004020
+Text       = 004020
+
+[Output]
+Fill       = F4E08C
+Border     = 544000
+Text       = 544000
+
+[Declare]
+Fill       = D0D4DA
+Border     = 30343A
+Text       = 30343A
+
+[Assign]
+Fill       = D0D4DA
+Border     = 30343A
+Text       = 30343A
+
+[Terminator]
+Fill       = F4F8FC
+Border     = 504448
+Text       = 504448
+
+[Call]
+Fill       = D4BC94
+Border     = 442C00
+Text       = 442C00
+
+[If]
+Fill       = D4BC94
+Border     = 442C00
+Text       = 442C00
+
+[Incomplete]
+Fill       = 486C9C
+Border     = F4F8FC
+Text       = F4F8FC
+
+[Error]
+Fill       = C05050
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 6888BA
+Border     = 000000
+Text       = F0F4F8
+
+[Header]
+Fill       = 745844
+Border     = 000000
+Text       = F0F4F8
+
+[Hover]
+Fill       = 6888BA
+Border     = 98B8EA
+Text       = F0F4F8
+
+[Integer]
+Fill       = A0C0F0
+Border     = 002050
+Text       = 002050
+
+[Real]
+Fill       = E0A0E0
+Border     = 400040
+Text       = 400040
+
+[String]
+Fill       = FFA0A0
+Border     = 600000
+Text       = 600000
+
+[Boolean]
+Fill       = A0E0C0
+Border     = 004020
+Text       = 004020
+
+[Value]
+Fill       = F4F8FC
+Text       = 504448
+
+[Subscript]
+Fill       = D0D4DA
+Text       = 30343A
+
+[Control]
+Fill       = CCDCD2
+Border     = 385042
+Text       = 385042
+
+[Field]
+Fill       = 6888BA
+Border     = 98B8EA
+Text       = F0F4F8
+
+[Active]
+Fill       = A0C0F0
+Border     = 002050
+Text       = 002050
+
+[While]
+Fill       = A0C0F0
+Border     = 002050
+Text       = 002050
+
+[For]
+Fill       = A0C0F0
+Border     = 002050
+Text       = 002050
+
+[Do]
+Fill       = A0C0F0
+Border     = 002050
+Text       = 002050
+
+[Loop]
+Fill       = A0C0F0
+Border     = 002050
+Text       = 002050

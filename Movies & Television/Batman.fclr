@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Batman
+Author     = Marvel Comics
+About      = Flowcharts can jump blocks in a single bound.
+Date       = 2023-12-21 23:28:26
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = FFFFD0
+
+[Page]
+Fill       = 101010
+Border     = FFFFA0
+Text       = FFFFA0
+
+[Breakpoint]
+Fill       = FFFFA0
+Border     = 101010
+Text       = 101010
+
+[Comment]
+Fill       = 303030
+Border     = FFFFA0
+Text       = FFFFA0
+
+[Input]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = E0E0E0
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = C04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 303030
+Border     = 000000
+Text       = FFFFA0
+
+[Header]
+Fill       = 303030
+Border     = FFFFA0
+Text       = FFFFA0
+
+[Hover]
+Fill       = 606060
+Border     = C0C0C0
+Text       = C0C0C0
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFE0
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 303030
+Border     = FFFFA0
+Text       = FFFFA0
+
+[Field]
+Fill       = 303030
+Border     = FFFFA0
+Text       = FFFFA0
+
+[Active]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = FFFFA0
+Border     = 000000
+Text       = 000000

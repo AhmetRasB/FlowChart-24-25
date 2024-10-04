@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = PDP-8/e
+Author     = Digital Equipment Corporation (Scheme by Devin Cook)
+About      = The PDP-8/e was a popular version of the PDP-8 series. The PDP-8 was the first minicomputer.
+Date       = 2023-12-21 23:07:40
+Version    = 4.0
+
+[Line]
+Fill       = FFA500
+Border     = E8E8E8
+
+[Page]
+Fill       = 1C1C1E
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Breakpoint]
+Fill       = E8043C
+Border     = 000000
+Text       = F8F8F8
+
+[Comment]
+Fill       = 1C1C1E
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Input]
+Fill       = F0642C
+Border     = 000000
+Text       = 1C1C1E
+
+[Output]
+Fill       = FFBD23
+Border     = 000000
+Text       = 1C1C1E
+
+[Declare]
+Fill       = BA4A28
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Assign]
+Fill       = BA4A28
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Terminator]
+Fill       = 989292
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Call]
+Fill       = C49C1A
+Border     = F8F8F8
+Text       = F8F8F8
+
+[If]
+Fill       = C49C1A
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Incomplete]
+Fill       = 1C1C1E
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Error]
+Fill       = E8043C
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = F8F8F8
+Border     = 000000
+Text       = 1C1C1E
+
+[Executing]
+Fill       = 027D02
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 3C3C3E
+Border     = 000000
+Text       = E8E8E8
+
+[Header]
+Fill       = BA4A28
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Hover]
+Fill       = 989292
+Border     = 000000
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = F8F8F8
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = F8F8F8
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = F8F8F8
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = F8F8F8
+Text       = FFFFFF
+
+[Value]
+Fill       = 585252
+Text       = F8F8F8
+
+[Subscript]
+Fill       = 989292
+Text       = 000000
+
+[Control]
+Fill       = BA4A28
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Field]
+Fill       = 585252
+Border     = E8E8E8
+Text       = F8F8F8
+
+[Active]
+Fill       = C49C1A
+Border     = F8F8F8
+Text       = F8F8F8
+
+[While]
+Fill       = C49C1A
+Border     = F8F8F8
+Text       = F8F8F8
+
+[For]
+Fill       = C49C1A
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Do]
+Fill       = C49C1A
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Loop]
+Fill       = C49C1A
+Border     = F8F8F8
+Text       = F8F8F8

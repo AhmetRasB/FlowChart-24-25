@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Apple
+Author     = Devin Cook
+About      = A nice crisp apple. Perhaps it's a "red delicious"
+Date       = 2023-12-21 23:15:31
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = FEF0CE
+
+[Page]
+Fill       = AC3034
+Border     = FEF0CE
+Text       = FEF0CE
+
+[Breakpoint]
+Fill       = 6C2428
+Border     = FEF0CE
+Text       = 000000
+
+[Comment]
+Fill       = AC3034
+Border     = FEF0CE
+Text       = FEF0CE
+
+[Input]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000
+
+[Output]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000
+
+[Declare]
+Fill       = F7ECD5
+Border     = 6C2428
+Text       = 000000
+
+[Assign]
+Fill       = F7ECD5
+Border     = 6C2428
+Text       = 000000
+
+[Terminator]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000
+
+[Call]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000
+
+[If]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000
+
+[Incomplete]
+Fill       = AC3034
+Border     = FEF0CE
+Text       = FEF0CE
+
+[Error]
+Fill       = F04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 6C2428
+Border     = 000000
+Text       = FEF0CE
+
+[Header]
+Fill       = 6C2428
+Border     = 000000
+Text       = FEF0CE
+
+[Hover]
+Fill       = 7C3438
+Border     = 000000
+Text       = FEF0CE
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 6C2428
+Border     = FEF0CE
+Text       = FEF0CE
+
+[Field]
+Fill       = F7ECD5
+Border     = 6C2428
+Text       = 000000
+
+[Active]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000
+
+[While]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000
+
+[For]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000
+
+[Do]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000
+
+[Loop]
+Fill       = FEF0CE
+Border     = 6C2428
+Text       = 000000

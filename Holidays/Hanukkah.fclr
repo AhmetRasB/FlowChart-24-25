@@ -1,0 +1,163 @@
+﻿[Main]
+Name       = Hanukkah
+Author     = Devin Cook
+About      = Happy Hanukkah!
+Date       = 2023-12-21 23:24:21
+Version    = 4.0
+
+[Line]
+Fill       = E4C048
+Border     = E0E0E0
+
+[Page]
+Fill       = 204080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = F4AA5C
+Border     = 3E3C3A
+Text       = 3E3C3A
+
+[Comment]
+Fill       = 204080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = FEE082
+Border     = 102040
+Text       = 303840
+
+[Output]
+Fill       = FFF8B0
+Border     = 102040
+Text       = 303840
+
+[Declare]
+Fill       = FEE082
+Border     = 102040
+Text       = 303840
+
+[Assign]
+Fill       = FEE082
+Border     = 102040
+Text       = 303840
+
+[Terminator]
+Fill       = BCEEFC
+Border     = 102040
+Text       = 303840
+
+[Call]
+Fill       = BCEEFC
+Border     = 102040
+Text       = 303840
+
+[If]
+Fill       = BCEEFC
+Border     = 102040
+Text       = 303840
+
+[Incomplete]
+Fill       = 204080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Error]
+Fill       = C04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 2850A0
+Border     = 083080
+Text       = FFFFFF
+
+[Header]
+Fill       = FFFFFF
+Border     = 102040
+Text       = 404040
+
+[Hover]
+Fill       = 2850A0
+Border     = 4078F8
+Text       = FFFFFF
+
+[Integer]
+Fill       = 6090C0
+Border     = 102040
+Text       = FFFFFF
+
+[Real]
+Fill       = C060C0
+Border     = 102040
+Text       = FFFFFF
+
+[String]
+Fill       = C06060
+Border     = 102040
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 50A0A0
+Border     = 102040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 404040
+
+[Subscript]
+Fill       = FFF8B0
+Text       = 403E28
+
+[Control]
+Fill       = E0F0FF
+Border     = 303840
+Text       = 303840
+
+[Field]
+Fill       = FFF4DE
+Border     = 102040
+Text       = 303840
+
+[Active]
+Fill       = FFF8B0
+Border     = 102040
+Text       = 303840
+
+[menu]
+Fill       = ADD8E6
+Border     = 808080
+Text       = 000000
+
+[While]
+Fill       = C0E0FF
+Border     = 102040
+Text       = 303840
+
+[For]
+Fill       = C0E0FF
+Border     = 102040
+Text       = 303840
+
+[Do]
+Fill       = C0E0FF
+Border     = 102040
+Text       = 303840
+
+[Loop]
+Fill       = C0E0FF
+Border     = 102040
+Text       = 303840

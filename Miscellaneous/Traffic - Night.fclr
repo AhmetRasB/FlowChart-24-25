@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Traffic - Night
+Author     = Devin Cook
+About      = This color set imitates the colors found on common traffic signs - at night.
+Date       = 2023-12-21 23:01:58
+Version    = 4.0
+
+[Line]
+Fill       = FFB000
+Border     = FFFFFF
+
+[Page]
+Fill       = 404040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = A00020
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Comment]
+Fill       = 404040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = 005090
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Output]
+Fill       = 007050
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Declare]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = A00020
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Call]
+Fill       = FFB000
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = FFB000
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = CACDBE
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = F02020
+Border     = 000000
+Text       = FFFF20
+
+[Selected]
+Fill       = 9A0068
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 009A32
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 606060
+Border     = 202020
+Text       = FFFFFF
+
+[Header]
+Fill       = 60341C
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Hover]
+Fill       = CACACA
+Border     = 000000
+Text       = 000000
+
+[Integer]
+Fill       = 005090
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[String]
+Fill       = A00020
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 007050
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Value]
+Fill       = 404040
+Text       = FFFFFF
+
+[Subscript]
+Fill       = 60341C
+Text       = FFFFFF
+
+[Control]
+Fill       = CACACA
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = 404040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Active]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = FF7000
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = FF7000
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = FF7000
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = FF7000
+Border     = 000000
+Text       = 000000

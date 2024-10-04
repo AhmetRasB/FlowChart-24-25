@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Green Bar Paper
+Author     = Devin Cook
+About      = The green and white stripes of the dot-matrix printer.
+Date       = 2023-12-21 23:03:57
+Version    = 4.0
+
+[Line]
+Fill       = FFA500
+Border     = 34705A
+
+[Page]
+Fill       = FCFCFC
+Border     = 000000
+Text       = 000000
+
+[Breakpoint]
+Fill       = D0E6E0
+Border     = 34705A
+Text       = 000000
+
+[Comment]
+Fill       = FCFCFC
+Border     = 34705A
+Text       = 101010
+
+[Input]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[Output]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[Declare]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[Assign]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[Terminator]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[Call]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[If]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[While]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[For]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[Do]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[Incomplete]
+Fill       = E0E0E0
+Border     = 909090
+Text       = 101010
+
+[Error]
+Fill       = C04040
+Border     = 101010
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 104070
+Text       = FFFFFF
+
+[Executing]
+Fill       = 34705A
+Border     = 101010
+Text       = FCFCFC
+
+[Window]
+Fill       = 34705A
+Border     = 101010
+Text       = FCFCFC
+
+[Header]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[Hover]
+Fill       = F0F0F0
+Border     = B0B0B0
+Text       = 101010
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010
+
+[Active]
+Fill       = 34705A
+Border     = 101010
+Text       = FCFCFC
+
+[Field]
+Fill       = F8F8F8
+Border     = A0A0A0
+Text       = 101010
+
+[Loop]
+Fill       = D4EAE4
+Border     = 34705A
+Text       = 101010

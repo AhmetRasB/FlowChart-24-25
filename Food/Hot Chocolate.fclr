@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Hot Chocolate
+Author     = Devin Cook
+About      = Nothing is better than hot chocolate after a day playing in the snow.
+Date       = 2023-12-21 23:16:56
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = E9C592
+
+[Page]
+Fill       = 5C4030
+Border     = E8DAB8
+Text       = E8D9B8
+
+[Breakpoint]
+Fill       = E8E0D8
+Border     = 53382E
+Text       = 53382E
+
+[Comment]
+Fill       = 5C4030
+Border     = E8DAB8
+Text       = E8D9B8
+
+[Input]
+Fill       = E8E0D8
+Border     = 4C3020
+Text       = 73584E
+
+[Output]
+Fill       = FFFFFF
+Border     = 4C3020
+Text       = 73584E
+
+[Declare]
+Fill       = E8E0D8
+Border     = 4C3020
+Text       = 73584E
+
+[Assign]
+Fill       = E8E0D8
+Border     = 4C3020
+Text       = 73584E
+
+[Terminator]
+Fill       = B49888
+Border     = 4C3020
+Text       = FFFFFF
+
+[Call]
+Fill       = B49888
+Border     = 4C3020
+Text       = FFFFFF
+
+[If]
+Fill       = B49888
+Border     = 4C3020
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = 73584E
+Border     = E8DAB8
+Text       = E8D9B8
+
+[Error]
+Fill       = C04040
+Border     = 53382E
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 53382E
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = 53382E
+Text       = FFFFFF
+
+[Window]
+Fill       = 54382E
+Border     = 240800
+Text       = FFFFFF
+
+[Header]
+Fill       = FFFFFF
+Border     = 53382E
+Text       = 53382E
+
+[Hover]
+Fill       = 94786E
+Border     = 53382E
+Text       = E8E0D8
+
+[Integer]
+Fill       = 4060C0
+Border     = 53382E
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 53382E
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 53382E
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 53382E
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 73584E
+
+[Subscript]
+Fill       = B49888
+Text       = FFFFFF
+
+[Control]
+Fill       = E8E0D8
+Border     = 53382E
+Text       = 53382E
+
+[Field]
+Fill       = FFFFFF
+Border     = 53382E
+Text       = 53382E
+
+[Active]
+Fill       = B49888
+Border     = 53382E
+Text       = FFFFFF
+
+[While]
+Fill       = B49888
+Border     = 4C3020
+Text       = FFFFFF
+
+[For]
+Fill       = B49888
+Border     = 4C3020
+Text       = FFFFFF
+
+[Do]
+Fill       = B49888
+Border     = 4C3020
+Text       = FFFFFF
+
+[Loop]
+Fill       = B49888
+Border     = 4C3020
+Text       = FFFFFF

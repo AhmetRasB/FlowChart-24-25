@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Eid
+Author     = Devin Cook
+About      = Happy Eid!
+Date       = 2023-12-21 23:23:28
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = F8E4B4
+
+[Page]
+Fill       = 482868
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = F0F0F0
+Border     = 787878
+Text       = 787878
+
+[Comment]
+Fill       = 482868
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = 70C060
+Border     = 386030
+Text       = FFF8FF
+
+[Output]
+Fill       = D4B038
+Border     = 726024
+Text       = FFFFF8
+
+[Declare]
+Fill       = 70C060
+Border     = 386030
+Text       = FFF8FF
+
+[Assign]
+Fill       = 70C060
+Border     = 386030
+Text       = FFF8FF
+
+[Terminator]
+Fill       = 6070E0
+Border     = 283068
+Text       = FFFFFF
+
+[Call]
+Fill       = F0F0F0
+Border     = 787878
+Text       = 787878
+
+[If]
+Fill       = F0F0F0
+Border     = 787878
+Text       = 787878
+
+[Incomplete]
+Fill       = 604080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Error]
+Fill       = C04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 604080
+Border     = 200040
+Text       = FFFFFF
+
+[Header]
+Fill       = 604080
+Border     = F0F0F0
+Text       = FFFFFF
+
+[Hover]
+Fill       = 604080
+Border     = A080C0
+Text       = FFFFFF
+
+[Integer]
+Fill       = 2080D0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 9060B0
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = F05090
+Border     = 782848
+Text       = FFF8FF
+
+[Boolean]
+Fill       = 70C060
+Border     = 386030
+Text       = FFF8FF
+
+[Value]
+Fill       = FFFFFF
+Text       = 142850
+
+[Subscript]
+Fill       = D4B038
+Text       = FFFFF8
+
+[Control]
+Fill       = 604080
+Border     = F0F0F0
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = FFFFFF
+Text       = 142850
+
+[Active]
+Fill       = D4B038
+Border     = FFFFF8
+Text       = FFFFF8
+
+[While]
+Fill       = F0F0F0
+Border     = 787878
+Text       = 787878
+
+[For]
+Fill       = F0F0F0
+Border     = 787878
+Text       = 787878
+
+[Do]
+Fill       = F0F0F0
+Border     = 787878
+Text       = 787878
+
+[Loop]
+Fill       = F0F0F0
+Border     = 787878
+Text       = 787878

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Easter
+Author     = Devin Cook
+About      = Colored eggs hidden in the yard
+Date       = 2023-12-21 23:23:16
+Version    = 4.0
+
+[Line]
+Fill       = FFFFD0
+Border     = 88F8C8
+
+[Page]
+Fill       = 109070
+Border     = FFFFFF
+Text       = FFFFD0
+
+[Breakpoint]
+Fill       = FFD0D0
+Border     = 004020
+Text       = 004020
+
+[Comment]
+Fill       = 109070
+Border     = FFFFFF
+Text       = FFFFD0
+
+[Input]
+Fill       = C0E0FF
+Border     = 004120
+Text       = 406080
+
+[Output]
+Fill       = D0FFD0
+Border     = 004020
+Text       = 508050
+
+[Declare]
+Fill       = FFE0A0
+Border     = 004020
+Text       = 806020
+
+[Assign]
+Fill       = FFFFD0
+Border     = 004020
+Text       = 808050
+
+[Terminator]
+Fill       = FFFFFF
+Border     = 404040
+Text       = 606060
+
+[Call]
+Fill       = FFD0D0
+Border     = 004020
+Text       = 805050
+
+[If]
+Fill       = FFD0D0
+Border     = 004020
+Text       = 805050
+
+[Incomplete]
+Fill       = FFFFFF
+Border     = 404040
+Text       = 606060
+
+[Error]
+Fill       = A02828
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 30C060
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 28A888
+Border     = 006848
+Text       = FFFFD0
+
+[Header]
+Fill       = FFFFFF
+Border     = 404040
+Text       = 606060
+
+[Hover]
+Fill       = 28A888
+Border     = 005838
+Text       = FFFFD0
+
+[Integer]
+Fill       = C0E0FF
+Border     = 004120
+Text       = 406080
+
+[Real]
+Fill       = F0D0FF
+Border     = 004020
+Text       = 705080
+
+[String]
+Fill       = FFD0D0
+Border     = 004020
+Text       = 805050
+
+[Boolean]
+Fill       = D0FFD0
+Border     = 004020
+Text       = 508050
+
+[Value]
+Fill       = FFFFFF
+Text       = 606060
+
+[Subscript]
+Fill       = FFFFD0
+Text       = 808050
+
+[Control]
+Fill       = FFFFFF
+Border     = 404040
+Text       = 606060
+
+[Field]
+Fill       = FFFFFF
+Border     = FFFFFF
+Text       = 606060
+
+[Active]
+Fill       = FFFFD0
+Border     = 004020
+Text       = 808050
+
+[While]
+Fill       = F0D0FF
+Border     = 004020
+Text       = 705080
+
+[For]
+Fill       = F0D0FF
+Border     = 004020
+Text       = 705080
+
+[Do]
+Fill       = F0D0FF
+Border     = 004020
+Text       = 705080
+
+[Loop]
+Fill       = F0D0FF
+Border     = 004020
+Text       = 705080

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = City Lights
+Author     = Devin Cook
+About      = Glowing lights of the city
+Date       = 2023-12-21 22:56:50
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = A0A0A0
+
+[Page]
+Fill       = 001020
+Border     = A0A0A0
+Text       = A0A0A0
+
+[Breakpoint]
+Fill       = 000000
+Border     = E00000
+Text       = E00000
+
+[Comment]
+Fill       = 001020
+Border     = A0A0A0
+Text       = A0A0A0
+
+[Input]
+Fill       = 000000
+Border     = 40A0FF
+Text       = FFFFFF
+
+[Output]
+Fill       = 000000
+Border     = 40FF40
+Text       = FFFFFF
+
+[Declare]
+Fill       = 000000
+Border     = FFFF40
+Text       = FFFFFF
+
+[Assign]
+Fill       = 000000
+Border     = FFFF40
+Text       = FFFFFF
+
+[Terminator]
+Fill       = 000000
+Border     = FF40FF
+Text       = FFFFFF
+
+[Call]
+Fill       = 000000
+Border     = FF40FF
+Text       = FFFFFF
+
+[If]
+Fill       = 000000
+Border     = FF4040
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Error]
+Fill       = AA0000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 0000AA
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00AA00
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 002040
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = 000000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Hover]
+Fill       = 202020
+Border     = 808080
+Text       = FFFFFF
+
+[Integer]
+Fill       = 4060C0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Value]
+Fill       = 000000
+Text       = FFFFFF
+
+[Subscript]
+Fill       = 808080
+Text       = FFFFFF
+
+[Control]
+Fill       = 000000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Field]
+Fill       = 000000
+Border     = A0A0A0
+Text       = FFFFFF
+
+[Active]
+Fill       = 000000
+Border     = FFFF40
+Text       = FFFFFF
+
+[While]
+Fill       = 000000
+Border     = FFA040
+Text       = FFFFFF
+
+[For]
+Fill       = 000000
+Border     = FFA040
+Text       = FFFFFF
+
+[Do]
+Fill       = 000000
+Border     = FFA040
+Text       = FFFFFF
+
+[Loop]
+Fill       = 000000
+Border     = FFA040
+Text       = FFFFFF

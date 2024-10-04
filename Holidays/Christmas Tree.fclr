@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Christmas Tree
+Author     = Devin Cook
+About      = A colorfully adorned Christmas Tree
+Date       = 2023-12-21 23:22:19
+Version    = 4.0
+
+[Line]
+Fill       = CCA51E
+Border     = E0E0E0
+
+[Page]
+Fill       = 005038
+Border     = E0E0E0
+Text       = E0E0E0
+
+[Breakpoint]
+Fill       = EA0600
+Border     = FFACAA
+Text       = FFFFFF
+
+[Comment]
+Fill       = 005030
+Border     = E0E0E0
+Text       = E0E0E0
+
+[Input]
+Fill       = 0075EA
+Border     = AAD5FF
+Text       = FFFFFF
+
+[Output]
+Fill       = 00D450
+Border     = AAFFCA
+Text       = FFFFFF
+
+[Declare]
+Fill       = EA8100
+Border     = FFD9AA
+Text       = FFFFFF
+
+[Assign]
+Fill       = CCA51E
+Border     = F4E7B5
+Text       = FFFFFF
+
+[Terminator]
+Fill       = BFBFBF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Call]
+Fill       = AA00EA
+Border     = E8AAFF
+Text       = FFFFFF
+
+[If]
+Fill       = EA0600
+Border     = FFACAA
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = 005030
+Border     = E0E0E0
+Text       = E0E0E0
+
+[Error]
+Fill       = C00000
+Border     = FFFF80
+Text       = FFFF80
+
+[Selected]
+Fill       = DF2080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = F4646B
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 106048
+Border     = 004028
+Text       = CCE2C7
+
+[Header]
+Fill       = A0522D
+Border     = EBCEBE
+Text       = F5E7DE
+
+[Hover]
+Fill       = 427238
+Border     = 97C78D
+Text       = CCE2C7
+
+[Integer]
+Fill       = 4060C0
+Border     = E0E0E0
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = E0E0E0
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = E0E0E0
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = E0E0E0
+Text       = FFFFFF
+
+[Value]
+Fill       = 427238
+Text       = CCE2C7
+
+[Subscript]
+Fill       = A0522D
+Text       = F5E7DE
+
+[Control]
+Fill       = 427238
+Border     = 97C78D
+Text       = CCE2C7
+
+[Field]
+Fill       = 427238
+Border     = E0E0E0
+Text       = CCE2C7
+
+[Active]
+Fill       = BFBFBF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[While]
+Fill       = BFBFBF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[For]
+Fill       = BFBFBF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Do]
+Fill       = BFBFBF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Loop]
+Fill       = BFBFBF
+Border     = FFFFFF
+Text       = FFFFFF

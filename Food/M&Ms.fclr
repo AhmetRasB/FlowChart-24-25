@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = M&Ms
+Author     = Mars, Incorporated
+About      = The colors of a bowl of M&Ms.
+Date       = 2023-12-21 23:16:31
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFC
+Border     = FFD204
+
+[Page]
+Fill       = 3C2020
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Breakpoint]
+Fill       = B52435
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Comment]
+Fill       = 3C2020
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Input]
+Fill       = E0B200
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Output]
+Fill       = 5BAD41
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Declare]
+Fill       = 136398
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Assign]
+Fill       = 136398
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Terminator]
+Fill       = 6C5050
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Call]
+Fill       = B52435
+Border     = FFFFFC
+Text       = FFFFFC
+
+[If]
+Fill       = B52435
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Incomplete]
+Fill       = 3C2020
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Error]
+Fill       = C04040
+Border     = FFFF80
+Text       = FFFF80
+
+[Selected]
+Fill       = FFFFFC
+Border     = 805200
+Text       = 3C2020
+
+[Executing]
+Fill       = 00A080
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 5C4040
+Border     = 9C8080
+Text       = FFFFFC
+
+[Header]
+Fill       = F0C200
+Border     = 7F5200
+Text       = 3C2020
+
+[Hover]
+Fill       = 5C4040
+Border     = 1C0000
+Text       = FFFFFC
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 5C4040
+Border     = 9C8080
+Text       = FFFFFC
+
+[Field]
+Fill       = 9C8080
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Active]
+Fill       = 9C8080
+Border     = FFFFFC
+Text       = FFFFFC
+
+[While]
+Fill       = F07031
+Border     = FFFFFC
+Text       = FFFFFC
+
+[For]
+Fill       = F07031
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Do]
+Fill       = F07031
+Border     = FFFFFC
+Text       = FFFFFC
+
+[Loop]
+Fill       = F07031
+Border     = FFFFFC
+Text       = FFFFFC

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Santa Claus
+Author     = Devin Cook
+About      = The suit worn by everyone's favorite Golly Old Elf!
+Date       = 2023-12-21 23:25:41
+Version    = 4.0
+
+[Line]
+Fill       = FFC060
+Border     = F8F8F8
+
+[Page]
+Fill       = 94181A
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = F8F8F8
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 94181A
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[Output]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[Declare]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[Assign]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[Terminator]
+Fill       = 000000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Call]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[If]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[Incomplete]
+Fill       = 000000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Error]
+Fill       = FF3030
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 1D8DB8
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = F8F8F8
+Text       = F8F8F8
+
+[Window]
+Fill       = B84850
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = 000000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Hover]
+Fill       = B84850
+Border     = E87880
+Text       = FFFFFF
+
+[Integer]
+Fill       = 4060C0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[String]
+Fill       = B84850
+Border     = F8F8F8
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Value]
+Fill       = 000000
+Text       = FFFFFF
+
+[Subscript]
+Fill       = F8F8F8
+Text       = 686868
+
+[Control]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[Field]
+Fill       = 000000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Active]
+Fill       = 000000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[While]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[For]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[Do]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868
+
+[Loop]
+Fill       = F8F8F8
+Border     = 686868
+Text       = 686868

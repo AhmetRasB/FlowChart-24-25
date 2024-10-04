@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Winamp
+Author     = Justin Frankel and Dmitry Boldyrev (scheme by Devin Cook)
+About      = It really kicks a llama's ass.
+Date       = 2023-12-21 23:11:32
+Version    = 4.0
+
+[Line]
+Fill       = FB7A00
+Border     = DAE2E2
+
+[Page]
+Fill       = 464666
+Border     = DAE2E2
+Text       = DAE2E2
+
+[Breakpoint]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 464666
+Border     = DAE2E2
+Text       = DAE2E2
+
+[Input]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = 29293A
+Border     = DAE2E2
+Text       = 01F102
+
+[Call]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 464666
+Border     = DAE2E2
+Text       = DAE2E2
+
+[Error]
+Fill       = C04040
+Border     = 29293A
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 29293A
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00F101
+Border     = 29293A
+Text       = 464666
+
+[Window]
+Fill       = 29293A
+Border     = 000000
+Text       = 01F102
+
+[Header]
+Fill       = 16161F
+Border     = FFF89A
+Text       = FFF89A
+
+[Hover]
+Fill       = 29293A
+Border     = 000000
+Text       = 01F102
+
+[Integer]
+Fill       = 4060C0
+Border     = 29293A
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 29293A
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 29293A
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 29293A
+Text       = FFFFFF
+
+[Value]
+Fill       = DAE2E2
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 29293A
+Border     = 000000
+Text       = 01F102
+
+[Field]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = 00F101
+Border     = 29293A
+Text       = 464666
+
+[While]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = DAE2E2
+Border     = 000000
+Text       = 000000

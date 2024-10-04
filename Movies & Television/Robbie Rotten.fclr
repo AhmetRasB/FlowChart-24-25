@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Robbie Rotten
+Author     = Devin Cook
+About      = Greatest super-villian of all time. We are number one!
+Date       = 2023-12-21 23:31:15
+Version    = 4.0
+
+[Line]
+Fill       = FCCB68
+Border     = B4C4DA
+
+[Page]
+Fill       = 304A76
+Border     = CAD6E4
+Text       = CAD6E4
+
+[Breakpoint]
+Fill       = B82745
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Comment]
+Fill       = 304A76
+Border     = B4C4DA
+Text       = CAD6E4
+
+[Input]
+Fill       = EA6B20
+Border     = FADAC8
+Text       = FADAC8
+
+[Output]
+Fill       = 704879
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Declare]
+Fill       = 9C243C
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Assign]
+Fill       = 9C243C
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Terminator]
+Fill       = F0F0F0
+Border     = 2A2A22
+Text       = 2A2A22
+
+[Call]
+Fill       = 2A2A22
+Border     = F0F0F0
+Text       = F0F0F0
+
+[If]
+Fill       = 28306C
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Incomplete]
+Fill       = A0A0A0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Error]
+Fill       = A02020
+Border     = FFFF20
+Text       = FFFF20
+
+[Selected]
+Fill       = 6AA0D4
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 5C7A34
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 3E6097
+Border     = 374D6F
+Text       = FFFFFF
+
+[Header]
+Fill       = 506FA0
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Hover]
+Fill       = 456BAB
+Border     = 90A8D2
+Text       = F0F0F0
+
+[Integer]
+Fill       = 506FA0
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Real]
+Fill       = 704879
+Border     = F0F0F0
+Text       = F0F0F0
+
+[String]
+Fill       = 9C243C
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Boolean]
+Fill       = 408080
+Border     = F0F0F0
+Text       = FFFFFF
+
+[Value]
+Fill       = 28306C
+Text       = F0F0F0
+
+[Subscript]
+Fill       = A0A0A0
+Text       = FFFFFF
+
+[Control]
+Fill       = 506FA0
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Field]
+Fill       = 28306C
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Active]
+Fill       = C0E0FF
+Border     = 60A0E0
+Text       = 000000
+
+[While]
+Fill       = 28306C
+Border     = F0F0F0
+Text       = F0F0F0
+
+[For]
+Fill       = 28306C
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Do]
+Fill       = 28306C
+Border     = F0F0F0
+Text       = F0F0F0
+
+[Loop]
+Fill       = 28306C
+Border     = F0F0F0
+Text       = F0F0F0

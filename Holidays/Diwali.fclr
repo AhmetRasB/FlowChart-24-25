@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Diwali
+Author     = Devin Cook
+About      = Happy Diwali!
+Date       = 2023-12-21 23:22:47
+Version    = 4.0
+
+[Line]
+Fill       = FFFAA8
+Border     = E4BAF0
+
+[Page]
+Fill       = 201050
+Border     = FFFAA8
+Text       = FFFAA8
+
+[Breakpoint]
+Fill       = FA6030
+Border     = BA2000
+Text       = FFFFD0
+
+[Comment]
+Fill       = 201050
+Border     = FFFAA8
+Text       = FFFAA8
+
+[Input]
+Fill       = E04080
+Border     = A00040
+Text       = FFFFD0
+
+[Output]
+Fill       = E03030
+Border     = A00000
+Text       = FFFFD0
+
+[Declare]
+Fill       = FA6030
+Border     = BA2000
+Text       = FFFFF0
+
+[Assign]
+Fill       = FA9048
+Border     = BA5000
+Text       = FFFFF0
+
+[Terminator]
+Fill       = CC58F0
+Border     = 662C78
+Text       = FFFFF0
+
+[Call]
+Fill       = E4BA48
+Border     = A47A08
+Text       = FFFFF8
+
+[If]
+Fill       = E4BA48
+Border     = A47A08
+Text       = FFFFF8
+
+[Incomplete]
+Fill       = 201050
+Border     = FFFAA8
+Text       = FFFAA8
+
+[Error]
+Fill       = FF0000
+Border     = FFFFA0
+Text       = FFFFA0
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFA0
+Text       = FFFFA0
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFA0
+Text       = FFFFA0
+
+[Window]
+Fill       = 302060
+Border     = 201050
+Text       = FFFAA8
+
+[Header]
+Fill       = 8C18C0
+Border     = CC58F0
+Text       = FFFFF0
+
+[Hover]
+Fill       = 302060
+Border     = 7060A0
+Text       = FFFAA8
+
+[Integer]
+Fill       = E04080
+Border     = A00040
+Text       = FFFFD0
+
+[Real]
+Fill       = CC58F0
+Border     = 662C78
+Text       = FFFFF0
+
+[String]
+Fill       = E03030
+Border     = A00000
+Text       = FFFFD0
+
+[Boolean]
+Fill       = FA9048
+Border     = BA5000
+Text       = FFFFF0
+
+[Value]
+Fill       = FFFFE0
+Text       = 142850
+
+[Subscript]
+Fill       = FFE080
+Text       = 142850
+
+[Control]
+Fill       = 8C18C0
+Border     = CC58F0
+Text       = FFFFF0
+
+[Field]
+Fill       = FFFFE0
+Border     = FFFAA8
+Text       = 142850
+
+[Active]
+Fill       = CC58F0
+Border     = 662C78
+Text       = FFFFF0
+
+[While]
+Fill       = CC58F0
+Border     = 662C78
+Text       = FFFFF0
+
+[For]
+Fill       = CC58F0
+Border     = 662C78
+Text       = FFFFF0
+
+[Do]
+Fill       = CC58F0
+Border     = 662C78
+Text       = FFFFF0
+
+[Loop]
+Fill       = CC58F0
+Border     = 662C78
+Text       = FFFFF0

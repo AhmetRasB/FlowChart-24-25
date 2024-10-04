@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Traffic
+Author     = Devin Cook
+About      = This color set imitates the colors found on common traffic signs.
+Date       = 2023-12-22 14:10:01
+Version    = 4.0
+
+[Line]
+Fill       = FFB000
+Border     = 202020
+
+[Page]
+Fill       = 88C4EC
+Border     = FFFFFF
+Text       = 000000
+
+[Breakpoint]
+Fill       = A00020
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Comment]
+Fill       = 88C4EC
+Border     = 202020
+Text       = 202020
+
+[Input]
+Fill       = 005090
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Output]
+Fill       = 007050
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Declare]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = A00020
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Call]
+Fill       = FFB000
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = FFB000
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = CACDBE
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = F02020
+Border     = 000000
+Text       = FFFF20
+
+[Selected]
+Fill       = 9A0068
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 009A32
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 50AFE4
+Border     = 2454A0
+Text       = FFFFFF
+
+[Header]
+Fill       = 60341C
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Hover]
+Fill       = CACACA
+Border     = 000000
+Text       = 000000
+
+[Integer]
+Fill       = 005090
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 9A0068
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A00020
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 007050
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = FAFAFA
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = FAFAFA
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = FFB000
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = FF7000
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = FF7000
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = FF7000
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = FF7000
+Border     = 000000
+Text       = 000000

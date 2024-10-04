@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Candy Bar
+Author     = Devin Cook
+About      = Chocolate, marshmellows, nuts, and way too much sugar.
+Date       = 2023-12-21 23:16:09
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = E9C592
+
+[Page]
+Fill       = 4C3020
+Border     = E4E0DC
+Text       = E4E0DC
+
+[Breakpoint]
+Fill       = DEBC8C
+Border     = 2A2A28
+Text       = 4C3020
+
+[Comment]
+Fill       = 4C3020
+Border     = E4E0DC
+Text       = E4E0DC
+
+[Input]
+Fill       = D9B582
+Border     = 593502
+Text       = 522C1A
+
+[Output]
+Fill       = D6A05A
+Border     = 6B502D
+Text       = FFF0AA
+
+[Declare]
+Fill       = D6A05A
+Border     = 6B502D
+Text       = FFF0AA
+
+[Assign]
+Fill       = D6A05A
+Border     = 6B502D
+Text       = FFF0AA
+
+[Terminator]
+Fill       = D9B582
+Border     = 593502
+Text       = 522C1A
+
+[Call]
+Fill       = FFF8F0
+Border     = 807C78
+Text       = 807C78
+
+[If]
+Fill       = FFF8F0
+Border     = 807C78
+Text       = 807C78
+
+[Incomplete]
+Fill       = 4C3020
+Border     = E4E0DC
+Text       = E4E0DC
+
+[Error]
+Fill       = C04040
+Border     = 602020
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 2A2A28
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = 2A2A28
+Text       = FFFFFF
+
+[Window]
+Fill       = 5C4030
+Border     = 2C1000
+Text       = E4E0DC
+
+[Header]
+Fill       = D9B582
+Border     = 593502
+Text       = 522C1A
+
+[Hover]
+Fill       = 7E402E
+Border     = 000000
+Text       = D9B582
+
+[Integer]
+Fill       = 4060C0
+Border     = 2A2A28
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 2A2A28
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 2A2A28
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 2A2A28
+Text       = FFFFFF
+
+[Value]
+Fill       = FFF8F0
+Text       = 807C78
+
+[Subscript]
+Fill       = D9B582
+Text       = 522C1A
+
+[Control]
+Fill       = D9B582
+Border     = 593502
+Text       = 522C1A
+
+[Field]
+Fill       = FFF8F0
+Border     = E4E0DC
+Text       = 807C78
+
+[Active]
+Fill       = FFF8F0
+Border     = 807C78
+Text       = 807C78
+
+[While]
+Fill       = FFF8F0
+Border     = 807C78
+Text       = 807C78
+
+[For]
+Fill       = FFF8F0
+Border     = 807C78
+Text       = 807C78
+
+[Do]
+Fill       = FFF8F0
+Border     = 807C78
+Text       = 807C78
+
+[Loop]
+Fill       = FFF8F0
+Border     = 807C78
+Text       = 807C78

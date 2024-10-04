@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Ravenclaw
+Author     = J. K. Rowling (file by Devin Cook)
+About      = This color set plays homage to the Harry Potter books and movies. The movies used a different color scheme than the books - blue & silver rather than blue & copper. 10 points to Ravenclaw!
+Date       = 2024-01-04 04:15:24
+Version    = 4.0
+
+[Line]
+Fill       = FFC000
+Border     = EAEEF0
+
+[Terminator]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[Page]
+Fill       = 003D5F
+Border     = EAEEF0
+Text       = EAEEF0
+
+[Breakpoint]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[Comment]
+Fill       = 003D5F
+Border     = EAEEF0
+Text       = EAEEF0
+
+[Input]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[Output]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[Declare]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[Assign]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[Call]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[If]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[While]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[For]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[Do]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[Incomplete]
+Fill       = 003D5F
+Border     = EAEEF0
+Text       = EAEEF0
+
+[Error]
+Fill       = C02020
+Border     = FFFF80
+Text       = FFFF80
+
+[Selected]
+Fill       = 4080FF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00C060
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 004D6F
+Border     = 000000
+Text       = EAEEF0
+
+[Header]
+Fill       = FCFCFC
+Border     = 101010
+Text       = 505050
+
+[Hover]
+Fill       = 004D6F
+Border     = EAEEF0
+Text       = EAEEF0
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = CACED0
+Text       = 181818
+
+[Control]
+Fill       = 206D8F
+Border     = 000000
+Text       = EAEEF0
+
+[Active]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = DADEE0
+Border     = 181818
+Text       = 181818

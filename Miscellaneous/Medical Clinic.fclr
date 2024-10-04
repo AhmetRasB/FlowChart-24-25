@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Medical Clinic
+Author     = Devin Cook
+About      = You should have regular checkups...
+Date       = 2023-12-21 22:59:22
+Version    = 4.0
+
+[Line]
+Fill       = D88C7C
+Border     = 404040
+
+[Page]
+Fill       = FFFFFF
+Border     = 404040
+Text       = 202020
+
+[Breakpoint]
+Fill       = D88C7C
+Border     = 441C14
+Text       = 441C14
+
+[Comment]
+Fill       = FFFFFF
+Border     = 404040
+Text       = 202020
+
+[Input]
+Fill       = 88B6CC
+Border     = 18303C
+Text       = 18303C
+
+[Output]
+Fill       = DDD3C8
+Border     = 423628
+Text       = 423628
+
+[Declare]
+Fill       = 88B6CC
+Border     = 18303C
+Text       = 18303C
+
+[Assign]
+Fill       = 88B6CC
+Border     = 18303C
+Text       = 18303C
+
+[Terminator]
+Fill       = 88CCA4
+Border     = 1C3C28
+Text       = 1C3C28
+
+[Call]
+Fill       = 88CCA4
+Border     = 1C3C28
+Text       = 1C3C28
+
+[If]
+Fill       = 88CCA4
+Border     = 1C3C28
+Text       = 1C3C28
+
+[Incomplete]
+Fill       = A0A0A0
+Border     = 505050
+Text       = FFFFFF
+
+[Error]
+Fill       = D88C7C
+Border     = 441C14
+Text       = FFFFFF
+
+[Selected]
+Fill       = 5877B8
+Border     = 141C30
+Text       = FFFFFF
+
+[Executing]
+Fill       = 7EB858
+Border     = 203014
+Text       = FFFFFF
+
+[Window]
+Fill       = F0F0F0
+Border     = 808080
+Text       = 000000
+
+[Header]
+Fill       = 0876AA
+Border     = 043851
+Text       = FFFFFF
+
+[Hover]
+Fill       = F0F0F0
+Border     = 808080
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 002080
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 400040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 202020
+
+[Subscript]
+Fill       = DDD3C8
+Text       = 423628
+
+[Control]
+Fill       = F0F0F0
+Border     = 808080
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = 404040
+Text       = 202020
+
+[Active]
+Fill       = DDD3C8
+Border     = 423628
+Text       = 423628
+
+[While]
+Fill       = 88CCA4
+Border     = 1C3C28
+Text       = 1C3C28
+
+[For]
+Fill       = 88CCA4
+Border     = 1C3C28
+Text       = 1C3C28
+
+[Do]
+Fill       = 88CCA4
+Border     = 1C3C28
+Text       = 1C3C28
+
+[Loop]
+Fill       = 88CCA4
+Border     = 1C3C28
+Text       = 1C3C28

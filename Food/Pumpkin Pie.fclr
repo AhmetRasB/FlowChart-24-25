@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Pumpkin Pie
+Author     = Devin Cook
+About      = ... with whipped cream.
+Date       = 2023-12-21 23:19:08
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = E8E8E8
+
+[Page]
+Fill       = AC6C40
+Border     = FEDCA8
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = F0CCA8
+Border     = 40372A
+Text       = 40372A
+
+[Comment]
+Fill       = AC6C40
+Border     = FEDCA8
+Text       = FFFFFF
+
+[Input]
+Fill       = F8F8F8
+Border     = 606060
+Text       = 606060
+
+[Output]
+Fill       = F8F8F8
+Border     = 606060
+Text       = 606060
+
+[Declare]
+Fill       = F8F8F8
+Border     = 606060
+Text       = 606060
+
+[Assign]
+Fill       = FEDCA8
+Border     = 684428
+Text       = 684428
+
+[Terminator]
+Fill       = F8F8F8
+Border     = 606060
+Text       = 606060
+
+[Call]
+Fill       = FEDCA8
+Border     = 684428
+Text       = 684428
+
+[If]
+Fill       = FEDCA8
+Border     = 684428
+Text       = 684428
+
+[Incomplete]
+Fill       = AC6C40
+Border     = FEDCA8
+Text       = FFFFFF
+
+[Error]
+Fill       = C04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = C87C44
+Border     = 7C3C10
+Text       = FFFFFF
+
+[Header]
+Fill       = DC8456
+Border     = FFDCB8
+Text       = FFFFFF
+
+[Hover]
+Fill       = C87C44
+Border     = FEDCA8
+Text       = FFFFFF
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = F8F8F8
+Text       = 3E3E3E
+
+[Subscript]
+Fill       = FEDCA8
+Text       = 40372A
+
+[Control]
+Fill       = F8F8F8
+Border     = 606060
+Text       = 606060
+
+[Field]
+Fill       = F8F8F8
+Border     = 606060
+Text       = 606060
+
+[Active]
+Fill       = DC8456
+Border     = 7C3C10
+Text       = FFFFFF
+
+[While]
+Fill       = FEDCA8
+Border     = 684428
+Text       = 684428
+
+[For]
+Fill       = FEDCA8
+Border     = 684428
+Text       = 684428
+
+[Do]
+Fill       = FEDCA8
+Border     = 684428
+Text       = 684428
+
+[Loop]
+Fill       = FEDCA8
+Border     = 684428
+Text       = 684428

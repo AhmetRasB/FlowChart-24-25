@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Slytherin
+Author     = J. K. Rowling (file by Devin Cook)
+About      = This color set plays homage to the Harry Potter books and movies. 10 points to Slytherin!
+Date       = 2024-01-04 04:21:14
+Version    = 4.0
+
+[Line]
+Fill       = FFC000
+Border     = EAEEF0
+
+[Page]
+Fill       = 004416
+Border     = CCCCCC
+Text       = EAEEF0
+
+[Breakpoint]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[Comment]
+Fill       = 004416
+Border     = CCCCCC
+Text       = EAEEF0
+
+[Input]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[Output]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[Declare]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[Assign]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[Terminator]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[Call]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[If]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[Incomplete]
+Fill       = 004416
+Border     = CCCCCC
+Text       = EAEEF0
+
+[Error]
+Fill       = C02020
+Border     = FFFF80
+Text       = FFFF80
+
+[Selected]
+Fill       = 4080FF
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00C060
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 005426
+Border     = 181818
+Text       = EAEEF0
+
+[Header]
+Fill       = FCFCFC
+Border     = 181818
+Text       = 181818
+
+[Hover]
+Fill       = 005426
+Border     = CCCCCC
+Text       = CCCCCC
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FCFCFC
+Text       = 181818
+
+[Subscript]
+Fill       = CCCCCC
+Text       = 181818
+
+[Control]
+Fill       = 207446
+Border     = 000000
+Text       = CCCCCC
+
+[Field]
+Fill       = FCFCFC
+Border     = 181818
+Text       = 181818
+
+[Active]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[While]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[For]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[Do]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818
+
+[Loop]
+Fill       = CCCCCC
+Border     = 181818
+Text       = 181818

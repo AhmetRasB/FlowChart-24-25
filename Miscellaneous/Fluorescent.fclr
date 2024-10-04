@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Fluorescent
+Author     = Devin Cook
+About      = The glowing colors under a blacklight.
+Date       = 2023-12-21 22:59:13
+Version    = 4.0
+
+[Line]
+Fill       = FFFF66
+Border     = FFFFFF
+
+[Page]
+Fill       = 101010
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = FF0066
+Border     = 202020
+Text       = 202020
+
+[Comment]
+Fill       = 101010
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = 66FFFF
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = 66FF66
+Border     = 000000
+Text       = 101010
+
+[Declare]
+Fill       = FFFF66
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = FFFF66
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = FF66FF
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = FF66FF
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = FF66FF
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 606060
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Error]
+Fill       = FF3333
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 50BFE6
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 33CC33
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 303030
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = FFFFFF
+Border     = 202020
+Text       = 202020
+
+[Hover]
+Fill       = 404040
+Border     = 606060
+Text       = FFFFFF
+
+[Integer]
+Fill       = 33FFFF
+Border     = 000000
+Text       = 000000
+
+[Real]
+Fill       = FF66FF
+Border     = 000000
+Text       = 000000
+
+[String]
+Fill       = FF0066
+Border     = 101010
+Text       = 101010
+
+[Boolean]
+Fill       = 66FF66
+Border     = 000000
+Text       = 101010
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 404040
+Border     = C0C0C0
+Text       = FFFFFF
+
+[Field]
+Fill       = 606060
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Active]
+Fill       = FFFFFF
+Border     = 202020
+Text       = 202020
+
+[While]
+Fill       = FFCC00
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = FFCC00
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = FFCC00
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = FFCC00
+Border     = 000000
+Text       = 000000

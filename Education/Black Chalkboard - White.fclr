@@ -1,0 +1,173 @@
+﻿[Main]
+Name       = Black Chalkboard  - Color
+Author     = Devin Cook
+About      = Colored chalk on a classic black chalkboard.
+Date       = 2023-12-21 23:14:09
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = E8E8E8
+
+[Page]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Breakpoint]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Comment]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Input]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Output]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Declare]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Assign]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Terminator]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Call]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[If]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Incomplete]
+Fill       = 9C9C9C
+Border     = 2A2A2A
+Text       = 2A2A2A
+
+[Error]
+Fill       = C04040
+Border     = F8F8F8
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = F8F8F8
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A060
+Border     = F8F8F8
+Text       = FFFFFF
+
+[Window]
+Fill       = 2A2A2A
+Border     = 0A0A0A
+Text       = E8E8E8
+
+[Header]
+Fill       = E8E8E8
+Border     = E8E8E8
+Text       = 2A2A2A
+
+[Hover]
+Fill       = 5C5C5C
+Border     = 9C9C9C
+Text       = E8E8E8
+
+[Name]
+Fill       = ADD8E6
+Border     = 808080
+Text       = 000000
+
+[About]
+Fill       = ADD8E6
+Border     = 808080
+Text       = 000000
+
+[Line Numbers]
+Fill       = F8F8F8
+Border     = F8F8F8
+Text       = 182818
+
+[Integer]
+Fill       = E0F0FF
+Border     = E0F0FF
+Text       = 3A3A3A
+
+[Real]
+Fill       = F0E0FF
+Border     = F0E0FF
+Text       = 3A3A3A
+
+[String]
+Fill       = FFE0E0
+Border     = FFE0E0
+Text       = 3A3A3A
+
+[Boolean]
+Fill       = E0FFE0
+Border     = E0FFE0
+Text       = 3A3A3A
+
+[Value]
+Fill       = 3A3A3A
+Text       = E8E8E8
+
+[Subscript]
+Fill       = 5C5C5C
+Text       = E8E8E8
+
+[Control]
+Fill       = 5C5C5C
+Border     = 9C9C9C
+Text       = E8E8E8
+
+[Field]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Active]
+Fill       = E8E8E8
+Border     = E8E8E8
+Text       = 2A2A2A
+
+[While]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[For]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Do]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8
+
+[Loop]
+Fill       = 3A3A3A
+Border     = E8E8E8
+Text       = E8E8E8

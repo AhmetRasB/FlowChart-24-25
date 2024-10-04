@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = CGA - Palette 2
+Author     = Devin Cook
+About      = These are palette 2 colors the IBM PC's 1981 CGA (color graphics card).
+Date       = 2023-12-21 23:09:13
+Version    = 4.0
+
+[Line]
+Fill       = FF5555
+Border     = FFFF55
+
+[Page]
+Fill       = 000000
+Border     = FFFF55
+Text       = 55FF55
+
+[Breakpoint]
+Fill       = FF5555
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 000000
+Border     = FFFF55
+Text       = FFFF55
+
+[Input]
+Fill       = FF5555
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = FFFF55
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = FF5555
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = FF5555
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = 55FF55
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = 55FF55
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = 55FF55
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 000000
+Border     = FFFF55
+Text       = FFFF55
+
+[Error]
+Fill       = 000000
+Border     = FF5555
+Text       = FFFF55
+
+[Selected]
+Fill       = 000000
+Border     = 55FF55
+Text       = 55FF55
+
+[Executing]
+Fill       = 000000
+Border     = 55FF55
+Text       = FFFF55
+
+[Window]
+Fill       = 000000
+Border     = 000000
+Text       = FFFF55
+
+[Header]
+Fill       = 000000
+Border     = FFFF55
+Text       = FFFF55
+
+[Hover]
+Fill       = 000000
+Border     = FFFF55
+Text       = FFFF55
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFF55
+Text       = 000000
+
+[Subscript]
+Fill       = FF5555
+Text       = 000000
+
+[Control]
+Fill       = FFFF55
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = 000000
+Border     = FFFF55
+Text       = FFFF55
+
+[Active]
+Fill       = FF5555
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = 55FF55
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = 55FF55
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = 55FF55
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = 55FF55
+Border     = 000000
+Text       = 000000

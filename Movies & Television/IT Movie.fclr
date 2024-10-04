@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = IT
+Author     = Stephen King (scheme by Devin Cook)
+About      = The movie adaptation of the famous Stephen King novel. We all float down here.
+Date       = 2023-12-21 23:30:03
+Version    = 4.0
+
+[Line]
+Fill       = FF8040
+Border     = B0B8C0
+
+[Page]
+Fill       = 202028
+Border     = F0F8FF
+Text       = F0F8FF
+
+[Breakpoint]
+Fill       = F0F8FF
+Border     = 404040
+Text       = 404040
+
+[Comment]
+Fill       = 202028
+Border     = F0F8FF
+Text       = F0F8FF
+
+[Input]
+Fill       = A03030
+Border     = 601818
+Text       = F0F8FF
+
+[Output]
+Fill       = A03030
+Border     = 601818
+Text       = F0F8FF
+
+[Declare]
+Fill       = A06040
+Border     = 503020
+Text       = F0F8FF
+
+[Assign]
+Fill       = A06040
+Border     = 503020
+Text       = F0F8FF
+
+[Terminator]
+Fill       = F0F8FF
+Border     = 404040
+Text       = C04040
+
+[Call]
+Fill       = F0F8FF
+Border     = 404040
+Text       = C04040
+
+[If]
+Fill       = F0F8FF
+Border     = 404040
+Text       = C04040
+
+[Incomplete]
+Fill       = 806050
+Border     = 403028
+Text       = E8F0FF
+
+[Error]
+Fill       = FF4040
+Border     = 602020
+Text       = F0F8FF
+
+[Selected]
+Fill       = 2080D0
+Border     = 104070
+Text       = F0F8FF
+
+[Executing]
+Fill       = 00A080
+Border     = 005040
+Text       = F0F8FF
+
+[Window]
+Fill       = 303030
+Border     = 202020
+Text       = FFFFFF
+
+[Header]
+Fill       = C03030
+Border     = 601818
+Text       = FFFFFF
+
+[Hover]
+Fill       = 303030
+Border     = 505050
+Text       = FFFFFF
+
+[Integer]
+Fill       = A06040
+Border     = 503020
+Text       = F0F8FF
+
+[Real]
+Fill       = 806050
+Border     = 403028
+Text       = E8F0FF
+
+[String]
+Fill       = A03030
+Border     = 601818
+Text       = F0F8FF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = F0F8FF
+
+[Value]
+Fill       = F0F8FF
+Text       = 000000
+
+[Subscript]
+Fill       = C0C8D0
+Text       = 000000
+
+[Control]
+Fill       = 303030
+Border     = F0F8FF
+Text       = FFFFFF
+
+[Field]
+Fill       = F0F8FF
+Border     = F0F8FF
+Text       = 000000
+
+[Active]
+Fill       = F0F8FF
+Border     = 404040
+Text       = C04040
+
+[While]
+Fill       = F0F8FF
+Border     = 404040
+Text       = C04040
+
+[For]
+Fill       = F0F8FF
+Border     = 404040
+Text       = C04040
+
+[Do]
+Fill       = F0F8FF
+Border     = 404040
+Text       = C04040
+
+[Loop]
+Fill       = F0F8FF
+Border     = 404040
+Text       = C04040

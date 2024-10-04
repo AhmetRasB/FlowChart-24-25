@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = 300
+Author     = Devin Cook
+About      = The colors of an ancient Spartan soldier - at least as depicted in 300.
+Date       = 2023-12-21 23:28:02
+Version    = 4.0
+
+[Line]
+Fill       = FFFF80
+Border     = 806034
+
+[Page]
+Fill       = 282014
+Border     = 806034
+Text       = F8F4C0
+
+[Breakpoint]
+Fill       = 701814
+Border     = A04841
+Text       = F8F4C0
+
+[Comment]
+Fill       = 282014
+Border     = 806034
+Text       = 908060
+
+[Input]
+Fill       = 684C2A
+Border     = 908060
+Text       = F8F4C0
+
+[Output]
+Fill       = 701814
+Border     = A04841
+Text       = F8F4C0
+
+[Declare]
+Fill       = 684C2A
+Border     = 908060
+Text       = F8F4C0
+
+[Assign]
+Fill       = 684C2A
+Border     = 908060
+Text       = F8F4C0
+
+[Terminator]
+Fill       = 4C4C4C
+Border     = 808080
+Text       = F8F4C0
+
+[Call]
+Fill       = 4C4C4C
+Border     = 808080
+Text       = F8F4C0
+
+[If]
+Fill       = 4C4C4C
+Border     = 808080
+Text       = F8F4C0
+
+[Incomplete]
+Fill       = 383024
+Border     = FFFF80
+Text       = FFFF80
+
+[Error]
+Fill       = 701814
+Border     = FFFF80
+Text       = FFFF80
+
+[Selected]
+Fill       = 141870
+Border     = FFFF80
+Text       = FFFF80
+
+[Executing]
+Fill       = 147018
+Border     = FFFF80
+Text       = FFFF80
+
+[Window]
+Fill       = 383024
+Border     = 686054
+Text       = FFFFFF
+
+[Header]
+Fill       = 383024
+Border     = 686054
+Text       = FFFFFF
+
+[Hover]
+Fill       = 383024
+Border     = 686054
+Text       = FFFFFF
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = 4C4C4C
+Text       = F8F4C0
+
+[Subscript]
+Fill       = 684C2A
+Text       = F8F4C0
+
+[Control]
+Fill       = 383024
+Border     = 686054
+Text       = FFFFFF
+
+[Field]
+Fill       = 282014
+Border     = 686054
+Text       = F8F4C0
+
+[Active]
+Fill       = 701814
+Border     = A04841
+Text       = F8F4C0
+
+[While]
+Fill       = 4C4C4C
+Border     = 808080
+Text       = F8F4C0
+
+[For]
+Fill       = 4C4C4C
+Border     = 808080
+Text       = F8F4C0
+
+[Do]
+Fill       = 4C4C4C
+Border     = 808080
+Text       = F8F4C0
+
+[Loop]
+Fill       = 4C4C4C
+Border     = 808080
+Text       = F8F4C0

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = GEOS
+Author     = Berkeley Softworks
+About      = The Commodore 64 had a simple, eloquent, operating system. This schemes mimicks version 1.0.
+Date       = 2023-12-21 10:17:15
+Version    = 4.0
+
+[Line]
+Fill       = 9AE29C
+Border     = 887ECC
+
+[Terminator]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Page]
+Fill       = 50449C
+Border     = 887ECC
+Text       = 887ECC
+
+[Breakpoint]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 000000
+
+[Comment]
+Fill       = 50449C
+Border     = 887ECC
+Text       = 887ECC
+
+[Input]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Output]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Declare]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Assign]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Call]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[If]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[While]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[For]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Do]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Incomplete]
+Fill       = AEAEAE
+Border     = 50449C
+Text       = 50449C
+
+[Error]
+Fill       = A04E44
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 6AC0C6
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 5CAC5E
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Header]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Hover]
+Fill       = 50449C
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Integer]
+Fill       = 78C0C8
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = A058A4
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = CC7E76
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 5CAC5E
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = CAD488
+Text       = FFFFFF
+
+[Control]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C
+
+[Active]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = 706DEB
+Text       = 000000
+
+[Loop]
+Fill       = 887ECC
+Border     = 50449C
+Text       = 50449C

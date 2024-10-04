@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = DOS
+Author     = Devin Cook
+About      = The basic grays of the DOS/UNIX Command Prompt
+Date       = 2023-12-21 23:12:53
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = AAAAAA
+
+[Page]
+Fill       = 000000
+Border     = AAAAAA
+Text       = C0C0C0
+
+[Breakpoint]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Comment]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Input]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Output]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Declare]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Assign]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Terminator]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Call]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[If]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Incomplete]
+Fill       = 000000
+Border     = 555555
+Text       = 555555
+
+[Error]
+Fill       = 000000
+Border     = AA00AA
+Text       = AAAAAA
+
+[Selected]
+Fill       = AAAAAA
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = 000000
+Border     = 00AAAA
+Text       = AAAAAA
+
+[Window]
+Fill       = 000000
+Border     = 000000
+Text       = AAAAAA
+
+[Header]
+Fill       = 000000
+Border     = C0C0C0
+Text       = AAAAAA
+
+[Hover]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Integer]
+Fill       = 4060C0
+Border     = AAAAAA
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = AAAAAA
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = AAAAAA
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = AAAAAA
+Text       = FFFFFF
+
+[Value]
+Fill       = 000000
+Text       = C0C0C0
+
+[Subscript]
+Fill       = 000000
+Text       = AAAAAA
+
+[Control]
+Fill       = AAAAAA
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = 000000
+Border     = AAAAAA
+Text       = C0C0C0
+
+[Active]
+Fill       = AAAAAA
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[For]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Do]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA
+
+[Loop]
+Fill       = 000000
+Border     = AAAAAA
+Text       = AAAAAA

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Donkey Kong Arcade Art
+Author     = Scheme by Devin Cook
+About      = The colors from the classic Donkey Kong arcade machine
+Date       = 2023-12-21 22:58:47
+Version    = 4.0
+
+[Line]
+Fill       = ECE645
+Border     = FEFEFE
+
+[Page]
+Fill       = 008ECC
+Border     = FEFEFE
+Text       = FEFEFE
+
+[Breakpoint]
+Fill       = D84838
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 008ECC
+Border     = FEFEFE
+Text       = FEFEFE
+
+[Input]
+Fill       = F5A369
+Border     = 1C1C14
+Text       = 1C1C14
+
+[Output]
+Fill       = C99E7E
+Border     = 1C1C14
+Text       = 1C1C14
+
+[Declare]
+Fill       = F4DEC8
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = ECCBD6
+Border     = 1C1C14
+Text       = 1C1C14
+
+[Terminator]
+Fill       = B8665B
+Border     = 1C1C14
+Text       = FFFFFF
+
+[Call]
+Fill       = 8AC970
+Border     = 1C1C14
+Text       = 1C1C14
+
+[If]
+Fill       = 8AC970
+Border     = 1C1C14
+Text       = 1C1C14
+
+[Incomplete]
+Fill       = 008ECC
+Border     = FEFEFE
+Text       = FEFEFE
+
+[Error]
+Fill       = D84838
+Border     = 1C1C14
+Text       = FEFEFE
+
+[Selected]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = 6AA950
+Border     = FEFEFE
+Text       = FEFEFE
+
+[Window]
+Fill       = 109EDC
+Border     = 004E8C
+Text       = FEFEFE
+
+[Header]
+Fill       = B8665B
+Border     = 1C1C14
+Text       = FFFFFF
+
+[Hover]
+Fill       = 109EDC
+Border     = FEFEFE
+Text       = FEFEFE
+
+[Integer]
+Fill       = C99E7E
+Border     = 1C1C14
+Text       = 1C1C14
+
+[Real]
+Fill       = F5A369
+Border     = 1C1C14
+Text       = 1C1C14
+
+[String]
+Fill       = ECCBD6
+Border     = 1C1C14
+Text       = 1C1C14
+
+[Boolean]
+Fill       = ECE645
+Border     = 1C1C14
+Text       = 1C1C14
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = F4DEC8
+Text       = 000000
+
+[Control]
+Fill       = B8665B
+Border     = 1C1C14
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = F4DEC8
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = ECE645
+Border     = 1C1C14
+Text       = 1C1C14
+
+[For]
+Fill       = ECE645
+Border     = 1C1C14
+Text       = 1C1C14
+
+[Do]
+Fill       = ECE645
+Border     = 1C1C14
+Text       = 1C1C14
+
+[Loop]
+Fill       = ECE645
+Border     = 1C1C14
+Text       = 1C1C14

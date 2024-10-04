@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Santa Cruz Boardwalk - Giant Dipper
+Author     = Scheme by Devin Cook
+About      = The classic wooden rollercoaster built in 1924.
+Date       = 2023-12-21 23:00:26
+Version    = 4.0
+
+[Line]
+Fill       = FC7246
+Border     = 586482
+
+[Page]
+Fill       = F4F6F8
+Border     = 404040
+Text       = 000000
+
+[Breakpoint]
+Fill       = BC2C3C
+Border     = 3C0000
+Text       = 3C0000
+
+[Comment]
+Fill       = F4F6F8
+Border     = 404040
+Text       = 404040
+
+[Input]
+Fill       = F5EE60
+Border     = 565200
+Text       = 565200
+
+[Output]
+Fill       = BC2C3C
+Border     = 3C0000
+Text       = F8F8F8
+
+[Declare]
+Fill       = FC7246
+Border     = 7C0000
+Text       = F8F8F8
+
+[Assign]
+Fill       = FC7246
+Border     = 7C0000
+Text       = F8F8F8
+
+[Terminator]
+Fill       = 586482
+Border     = 000009
+Text       = F8F8F8
+
+[Call]
+Fill       = 586482
+Border     = 000009
+Text       = F8F8F8
+
+[If]
+Fill       = 586482
+Border     = 000009
+Text       = F8F8F8
+
+[Incomplete]
+Fill       = F4F6F8
+Border     = 404040
+Text       = 404040
+
+[Error]
+Fill       = FF4040
+Border     = 602020
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 104070
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A080
+Border     = 005040
+Text       = FFFFFF
+
+[Window]
+Fill       = E8EAEC
+Border     = 888A8C
+Text       = 000000
+
+[Header]
+Fill       = BC2C3C
+Border     = 3C0000
+Text       = F8F8F8
+
+[Hover]
+Fill       = E8EAEC
+Border     = 888A8C
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = BC2C3C
+Border     = 3C0000
+Text       = F2F2F2
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = E8EAEC
+Border     = 888A8C
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = 404040
+Text       = 000000
+
+[Active]
+Fill       = C0E0FF
+Border     = 586482
+Text       = 000000
+
+[While]
+Fill       = 586482
+Border     = 000009
+Text       = F8F8F8
+
+[For]
+Fill       = 586482
+Border     = 000009
+Text       = F8F8F8
+
+[Do]
+Fill       = 586482
+Border     = 000009
+Text       = F8F8F8
+
+[Loop]
+Fill       = 586482
+Border     = 000009
+Text       = F8F8F8

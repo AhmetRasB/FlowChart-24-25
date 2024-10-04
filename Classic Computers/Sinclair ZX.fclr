@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Sinclair ZX Spectrum
+Author     = Sinclair Research (Scheme by Devin Cook)
+About      = The Sinclair ZX was an affordable (and quite small) computer from the 1980's. It was manufactured for 10 years.
+Date       = 2023-12-21 23:08:37
+Version    = 4.0
+
+[Line]
+Fill       = F8FFF4
+Border     = FC5038
+
+[Page]
+Fill       = 161616
+Border     = 9ABAB2
+Text       = 6CD420
+
+[Breakpoint]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Comment]
+Fill       = 161616
+Border     = 6CD420
+Text       = 6CD420
+
+[Input]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Output]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Declare]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Assign]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Terminator]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Call]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[If]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Incomplete]
+Fill       = ECDC0C
+Border     = 161616
+Text       = 161616
+
+[Error]
+Fill       = FC5038
+Border     = 161616
+Text       = 161616
+
+[Selected]
+Fill       = 1CEDFC
+Border     = 161616
+Text       = 161616
+
+[Executing]
+Fill       = 6CD420
+Border     = 161616
+Text       = 161616
+
+[Window]
+Fill       = 262626
+Border     = 161616
+Text       = FC5038
+
+[Header]
+Fill       = FC5038
+Border     = 161616
+Text       = 161616
+
+[Hover]
+Fill       = 161616
+Border     = FC5038
+Text       = 6CD420
+
+[Integer]
+Fill       = 4060C0
+Border     = 9ABAB2
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 9ABAB2
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 9ABAB2
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 9ABAB2
+Text       = FFFFFF
+
+[Value]
+Fill       = 404040
+Text       = F8FFF4
+
+[Subscript]
+Fill       = 808080
+Text       = F8FFF4
+
+[Control]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Field]
+Fill       = 404040
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Active]
+Fill       = FC5038
+Border     = 161616
+Text       = 161616
+
+[While]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[For]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Do]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4
+
+[Loop]
+Fill       = 64847E
+Border     = 9ABAB2
+Text       = F8FFF4

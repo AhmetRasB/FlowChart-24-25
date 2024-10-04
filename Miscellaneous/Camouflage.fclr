@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Camo
+Author     = Devin Cook
+About      = The color scheme that can't be seen - at least in a wooden area.
+Date       = 2023-12-22 14:06:06
+Version    = 4.0
+
+[Line]
+Fill       = F4F2F0
+Border     = C8B492
+
+[Page]
+Fill       = 46483E
+Border     = C8B492
+Text       = C8B492
+
+[Breakpoint]
+Fill       = C8B492
+Border     = 40312B
+Text       = 40312B
+
+[Comment]
+Fill       = 46483E
+Border     = C8B492
+Text       = C8B492
+
+[Input]
+Fill       = 947755
+Border     = 140000
+Text       = E8D4B2
+
+[Output]
+Fill       = C8B492
+Border     = 40312B
+Text       = 40312B
+
+[Declare]
+Fill       = 947755
+Border     = 140000
+Text       = E8D4B2
+
+[Assign]
+Fill       = 947755
+Border     = 140000
+Text       = E8D4B2
+
+[Terminator]
+Fill       = C8B492
+Border     = 40312B
+Text       = 40312B
+
+[Call]
+Fill       = 6D775C
+Border     = 140000
+Text       = E8D4B2
+
+[If]
+Fill       = 6D775C
+Border     = 140000
+Text       = E8D4B2
+
+[Incomplete]
+Fill       = 46483E
+Border     = C8B492
+Text       = C8B492
+
+[Error]
+Fill       = C04040
+Border     = 40312B
+Text       = FFFFFF
+
+[Selected]
+Fill       = 947755
+Border     = C8B492
+Text       = E8D4B2
+
+[Executing]
+Fill       = 00A080
+Border     = 40312B
+Text       = FFFFFF
+
+[Window]
+Fill       = 40312B
+Border     = 140000
+Text       = E8D4B2
+
+[Header]
+Fill       = 40312B
+Border     = 140000
+Text       = E8D4B2
+
+[Hover]
+Fill       = 6D775C
+Border     = 323C28
+Text       = E8D4B2
+
+[Integer]
+Fill       = 8090A0
+Border     = 140000
+Text       = FFFFFF
+
+[Real]
+Fill       = 907090
+Border     = 140000
+Text       = FFFFFF
+
+[String]
+Fill       = 907070
+Border     = 40312B
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 709090
+Border     = 40312B
+Text       = FFFFFF
+
+[Value]
+Fill       = C8B492
+Text       = 000000
+
+[Subscript]
+Fill       = 6D775C
+Text       = E8D4B2
+
+[Control]
+Fill       = 6D775C
+Border     = 323C28
+Text       = E8D4B2
+
+[Active]
+Fill       = 947755
+Border     = 140000
+Text       = FFFFFF
+
+[Field]
+Fill       = 525C48
+Border     = C8B492
+Text       = C8B492
+
+[While]
+Fill       = 6D775C
+Border     = 140000
+Text       = E8D4B2
+
+[For]
+Fill       = 6D775C
+Border     = 140000
+Text       = E8D4B2
+
+[Do]
+Fill       = 6D775C
+Border     = 140000
+Text       = E8D4B2
+
+[Loop]
+Fill       = 6D775C
+Border     = 140000
+Text       = E8D4B2

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = The Next Generation - Uniforms
+Author     = Gene Roddenberry (theme by Devin Cook)
+About      = The colors of the uniforms from Star Trek: The Next Generation.
+Date       = 2023-12-21 23:31:32
+Version    = 4.0
+
+[Line]
+Fill       = B8B8C0
+Border     = ECE8E4
+
+[Page]
+Fill       = 202020
+Border     = ECE8E4
+Text       = E8E8E8
+
+[Breakpoint]
+Fill       = B8B8C0
+Border     = 2A2A2A
+Text       = 2A2A2A
+
+[Comment]
+Fill       = 202020
+Border     = ECE8E4
+Text       = E8E8E8
+
+[Input]
+Fill       = A8962C
+Border     = 000000
+Text       = ECE8E4
+
+[Output]
+Fill       = A43044
+Border     = 000000
+Text       = ECE8E4
+
+[Declare]
+Fill       = A8962C
+Border     = 000000
+Text       = ECE8E4
+
+[Assign]
+Fill       = A8962C
+Border     = 000000
+Text       = ECE8E4
+
+[Terminator]
+Fill       = B8B8C0
+Border     = 2A2A2A
+Text       = 2A2A2A
+
+[Call]
+Fill       = 30609C
+Border     = 000000
+Text       = ECE8E4
+
+[If]
+Fill       = 30609C
+Border     = 000000
+Text       = ECE8E4
+
+[Incomplete]
+Fill       = 202020
+Border     = ECE8E4
+Text       = E8E8E8
+
+[Error]
+Fill       = E02020
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 69F3FD
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = 208020
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 3A3A3A
+Border     = 000000
+Text       = E8E8E8
+
+[Header]
+Fill       = B8B8C0
+Border     = 2A2A2A
+Text       = 2A2A2A
+
+[Hover]
+Fill       = 4A4A4A
+Border     = 000000
+Text       = E8E8E8
+
+[Integer]
+Fill       = 30609C
+Border     = 000000
+Text       = ECE8E4
+
+[Real]
+Fill       = 785894
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A43044
+Border     = 000000
+Text       = ECE8E4
+
+[Boolean]
+Fill       = 0C7658
+Border     = 000000
+Text       = ECE8E4
+
+[Value]
+Fill       = FFFFFF
+Text       = 43413D
+
+[Subscript]
+Fill       = D0D0D0
+Text       = 000000
+
+[Control]
+Fill       = B8B8C0
+Border     = 2A2A2A
+Text       = 2A2A2A
+
+[Field]
+Fill       = FFFFFF
+Border     = ECE8E4
+Text       = 43413D
+
+[Active]
+Fill       = FFFFFF
+Border     = 202020
+Text       = 43413D
+
+[While]
+Fill       = 30609C
+Border     = 000000
+Text       = ECE8E4
+
+[For]
+Fill       = 30609C
+Border     = 000000
+Text       = ECE8E4
+
+[Do]
+Fill       = 30609C
+Border     = 000000
+Text       = ECE8E4
+
+[Loop]
+Fill       = 30609C
+Border     = 000000
+Text       = ECE8E4

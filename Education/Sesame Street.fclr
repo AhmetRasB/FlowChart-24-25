@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Sesame Street
+Author     = Jim Henson (Scheme by Devin Cook)
+About      = Can you tell me how to get to Sesame Street.
+Date       = 2023-12-21 23:15:05
+Version    = 4.0
+
+[Line]
+Fill       = F08450
+Border     = 606060
+
+[Page]
+Fill       = FFFFFF
+Border     = 00A872
+Text       = 000000
+
+[Breakpoint]
+Fill       = F0D850
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = FFFFFF
+Border     = 404040
+Text       = 404040
+
+[Input]
+Fill       = 70AC28
+Border     = 000000
+Text       = FFFFFF
+
+[Output]
+Fill       = 287CAC
+Border     = 000000
+Text       = FFFFFF
+
+[Declare]
+Fill       = F48C3C
+Border     = 000000
+Text       = FFFFFF
+
+[Assign]
+Fill       = D03830
+Border     = 000000
+Text       = FFFFFF
+
+[Terminator]
+Fill       = 00A878
+Border     = 000000
+Text       = FFFFFF
+
+[Call]
+Fill       = F0D850
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = F0D850
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = E8E8E8
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = FF4040
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 4040E0
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00C000
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 00A878
+Border     = 004812
+Text       = FFFFFF
+
+[Header]
+Fill       = 00A878
+Border     = 000000
+Text       = FFFFFF
+
+[Hover]
+Fill       = F0F0F0
+Border     = 909090
+Text       = 000000
+
+[Integer]
+Fill       = 287CAC
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 70AC28
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = D03830
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = F48C3C
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E8E8E8
+Text       = 000000
+
+[Control]
+Fill       = 00A878
+Border     = 000000
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = 00A872
+Text       = 000000
+
+[Active]
+Fill       = F0D850
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = D4B0DC
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = D4B0DC
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = D4B0DC
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = D4B0DC
+Border     = 000000
+Text       = 000000

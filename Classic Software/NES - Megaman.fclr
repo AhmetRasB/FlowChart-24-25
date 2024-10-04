@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Megaman
+Author     = Devin Cook
+About      = The colors from the NES classic.
+Date       = 2023-12-21 23:10:24
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = 000000
+
+[Page]
+Fill       = 64B0FF
+Border     = 000000
+Text       = 000000
+
+[Breakpoint]
+Fill       = B71E7B
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 64B0FF
+Border     = 000000
+Text       = 000000
+
+[Input]
+Fill       = 98E0FF
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = 1860D8
+Border     = 000000
+Text       = FFFFFF
+
+[Declare]
+Fill       = EAA020
+Border     = 000000
+Text       = FFFFFF
+
+[Assign]
+Fill       = EAA020
+Border     = 000000
+Text       = FFFFFF
+
+[Terminator]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = B8207C
+Border     = 000000
+Text       = FFFFFF
+
+[If]
+Fill       = B8207C
+Border     = 000000
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = FF0000
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 155FD9
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A000
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 74C0FF
+Border     = 000000
+Text       = 000000
+
+[Header]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Hover]
+Fill       = 98E0FF
+Border     = 000000
+Text       = 000000
+
+[Integer]
+Fill       = 1860D8
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = B71E7B
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = 98E0FF
+Text       = 000000
+
+[Control]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Active]
+Fill       = 98E0FF
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000000

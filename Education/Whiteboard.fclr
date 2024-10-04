@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Whiteboard
+Author     = Devin Cook
+About      = Dry erase pens on a whiteboard. ...assuming you find a pen that works.
+Date       = 2023-12-21 23:15:15
+Version    = 4.0
+
+[Line]
+Fill       = FF8040
+Border     = 505050
+
+[Page]
+Fill       = FCFCFC
+Border     = 404040
+Text       = 000000
+
+[Breakpoint]
+Fill       = E03870
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Comment]
+Fill       = FCFCFC
+Border     = 505050
+Text       = 505050
+
+[Input]
+Fill       = A050C0
+Border     = A050C0
+Text       = FCFCFC
+
+[Output]
+Fill       = 505050
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Declare]
+Fill       = 00A080
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Assign]
+Fill       = 00A080
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Terminator]
+Fill       = 505050
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Call]
+Fill       = E03870
+Border     = FCFCFC
+Text       = FCFCFC
+
+[If]
+Fill       = E03870
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Incomplete]
+Fill       = FCFCFC
+Border     = 505050
+Text       = 505050
+
+[Error]
+Fill       = C04040
+Border     = 505050
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 505050
+Text       = FFFFFF
+
+[Executing]
+Fill       = 008040
+Border     = 505050
+Text       = FCFCFC
+
+[Window]
+Fill       = F0F0F0
+Border     = 505050
+Text       = 505050
+
+[Header]
+Fill       = 505050
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Hover]
+Fill       = FCFCFC
+Border     = 505050
+Text       = 505050
+
+[Integer]
+Fill       = 3060C0
+Border     = 3060C0
+Text       = FCFCFC
+
+[Real]
+Fill       = A050C0
+Border     = A050C0
+Text       = FCFCFC
+
+[String]
+Fill       = E03870
+Border     = E03870
+Text       = FCFCFC
+
+[Boolean]
+Fill       = 00A080
+Border     = 00A080
+Text       = FCFCFC
+
+[Value]
+Fill       = FCFCFC
+Text       = 505050
+
+[Subscript]
+Fill       = FCFCFC
+Text       = 505050
+
+[Control]
+Fill       = F0F0F0
+Border     = 505050
+Text       = 505050
+
+[Field]
+Fill       = FCFCFC
+Border     = 404040
+Text       = 505050
+
+[Active]
+Fill       = E03870
+Border     = 505050
+Text       = FCFCFC
+
+[While]
+Fill       = 3060C0
+Border     = FCFCFC
+Text       = FCFCFC
+
+[For]
+Fill       = 3060C0
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Do]
+Fill       = 3060C0
+Border     = FCFCFC
+Text       = FCFCFC
+
+[Loop]
+Fill       = 3060C0
+Border     = FCFCFC
+Text       = FCFCFC

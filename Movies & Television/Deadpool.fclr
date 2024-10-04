@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Deadpool
+Author     = Marvel Comics
+About      = The colors of everyone's favorite Merch with a Mouth.
+Date       = 2023-12-22 14:14:09
+Version    = 4.0
+
+[Line]
+Fill       = FF8040
+Border     = ECECEC
+
+[Page]
+Fill       = A01D38
+Border     = ECECEC
+Text       = ECECEC
+
+[Breakpoint]
+Fill       = 2E2E38
+Border     = ECECEC
+Text       = ECECEC
+
+[Comment]
+Fill       = A01D38
+Border     = ECECEC
+Text       = ECECEC
+
+[Input]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[Output]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[Declare]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[Assign]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[Terminator]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[Call]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[If]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[Incomplete]
+Fill       = ECECEC
+Border     = 34343E
+Text       = 34343E
+
+[Error]
+Fill       = C04040
+Border     = 34343E
+Text       = ECECEC
+
+[Selected]
+Fill       = 2080D0
+Border     = ECECEC
+Text       = ECECEC
+
+[Executing]
+Fill       = 00A080
+Border     = 34343E
+Text       = ECECEC
+
+[Window]
+Fill       = 30303A
+Border     = 000000
+Text       = ECECEC
+
+[Header]
+Fill       = ECECEC
+Border     = 34343E
+Text       = 34343E
+
+[Hover]
+Fill       = 7E7E88
+Border     = 30303A
+Text       = ECECEC
+
+[Integer]
+Fill       = 4060C0
+Border     = ECECEC
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = ECECEC
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = ECECEC
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = ECECEC
+Text       = FFFFFF
+
+[Value]
+Fill       = 1E1E28
+Text       = ECECEC
+
+[Subscript]
+Fill       = ECECEC
+Text       = 34343E
+
+[Control]
+Fill       = 30303A
+Border     = ECECEC
+Text       = ECECEC
+
+[Field]
+Fill       = ECECEC
+Border     = 34343E
+Text       = 34343E
+
+[Active]
+Fill       = ECECEC
+Border     = 34343E
+Text       = 34343E
+
+[While]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[For]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[Do]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC
+
+[Loop]
+Fill       = 1E1E28
+Border     = ECECEC
+Text       = ECECEC

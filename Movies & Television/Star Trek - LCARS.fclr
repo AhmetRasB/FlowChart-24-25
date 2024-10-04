@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Star Trek - LCARS
+Author     = Devin Cook (using colors Mike Hodgson at www.program.demon.co.uk)
+About      = The computers from Star Trek: The Next Generation
+Date       = 2023-12-21 23:31:24
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = FFCC99
+
+[Page]
+Fill       = 000000
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = CC6666
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 000000
+Border     = FFCC99
+Text       = FFCC99
+
+[Input]
+Fill       = FF9900
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = CC99CC
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = FF9966
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = FFCC99
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = CC99CC
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = CC6666
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = CC6666
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 888888
+Border     = 000000
+Text       = 000000
+
+[Error]
+Fill       = FF0000
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 6666FF
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 66CC66
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 303030
+Border     = 606060
+Text       = C0C0C0
+
+[Header]
+Fill       = CC99CC
+Border     = 000000
+Text       = 000000
+
+[Hover]
+Fill       = 303030
+Border     = 606060
+Text       = C0C0C0
+
+[Integer]
+Fill       = 9999FF
+Border     = 000000
+Text       = 000000
+
+[Real]
+Fill       = CC99CC
+Border     = 000000
+Text       = 000000
+
+[String]
+Fill       = CC6666
+Border     = 000000
+Text       = 000000
+
+[Boolean]
+Fill       = 00CCCC
+Border     = 000000
+Text       = 000000
+
+[Value]
+Fill       = 303030
+Text       = C0C0C0
+
+[Subscript]
+Fill       = FFCC99
+Text       = 000000
+
+[Control]
+Fill       = 000000
+Border     = FFCC99
+Text       = FFCC99
+
+[Field]
+Fill       = 303030
+Border     = FFFFFF
+Text       = C0C0C0
+
+[Active]
+Fill       = FFCC99
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = 9999FF
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = 9999FF
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = 9999FF
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = 9999FF
+Border     = 000000
+Text       = 000000

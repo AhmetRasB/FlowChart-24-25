@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = The 1990's - Lasers
+Author     = Devin Cook
+About      = These cool lasers were everywhere!
+Date       = 2023-12-21 23:21:31
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = C4C4C4
+
+[Page]
+Fill       = 383C68
+Border     = AAEEFF
+Text       = AAEEFF
+
+[Breakpoint]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF
+
+[Comment]
+Fill       = 383C68
+Border     = AAEEFF
+Text       = AAEEFF
+
+[Input]
+Fill       = 483C78
+Border     = FFAAFF
+Text       = FFAAFF
+
+[Output]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF
+
+[Declare]
+Fill       = 483C78
+Border     = FFAAFF
+Text       = FFAAFF
+
+[Assign]
+Fill       = 483C78
+Border     = FFAAFF
+Text       = FFAAFF
+
+[Terminator]
+Fill       = 484C78
+Border     = E4E4E4
+Text       = E4E4E4
+
+[Call]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF
+
+[If]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF
+
+[Incomplete]
+Fill       = 383C68
+Border     = E4E4E4
+Text       = E4E4E4
+
+[Error]
+Fill       = 802A2A
+Border     = FFAAAA
+Text       = FFAAAA
+
+[Selected]
+Fill       = AAEEFF
+Border     = 383C68
+Text       = 383C68
+
+[Executing]
+Fill       = 2A804A
+Border     = AAFFAA
+Text       = AAFFAA
+
+[Window]
+Fill       = 404270
+Border     = AAEEFF
+Text       = AAEEFF
+
+[Header]
+Fill       = 484C78
+Border     = E4E4E4
+Text       = E4E4E4
+
+[Hover]
+Fill       = 383C68
+Border     = E4E4E4
+Text       = E4E4E4
+
+[Integer]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF
+
+[Real]
+Fill       = 483C78
+Border     = FFAAFF
+Text       = FFAAFF
+
+[String]
+Fill       = 483C68
+Border     = FFAEAA
+Text       = FFAEAA
+
+[Boolean]
+Fill       = 484C78
+Border     = E4E4E4
+Text       = E4E4E4
+
+[Value]
+Fill       = 383C68
+Text       = E4E4E4
+
+[Subscript]
+Fill       = 363B66
+Text       = E4E4E4
+
+[Control]
+Fill       = 484C78
+Border     = E4E4E4
+Text       = E4E4E4
+
+[Field]
+Fill       = 383C68
+Border     = AAEEFF
+Text       = E4E4E4
+
+[Active]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF
+
+[While]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF
+
+[For]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF
+
+[Do]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF
+
+[Loop]
+Fill       = 384C78
+Border     = AAEEFF
+Text       = AAEEFF

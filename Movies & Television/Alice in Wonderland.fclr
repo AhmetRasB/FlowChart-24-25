@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Alice in Wonderland
+Author     = Devin Cook
+About      = The colors from Disney's "Alice in Wonderland" (1951)
+Date       = 2023-12-21 23:28:18
+Version    = 4.0
+
+[Line]
+Fill       = ADD8E6
+Border     = F1E36C
+
+[Page]
+Fill       = 145538
+Border     = FEFFB2
+Text       = FEFFB2
+
+[Breakpoint]
+Fill       = CDADC3
+Border     = 0A2C1A
+Text       = 0A2C1A
+
+[Comment]
+Fill       = 145538
+Border     = F1E36C
+Text       = FEFFB2
+
+[Input]
+Fill       = 03B9C5
+Border     = 0A2C1A
+Text       = 000000
+
+[Output]
+Fill       = 81B974
+Border     = 0A2C1A
+Text       = 000000
+
+[Declare]
+Fill       = C0CB35
+Border     = 0A2C1A
+Text       = 000000
+
+[Assign]
+Fill       = C0CB35
+Border     = 0A2C1A
+Text       = 000000
+
+[Terminator]
+Fill       = CDADC3
+Border     = 0A2C1A
+Text       = 000000
+
+[Call]
+Fill       = CDADC3
+Border     = 0A2C1A
+Text       = 000000
+
+[If]
+Fill       = FEAFA2
+Border     = 0A2C1A
+Text       = 000000
+
+[Incomplete]
+Fill       = C0C0C0
+Border     = 124E2E
+Text       = 000000
+
+[Error]
+Fill       = A05050
+Border     = 0A2C1A
+Text       = FFFFFF
+
+[Selected]
+Fill       = 0080C0
+Border     = 0A2C1A
+Text       = FFFFFF
+
+[Executing]
+Fill       = 1C883F
+Border     = 0A2C1A
+Text       = FFFFFF
+
+[Window]
+Fill       = 1C883F
+Border     = 145538
+Text       = FFFFFF
+
+[Header]
+Fill       = 1C883F
+Border     = 0A2C1A
+Text       = FFFFFF
+
+[Hover]
+Fill       = 1C883F
+Border     = 0A2C1A
+Text       = FEFFB2
+
+[Integer]
+Fill       = 4060C0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = FEAFA2
+Text       = 000000
+
+[Control]
+Fill       = 1C883F
+Border     = 0A2C1A
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = FEFFB2
+Text       = 000000
+
+[Active]
+Fill       = F1E36C
+Border     = 0A2C1A
+Text       = 000000
+
+[While]
+Fill       = DA9532
+Border     = 0A2C1A
+Text       = 000000
+
+[For]
+Fill       = DA9532
+Border     = 0A2C1A
+Text       = 000000
+
+[Do]
+Fill       = DA9532
+Border     = 0A2C1A
+Text       = 000000
+
+[Loop]
+Fill       = DA9532
+Border     = 0A2C1A
+Text       = 000000

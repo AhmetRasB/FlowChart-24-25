@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Red LED
+Author     = Devin Cook
+About      = The old classic red LED display
+Date       = 2023-12-21 23:13:04
+Version    = 4.0
+
+[Line]
+Fill       = FF6060
+Border     = FF2020
+
+[Page]
+Fill       = 100808
+Border     = FF2020
+Text       = FF2020
+
+[Breakpoint]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Comment]
+Fill       = 100808
+Border     = FF2020
+Text       = FF2020
+
+[Input]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Output]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Declare]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Assign]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Terminator]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Call]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[If]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Incomplete]
+Fill       = 100808
+Border     = A00000
+Text       = A00000
+
+[Error]
+Fill       = A00000
+Border     = 100808
+Text       = 100808
+
+[Selected]
+Fill       = FF2020
+Border     = 100808
+Text       = 100808
+
+[Executing]
+Fill       = FF2020
+Border     = 100808
+Text       = 100808
+
+[Window]
+Fill       = 200000
+Border     = 800000
+Text       = FF2020
+
+[Header]
+Fill       = FF2020
+Border     = FF2020
+Text       = 080808
+
+[Hover]
+Fill       = 200000
+Border     = 800000
+Text       = FF2020
+
+[Integer]
+Fill       = 101040
+Border     = 4040FF
+Text       = 4040FF
+
+[Real]
+Fill       = 400840
+Border     = FF20FF
+Text       = FF20FF
+
+[String]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Boolean]
+Fill       = 084040
+Border     = 20FFFF
+Text       = 20FFFF
+
+[Value]
+Fill       = 100808
+Text       = FFFFFF
+
+[Subscript]
+Fill       = 404040
+Text       = FFFFFF
+
+[Control]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Field]
+Fill       = 100808
+Border     = FF2020
+Text       = FF2020
+
+[Active]
+Fill       = FF2020
+Border     = FF2020
+Text       = 080808
+
+[While]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[For]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Do]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020
+
+[Loop]
+Fill       = 400808
+Border     = FF2020
+Text       = FF2020

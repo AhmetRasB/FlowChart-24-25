@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Winter Wonderland
+Author     = Devin Cook
+About      = Snow, gifts, and holiday spirit.
+Date       = 2023-12-21 23:25:04
+Version    = 4.0
+
+[Line]
+Fill       = E12D36
+Border     = 034123
+
+[Page]
+Fill       = F8F8FA
+Border     = 034123
+Text       = 034123
+
+[Breakpoint]
+Fill       = DF2029
+Border     = 000000
+Text       = F8F8FA
+
+[Comment]
+Fill       = F8F8FA
+Border     = 034123
+Text       = 034123
+
+[Input]
+Fill       = A81820
+Border     = 680000
+Text       = FFFFFF
+
+[Output]
+Fill       = 60B0A8
+Border     = 005048
+Text       = FFFFFF
+
+[Declare]
+Fill       = E0242E
+Border     = 800000
+Text       = F8F9F3
+
+[Assign]
+Fill       = E0242E
+Border     = 800000
+Text       = F8F9F3
+
+[Terminator]
+Fill       = 157D5F
+Border     = 004028
+Text       = FFFFFF
+
+[Call]
+Fill       = A0522D
+Border     = 400000
+Text       = FFFFFF
+
+[If]
+Fill       = A0522D
+Border     = 400000
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = F8F8FA
+Border     = 034123
+Text       = 034123
+
+[Error]
+Fill       = DF2080
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 1D8DB8
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 759F35
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 106048
+Border     = 002008
+Text       = FFFFFF
+
+[Header]
+Fill       = 106048
+Border     = 004028
+Text       = FFFFFF
+
+[Hover]
+Fill       = FFFFFF
+Border     = A0A0A0
+Text       = 034123
+
+[Integer]
+Fill       = 4060C0
+Border     = 034123
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 034123
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 034123
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 034123
+Text       = FFFFFF
+
+[Value]
+Fill       = F8F8FA
+Text       = 034123
+
+[Subscript]
+Fill       = D8D8DA
+Text       = 034123
+
+[Control]
+Fill       = 157D5F
+Border     = 004028
+Text       = FFFFFF
+
+[Field]
+Fill       = F8F8FA
+Border     = 034123
+Text       = 034123
+
+[Active]
+Fill       = 759F35
+Border     = FFFFFF
+Text       = FFFFFF
+
+[While]
+Fill       = A0522D
+Border     = 400000
+Text       = FFFFFF
+
+[For]
+Fill       = A0522D
+Border     = 400000
+Text       = FFFFFF
+
+[Do]
+Fill       = A0522D
+Border     = 400000
+Text       = FFFFFF
+
+[Loop]
+Fill       = A0522D
+Border     = 400000
+Text       = FFFFFF

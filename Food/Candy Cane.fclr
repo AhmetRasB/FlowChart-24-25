@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Candy Cane
+Author     = Devin Cook
+About      = Nothing says "The Holidays" more than candy canes.
+Date       = 2023-12-21 23:16:24
+Version    = 4.0
+
+[Line]
+Fill       = FF8040
+Border     = D05048
+
+[Page]
+Fill       = FFFFFF
+Border     = D04038
+Text       = D04038
+
+[Breakpoint]
+Fill       = D05048
+Border     = FCF6F6
+Text       = FCF6F6
+
+[Comment]
+Fill       = FFFFFF
+Border     = D04038
+Text       = D04038
+
+[Input]
+Fill       = FCEAEA
+Border     = D04038
+Text       = D04038
+
+[Output]
+Fill       = D05048
+Border     = 901008
+Text       = FCF6F6
+
+[Declare]
+Fill       = FCEAEA
+Border     = D04038
+Text       = D04038
+
+[Assign]
+Fill       = FCEAEA
+Border     = D04038
+Text       = D04038
+
+[Terminator]
+Fill       = FCEAEA
+Border     = D04038
+Text       = D04038
+
+[Call]
+Fill       = D05048
+Border     = 901008
+Text       = FEFCFC
+
+[If]
+Fill       = D05048
+Border     = 901008
+Text       = FCF6F6
+
+[Incomplete]
+Fill       = FEFCFC
+Border     = D04038
+Text       = D04038
+
+[Error]
+Fill       = FF0000
+Border     = 000000
+Text       = FFFF80
+
+[Selected]
+Fill       = 2080D0
+Border     = 000000
+Text       = FCF6F6
+
+[Executing]
+Fill       = 008000
+Border     = 000000
+Text       = FCF6F6
+
+[Window]
+Fill       = FFF8F8
+Border     = D04038
+Text       = D04038
+
+[Header]
+Fill       = D05048
+Border     = 901008
+Text       = FEFCFC
+
+[Hover]
+Fill       = FFF8F8
+Border     = D04038
+Text       = D04038
+
+[Integer]
+Fill       = 4060C0
+Border     = 901008
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 901008
+Text       = FFFFFF
+
+[String]
+Fill       = D05048
+Border     = 901008
+Text       = FCF6F6
+
+[Boolean]
+Fill       = 408080
+Border     = 901008
+Text       = FFFFFF
+
+[Value]
+Fill       = FFF8F8
+Text       = B03028
+
+[Subscript]
+Fill       = D05048
+Text       = FEFCFC
+
+[Control]
+Fill       = FCEAEA
+Border     = D04038
+Text       = D04038
+
+[Field]
+Fill       = FFF8F8
+Border     = D04038
+Text       = D04038
+
+[Active]
+Fill       = D05048
+Border     = 901008
+Text       = FEFCFC
+
+[While]
+Fill       = D05048
+Border     = 901008
+Text       = FCF6F6
+
+[For]
+Fill       = D05048
+Border     = 901008
+Text       = FCF6F6
+
+[Do]
+Fill       = D05048
+Border     = 901008
+Text       = FCF6F6
+
+[Loop]
+Fill       = D05048
+Border     = 901008
+Text       = FCF6F6

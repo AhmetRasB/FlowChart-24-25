@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Strawberry
+Author     = Devin Cook
+About      = Who doesn't enjoy a delicious bowl of strawberries?
+Date       = 2023-12-21 23:19:19
+Version    = 4.0
+
+[Line]
+Fill       = FF8040
+Border     = 00C474
+
+[Page]
+Fill       = 004019
+Border     = 00C474
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = 008450
+Border     = 00E68A
+Text       = FFFFFF
+
+[Comment]
+Fill       = 004019
+Border     = 00C474
+Text       = FFFFFF
+
+[Input]
+Fill       = A20417
+Border     = ED4255
+Text       = FFFFFF
+
+[Output]
+Fill       = ED4255
+Border     = A20417
+Text       = FFFFFF
+
+[Declare]
+Fill       = A20417
+Border     = ED4255
+Text       = FFFFFF
+
+[Assign]
+Fill       = A20417
+Border     = ED4255
+Text       = FFFFFF
+
+[Terminator]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 004019
+
+[Call]
+Fill       = 008450
+Border     = 00E68A
+Text       = FFFFFF
+
+[If]
+Fill       = 008450
+Border     = 00E68A
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = E0E0E0
+Border     = 505050
+Text       = 000000
+
+[Error]
+Fill       = FF2020
+Border     = 400000
+Text       = FFFF40
+
+[Selected]
+Fill       = 2080D0
+Border     = 104070
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00C060
+Border     = 005030
+Text       = FFFFFF
+
+[Window]
+Fill       = 006039
+Border     = 004019
+Text       = FFFFFF
+
+[Header]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 004019
+
+[Hover]
+Fill       = 006039
+Border     = 002010
+Text       = FFFFFF
+
+[Integer]
+Fill       = 4060C0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[String]
+Fill       = A20417
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 008450
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 004019
+
+[Subscript]
+Fill       = 008450
+Text       = FFFFFF
+
+[Control]
+Fill       = 006039
+Border     = 008450
+Text       = FFFFFF
+
+[Field]
+Fill       = FFFFFF
+Border     = 00C474
+Text       = 004019
+
+[Active]
+Fill       = 008450
+Border     = 00E68A
+Text       = FFFFFF
+
+[While]
+Fill       = 008450
+Border     = 00E68A
+Text       = FFFFFF
+
+[For]
+Fill       = 008450
+Border     = 00E68A
+Text       = FFFFFF
+
+[Do]
+Fill       = 008450
+Border     = 00E68A
+Text       = FFFFFF
+
+[Loop]
+Fill       = 008450
+Border     = 00E68A
+Text       = FFFFFF

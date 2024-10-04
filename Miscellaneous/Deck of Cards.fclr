@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Deck of Cards
+Author     = Devin Cook
+About      = Time to play some poker... or, at least, solitaire.
+Date       = 2023-12-21 22:56:57
+Version    = 4.0
+
+[Line]
+Fill       = F8D848
+Border     = 485890
+
+[Page]
+Fill       = FFFFFF
+Border     = 485890
+Text       = 485890
+
+[Breakpoint]
+Fill       = F8D848
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = FFFEFE
+Border     = 485890
+Text       = 485890
+
+[Input]
+Fill       = 585858
+Border     = 000000
+Text       = FFFEFE
+
+[Output]
+Fill       = 585858
+Border     = 000000
+Text       = FFFEFE
+
+[Declare]
+Fill       = 585858
+Border     = 000000
+Text       = FFFEFE
+
+[Assign]
+Fill       = 585858
+Border     = 000000
+Text       = FFFEFE
+
+[Terminator]
+Fill       = C04020
+Border     = 000000
+Text       = FFFEFE
+
+[Call]
+Fill       = C04020
+Border     = 000000
+Text       = FFFEFE
+
+[If]
+Fill       = C04020
+Border     = 000000
+Text       = FFFEFE
+
+[Incomplete]
+Fill       = E0E0E0
+Border     = 505050
+Text       = 000000
+
+[Error]
+Fill       = F8D848
+Border     = 000000
+Text       = 000000
+
+[Selected]
+Fill       = 485890
+Border     = 000000
+Text       = FFFEFE
+
+[Executing]
+Fill       = 008040
+Border     = 000000
+Text       = FFFEFE
+
+[Window]
+Fill       = 008040
+Border     = 000000
+Text       = FFFEFE
+
+[Header]
+Fill       = 585858
+Border     = 000000
+Text       = FFFEFE
+
+[Hover]
+Fill       = F8F8F8
+Border     = C0C0C0
+Text       = 000000
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 008040
+Border     = 000000
+Text       = FFFEFE
+
+[Active]
+Fill       = FFFFFF
+Border     = 485890
+Text       = 485890
+
+[Field]
+Fill       = FFFFFF
+Border     = 485890
+Text       = 485890
+
+[While]
+Fill       = C04020
+Border     = 000000
+Text       = FFFEFE
+
+[For]
+Fill       = C04020
+Border     = 000000
+Text       = FFFEFE
+
+[Do]
+Fill       = C04020
+Border     = 000000
+Text       = FFFEFE
+
+[Loop]
+Fill       = C04020
+Border     = 000000
+Text       = FFFEFE

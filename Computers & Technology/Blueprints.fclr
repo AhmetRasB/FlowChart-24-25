@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Blueprints
+Author     = Devin Cook
+About      = Official blueprints in its white and blue glory.
+Date       = 2023-12-22 23:14:21
+Version    = 4.0
+
+[Line]
+Fill       = FF8040
+Border     = FFFFFF
+
+[Page]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Breakpoint]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Comment]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Input]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Output]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Declare]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Assign]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Terminator]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Call]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[If]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Incomplete]
+Fill       = 004080
+Border     = B0B0B0
+Text       = B0B0B0
+
+[Error]
+Fill       = C04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Executing]
+Fill       = 00A050
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 2060A0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Header]
+Fill       = 2060A0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Hover]
+Fill       = 2060A0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Integer]
+Fill       = 5090D0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Value]
+Fill       = 004080
+Text       = FFFFFF
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = 2060A0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Field]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Active]
+Fill       = 60A0E0
+Border     = FFFFFF
+Text       = FFFFFF
+
+[While]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[For]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Do]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Loop]
+Fill       = 004080
+Border     = FFFFFF
+Text       = FFFFFF

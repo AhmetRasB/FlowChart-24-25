@@ -1,0 +1,143 @@
+﻿[Main]
+Name    = Liquid Crystal
+Author  = Devin Cook
+About   = A classic technology that is still going strong!
+Date    = 2022-12-23 01:38:02
+Version = 2.22
+
+[Line]
+Fill   = 809080
+Border = 405040
+
+[Page]
+Fill   = C0D8A8
+Border = 405040
+Text   = 405040
+
+[Breakpoint]
+Fill   = 405040
+Border = C0D8A8
+Text   = 000000
+
+[Comment]
+Fill   = C0D8A8
+Border = 405040
+Text   = 405040
+
+[Input]
+Fill   = 405040
+Border = C0D8A8
+Text   = C0D8A8
+
+[Output]
+Fill   = 405040
+Border = C0D8A8
+Text   = C0D8A8
+
+[Declare]
+Fill   = 405040
+Border = C0D8A8
+Text   = C0D8A8
+
+[Assign]
+Fill   = 405040
+Border = C0D8A8
+Text   = C0D8A8
+
+[Terminator]
+Fill   = 405040
+Border = C0D8A8
+Text   = C0D8A8
+
+[Call]
+Fill   = 405040
+Border = C0D8A8
+Text   = C0D8A8
+
+[If]
+Fill   = 405040
+Border = C0D8A8
+Text   = C0D8A8
+
+[Loop]
+Fill   = 405040
+Border = C0D8A8
+Text   = C0D8A8
+
+[Incomplete]
+Fill   = C0D8A8
+Border = 405040
+Text   = 405040
+
+[Error]
+Fill   = 504040
+Border = C0D8A8
+Text   = C0D8A8
+
+[Selected]
+Fill   = 404050
+Border = C0D8A8
+Text   = C0D8A8
+
+[Executing]
+Fill   = A0B888
+Border = 405040
+Text   = 405040
+
+[Window]
+Fill   = 405040
+Border = 405040
+Text   = C0D8A8
+
+[Header]
+Fill   = 405040
+Border = 405040
+Text   = C0D8A8
+
+[Hover]
+Fill   = C0D8A8
+Border = 405040
+Text   = 405040
+
+[Integer]
+Fill   = 4060C0
+Border = 405040
+Text   = FFFFFF
+
+[Real]
+Fill   = 804080
+Border = 405040
+Text   = FFFFFF
+
+[String]
+Fill   = A04040
+Border = 405040
+Text   = FFFFFF
+
+[Boolean]
+Fill   = 408080
+Border = 405040
+Text   = FFFFFF
+
+[Value]
+Fill = C0D8A8
+Text = 405040
+
+[Subscript]
+Fill = 405040
+Text = C0D8A8
+
+[Control]
+Fill   = 405040
+Border = C0D8A8
+Text   = C0D8A8
+
+[Field]
+Fill   = C0D8A8
+Border = 405040
+Text   = 405040
+
+[Active]
+Fill   = C0D8A8
+Border = 405040
+Text   = 405040

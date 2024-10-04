@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Terminal
+Author     = Devin Cook
+About      = Connecting to an old terminal.........
+Date       = 2023-12-21 23:08:43
+Version    = 4.0
+
+[Line]
+Fill       = A0FFA0
+Border     = 20FF20
+
+[Page]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Breakpoint]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Comment]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Input]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Output]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Declare]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Assign]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Terminator]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Call]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[If]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Incomplete]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Error]
+Fill       = 00A000
+Border     = 100808
+Text       = 100808
+
+[Selected]
+Fill       = 20FF20
+Border     = 081008
+Text       = 081008
+
+[Executing]
+Fill       = 20FF20
+Border     = 081008
+Text       = 081008
+
+[Window]
+Fill       = 002000
+Border     = 000000
+Text       = 20FF20
+
+[Header]
+Fill       = 20FF20
+Border     = 20FF20
+Text       = 080808
+
+[Hover]
+Fill       = 081008
+Border     = 008000
+Text       = 20FF20
+
+[Integer]
+Fill       = 4060C0
+Border     = 20FF20
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 20FF20
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 20FF20
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 20FF20
+Text       = FFFFFF
+
+[Value]
+Fill       = 081008
+Text       = 20FF20
+
+[Subscript]
+Fill       = 005500
+Text       = 20FF20
+
+[Control]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Field]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Active]
+Fill       = 20FF20
+Border     = 20FF20
+Text       = 080808
+
+[While]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[For]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Do]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20
+
+[Loop]
+Fill       = 081008
+Border     = 20FF20
+Text       = 20FF20

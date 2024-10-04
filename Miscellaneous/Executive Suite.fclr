@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Executive Suite
+Author     = Devin Cook
+About      = Cigars, money, and guilded walls.
+Date       = 2023-12-21 22:58:58
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = C4C8D0
+
+[Page]
+Fill       = 202020
+Border     = C4C8D0
+Text       = C4C8D0
+
+[Breakpoint]
+Fill       = F0D47C
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 202020
+Border     = C4C8D0
+Text       = C4C8D0
+
+[Input]
+Fill       = C4C8D0
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = F0D47C
+Border     = 000000
+Text       = 303030
+
+[Declare]
+Fill       = C4C8D0
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = C4C8D0
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = F0D47C
+Border     = 000000
+Text       = 303030
+
+[Call]
+Fill       = F0D47C
+Border     = 000000
+Text       = 303030
+
+[If]
+Fill       = F0D47C
+Border     = 000000
+Text       = 303030
+
+[Incomplete]
+Fill       = 383838
+Border     = CAC8C4
+Text       = CAC8C4
+
+[Error]
+Fill       = C05050
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = 2080D0
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = 60A080
+Border     = 000000
+Text       = FFFFFF
+
+[Window]
+Fill       = 383838
+Border     = 000000
+Text       = CAC8C4
+
+[Header]
+Fill       = 484848
+Border     = 000000
+Text       = CAC8C4
+
+[Hover]
+Fill       = 686868
+Border     = 000000
+Text       = CAC8C4
+
+[Integer]
+Fill       = 6080A0
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = 806080
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = A06060
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 608080
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = DAD8D4
+Text       = 000000
+
+[Subscript]
+Fill       = C4C8D0
+Text       = 000000
+
+[Control]
+Fill       = 484848
+Border     = 000000
+Text       = CAC8C4
+
+[Active]
+Fill       = 787878
+Border     = 000000
+Text       = CAC8C4
+
+[Field]
+Fill       = DAD8D4
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = F0D47C
+Border     = 000000
+Text       = 303030
+
+[For]
+Fill       = F0D47C
+Border     = 000000
+Text       = 303030
+
+[Do]
+Fill       = F0D47C
+Border     = 000000
+Text       = 303030
+
+[Loop]
+Fill       = F0D47C
+Border     = 000000
+Text       = 303030

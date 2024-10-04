@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Old Movie
+Author     = Devin Cook
+About      = The Three Stooges, Laurel and Hardy, and so many more...
+Date       = 2023-12-21 23:20:21
+Version    = 4.0
+
+[Line]
+Fill       = A6AAB4
+Border     = 060A14
+
+[Page]
+Fill       = F2F4F8
+Border     = 060A14
+Text       = 060A14
+
+[Breakpoint]
+Fill       = 868A94
+Border     = 060A16
+Text       = E6EAF4
+
+[Comment]
+Fill       = F2F4F8
+Border     = 060A14
+Text       = 060A14
+
+[Input]
+Fill       = A6AAB4
+Border     = 060A14
+Text       = E6EAF4
+
+[Output]
+Fill       = 868A94
+Border     = 060A16
+Text       = E6EAF4
+
+[Declare]
+Fill       = A6AAB4
+Border     = 060A14
+Text       = E6EAF4
+
+[Assign]
+Fill       = A6AAB4
+Border     = 060A14
+Text       = E6EAF4
+
+[Terminator]
+Fill       = 666A74
+Border     = 060A16
+Text       = E6EAF4
+
+[Call]
+Fill       = B6BAC4
+Border     = 060A16
+Text       = F6FAFF
+
+[If]
+Fill       = B6BAC4
+Border     = 060A16
+Text       = F6FAFF
+
+[Incomplete]
+Fill       = F2F4F8
+Border     = 060A14
+Text       = 060A14
+
+[Error]
+Fill       = C0A0A0
+Border     = 605050
+Text       = FFFFFF
+
+[Selected]
+Fill       = A0B0D0
+Border     = 505868
+Text       = FFFFFF
+
+[Executing]
+Fill       = A0C0B0
+Border     = 508058
+Text       = FFFFFF
+
+[Window]
+Fill       = E2E4E8
+Border     = 060A14
+Text       = 060A14
+
+[Header]
+Fill       = 666A74
+Border     = 060A16
+Text       = E6EAF4
+
+[Hover]
+Fill       = F2F4F8
+Border     = 060A14
+Text       = 060A14
+
+[Integer]
+Fill       = 4060C0
+Border     = 2A2A28
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 2A2A28
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 2A2A28
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 2A2A28
+Text       = FFFFFF
+
+[Value]
+Fill       = F2F4F8
+Text       = 666A74
+
+[Subscript]
+Fill       = B6BAC4
+Text       = F6FAFF
+
+[Control]
+Fill       = 666A74
+Border     = 060A16
+Text       = E6EAF4
+
+[Field]
+Fill       = F2F4F8
+Border     = 060A14
+Text       = 666A74
+
+[Active]
+Fill       = F2F4F8
+Border     = 060A14
+Text       = 666A74
+
+[While]
+Fill       = B6BAC4
+Border     = 060A16
+Text       = F6FAFF
+
+[For]
+Fill       = B6BAC4
+Border     = 060A16
+Text       = F6FAFF
+
+[Do]
+Fill       = B6BAC4
+Border     = 060A16
+Text       = F6FAFF
+
+[Loop]
+Fill       = B6BAC4
+Border     = 060A16
+Text       = F6FAFF

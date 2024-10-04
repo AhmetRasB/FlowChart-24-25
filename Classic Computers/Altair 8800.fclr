@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Altair 8800
+Author     = Ed Roberts (scheme by Devin Cook)
+About      = The colors of the historic MITS Altair 8800. It is considered the first personal computer.
+Date       = 2023-12-21 23:03:06
+Version    = 4.0
+
+[Line]
+Fill       = F4F480
+Border     = F4F4F0
+
+[Page]
+Fill       = 585854
+Border     = F4F4F0
+Text       = F4F4F0
+
+[Breakpoint]
+Fill       = E8043C
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 585854
+Border     = F4F4F0
+Text       = F4F4F0
+
+[Input]
+Fill       = F4F4F0
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = 7CA8C8
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = F4F4F0
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = F4F4F0
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = C4C4C0
+Border     = 000000
+Text       = 000000
+
+[Call]
+Fill       = 7CA8C8
+Border     = 000000
+Text       = 000000
+
+[If]
+Fill       = 7CA8C8
+Border     = 000000
+Text       = 000000
+
+[Incomplete]
+Fill       = 585755
+Border     = D4D4D0
+Text       = D4D4D0
+
+[Error]
+Fill       = E8043C
+Border     = 000000
+Text       = FFFFFF
+
+[Selected]
+Fill       = F4F480
+Border     = 000000
+Text       = 000000
+
+[Executing]
+Fill       = 60120C
+Border     = 000000
+Text       = EAA8B1
+
+[Window]
+Fill       = 585854
+Border     = 282824
+Text       = F4F4F0
+
+[Header]
+Fill       = C4C4C0
+Border     = 000000
+Text       = 000000
+
+[Hover]
+Fill       = 787874
+Border     = B8B8B4
+Text       = F4F4F0
+
+[Integer]
+Fill       = 4060C0
+Border     = 002060
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 402040
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 600000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 004040
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000000
+
+[Subscript]
+Fill       = E0E0E0
+Text       = 000000
+
+[Control]
+Fill       = C4C4C0
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = F4F4F0
+Text       = 000000
+
+[Active]
+Fill       = E8043C
+Border     = 000000
+Text       = 000000
+
+[While]
+Fill       = 7CA8C8
+Border     = 000000
+Text       = 000000
+
+[For]
+Fill       = 7CA8C8
+Border     = 000000
+Text       = 000000
+
+[Do]
+Fill       = 7CA8C8
+Border     = 000000
+Text       = 000000
+
+[Loop]
+Fill       = 7CA8C8
+Border     = 000000
+Text       = 000000

@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = TFLOW Software
+Author     = Zeev Kotzer
+About      = The colors from the 1995 DOS flowchart-based programming language.
+Date       = 2023-12-21 23:11:18
+Version    = 4.0
+
+[Line]
+Fill       = FFFFFF
+Border     = 000000
+
+[Page]
+Fill       = 5555FF
+Border     = FFFFFF
+Text       = FFFF55
+
+[Breakpoint]
+Fill       = FF5555
+Border     = 000000
+Text       = 000000
+
+[Comment]
+Fill       = 5555FF
+Border     = FFFFFF
+Text       = FFFF55
+
+[Input]
+Fill       = 55FF55
+Border     = 000000
+Text       = 000000
+
+[Output]
+Fill       = 55FF55
+Border     = 000000
+Text       = 000000
+
+[Declare]
+Fill       = FFFF55
+Border     = 000000
+Text       = 000000
+
+[Assign]
+Fill       = FFFF55
+Border     = 000000
+Text       = 000000
+
+[Terminator]
+Fill       = AA0000
+Border     = 000000
+Text       = FFFFFF
+
+[Call]
+Fill       = FFFFFF
+Border     = 000000
+Text       = 000055
+
+[If]
+Fill       = 55FFFF
+Border     = 000000
+Text       = 000055
+
+[Incomplete]
+Fill       = 555555
+Border     = 000000
+Text       = FFFFFF
+
+[Error]
+Fill       = AA0000
+Border     = FFFF55
+Text       = FFFF55
+
+[Selected]
+Fill       = 0000AA
+Border     = 000000
+Text       = FFFFFF
+
+[Executing]
+Fill       = AAAAAA
+Border     = FFFFFF
+Text       = FFFFFF
+
+[Window]
+Fill       = 0000AA
+Border     = 000000
+Text       = FFFFFF
+
+[Header]
+Fill       = 0000AA
+Border     = 000000
+Text       = FFFFFF
+
+[Hover]
+Fill       = AAAAAA
+Border     = 000000
+Text       = 000000
+
+[Integer]
+Fill       = 0000AA
+Border     = 000000
+Text       = FFFFFF
+
+[Real]
+Fill       = AA00AA
+Border     = 000000
+Text       = FFFFFF
+
+[String]
+Fill       = AA0000
+Border     = 000000
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 00AAAA
+Border     = 000000
+Text       = FFFFFF
+
+[Value]
+Fill       = FFFFFF
+Text       = 000055
+
+[Subscript]
+Fill       = AAAAAA
+Text       = 000000
+
+[Control]
+Fill       = CCCCCC
+Border     = 000000
+Text       = 000000
+
+[Field]
+Fill       = FFFFFF
+Border     = FFFFFF
+Text       = 000055
+
+[Active]
+Fill       = 55FFFF
+Border     = 000000
+Text       = 000055
+
+[While]
+Fill       = FF55FF
+Border     = 000000
+Text       = 000055
+
+[For]
+Fill       = FF55FF
+Border     = 000000
+Text       = 000055
+
+[Do]
+Fill       = FF55FF
+Border     = 000000
+Text       = 000055
+
+[Loop]
+Fill       = FF55FF
+Border     = 000000
+Text       = 000055

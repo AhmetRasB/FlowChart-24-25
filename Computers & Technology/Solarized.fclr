@@ -1,0 +1,158 @@
+﻿[Main]
+Name       = Solarized
+Author     = Ethan Schoonover
+About      = Ethan Schoonover spent over 16 months selecting the most used colors in computer science. This color scheme is a favorite amongst computer programmers.
+Date       = 2023-12-21 23:13:09
+Version    = 4.0
+
+[Line]
+Fill       = FDF6E3
+Border     = 788E95
+
+[Page]
+Fill       = 003642
+Border     = FDF6E3
+Text       = 93A1A1
+
+[Breakpoint]
+Fill       = DC322F
+Border     = 002B36
+Text       = 002B36
+
+[Comment]
+Fill       = 003642
+Border     = 93A1A1
+Text       = 93A1A1
+
+[Input]
+Fill       = 268BD2
+Border     = 002B36
+Text       = FDF6E3
+
+[Output]
+Fill       = 2AA198
+Border     = 002B36
+Text       = FDF6E3
+
+[Declare]
+Fill       = B58900
+Border     = 002B36
+Text       = FDF6E3
+
+[Assign]
+Fill       = B58900
+Border     = 002B36
+Text       = FDF6E3
+
+[Terminator]
+Fill       = 6C71C4
+Border     = 002B36
+Text       = FDF6E3
+
+[Call]
+Fill       = 6C71C4
+Border     = 002B36
+Text       = FDF6E3
+
+[If]
+Fill       = D33682
+Border     = 002B36
+Text       = FDF6E3
+
+[Incomplete]
+Fill       = 93A1A1
+Border     = 002B36
+Text       = 002B36
+
+[Error]
+Fill       = DC322F
+Border     = 002B36
+Text       = FDF6E3
+
+[Selected]
+Fill       = FDF6E3
+Border     = 002B36
+Text       = 002B36
+
+[Executing]
+Fill       = 859900
+Border     = 002B36
+Text       = FDF6E3
+
+[Window]
+Fill       = 002B36
+Border     = 586E75
+Text       = 93A1A1
+
+[Header]
+Fill       = 002B36
+Border     = 586E75
+Text       = 93A1A1
+
+[Hover]
+Fill       = 002B36
+Border     = 586E75
+Text       = 93A1A1
+
+[Integer]
+Fill       = 4060C0
+Border     = 002B36
+Text       = FFFFFF
+
+[Real]
+Fill       = 804080
+Border     = 002B36
+Text       = FFFFFF
+
+[String]
+Fill       = A04040
+Border     = 002B36
+Text       = FFFFFF
+
+[Boolean]
+Fill       = 408080
+Border     = 002B36
+Text       = FFFFFF
+
+[Value]
+Fill       = FDF6E3
+Text       = 002B36
+
+[Subscript]
+Fill       = 93A1A1
+Text       = 002B36
+
+[Control]
+Fill       = 002B36
+Border     = 586E75
+Text       = 93A1A1
+
+[Field]
+Fill       = 003642
+Border     = 93A1A1
+Text       = 93A1A1
+
+[Active]
+Fill       = 93A1A1
+Border     = 002B36
+Text       = 002B36
+
+[While]
+Fill       = D24E01
+Border     = 002B36
+Text       = FDF6E3
+
+[For]
+Fill       = D24E01
+Border     = 002B36
+Text       = FDF6E3
+
+[Do]
+Fill       = D24E01
+Border     = 002B36
+Text       = FDF6E3
+
+[Loop]
+Fill       = D24E01
+Border     = 002B36
+Text       = FDF6E3
